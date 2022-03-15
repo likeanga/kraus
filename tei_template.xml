@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline">
+               <title level="a">Title</title>
+               <author>Author</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID"/>
+               <ref type="shortlink" target=""/>
+               <ref type="fulllink" target=""/>
+            </bibl>
+            <bibl source="#wienbib">
+               <title>Title</title>
+               <author>Autor</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID"/>
+               <ref type="fulllink" target=""/>
+               <ref type="opaclink" target=""/>
+               <ref type="pdf" target=""/>
+            </bibl>
+            <bibl source="#fackel">
+               <note source="#krausonline"/>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue"/>
+               <date></date>
+               <biblScope unit="page"/>
+               <!-- Permanlink must be checked! -->
+            </bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc/>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract>
+           <p/>
+        </abstract>
+        <langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time/>
+              <date/>
+              <locale>
+                 <placeName ref=""/>
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person/>
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="krausonline">
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
