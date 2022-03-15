@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-11-01">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 181. Vorlesung am 01.11.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7710">
+               <title level="a">181. Vorlesung am 01.11.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7710</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7710" type="shortlink">https://www.kraus.wienbibliothek.at/node/7710</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/181-vorlesung-am-01111920" type="fulllink">https://www.kraus.wienbibliothek.at/content/181-vorlesung-am-01111920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132513">
+               <title>Vorlesung Karl Kraus. Wien, 1920.11.01</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132513</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132513" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132513</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15964982" type="opaclink">https://permalink.obvsg.at/wbr/AC15964982</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132513" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132513</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_8b8819a0">
+               <note source="#krausonline_7710">Die Fackel 554-556, 11.1920, 23-24</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">554-556</biblScope>
+               <date />
+               <biblScope unit="page">23-24</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/554-556,023">https://fackel.oeaw.ac.at/f/554-556,023</ref><ref target="https://fackel.oeaw.ac.at/f/554-556,024">https://fackel.oeaw.ac.at/f/554-556,024</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für die Friend's Relief Mission - Sammlung für tuberkulöse Wiener Kinder) und auf Kraus' nächste Vorlesungen</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7710">
+           <p />
+        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 1. November, halb 7 Uhr:
+	I. Brief an die Friends’ Relief Mission (Englisch-Amerikanische Hilfsmission der Gesellschaft der Freunde)). — Klarstellung [Manuskript]. — Die letzten Tage der Menschheit [zum Teil Manuskript]: Was suchen wir in Albanien (Der Optimist und der Nörgler) / Während der Vorstellung in einem Vorstadttheater / Ein Generalstäbler am Telephon / Im Landesverteidigungsministerium / Im Kriegsministerium / Ringstraßencafé / Der Oberstleutnant des Generalstabs Maderer von Mullatschak / Während der Somme-Schlacht / Zwei Generale / Erzherzog Friedrich [Auf dem Programm die Bemerkung: Die Szene, die immer wiederholt werden muß, solange die letzte Sehnsucht nach jener Monarchie nicht erstickt ist.] / Wachstube. — Empfang durch die Kriegsberichterstatterin. — Aus der Gefangenschaft). — Absage.</p><p>II. Der Bauer, der Hund und der Soldat. — Ich habe einen Blick gesehn. — Jugend. — Inschriften: Militarismus. Franz Joseph. Der Letzte. Sprachenpflege. Das siebente Gebot. Wohnungswechsel. Mord in Ungarn. — Géza von Lakkati de Nemesfalva et Kutjafelegfaluszég. — Erscheinungen aus der Schlußszene des V. Aktes: Die Gasmasken. Die erfrorenen Soldaten. Der alte serbische Bauer. Die Flammen. Die zwölfhundert Pferde. Die Lusitania-Kinder. Die Kriegshunde. Der tote Wald. Die Mutter. Das österreichische Antlitz. Die Raben. Die weiblichen Hilfskräfte.</p><p>Ein Teil des Ertrags dieser Vorlesung für die Friends’ Relief Mission (Sammlung für tuberkulöse Wiener Kinder), Wien, I. Singerstraße 16.</p><p>[Die Fackel 554-556, 11.1920, 23-24] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132513"><p>Programm im Mittleren Konzerthaussaal: Brief an die Friend's Relief Mission (Englisch-Amerikanische Hilfsmission der Gesellschaft der Freunde) (Manuskript) | Klarstellung (Manuskript) | Die letzten Tage der Menschheit (zum Teil Manuskript) | Empfang durch die Kriegsberichterstatterin (Manuskript) | Aus der Gefangenschaft (Manuskript) | Absage | Der Bauer, der Hund und der Soldat | Ich habe einen Blick gesehen | Jugend | Inschriften: Militarismus; Franz Joseph; Der Letzte; Sprachenpflege; Das siebente gebot; Wohnungswechsel; Mord in Ungarn | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég | Erscheinungen aus der Schlußszene des V. Aktes</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-11-01">01.11.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7710">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Brief an die Friends' Relief Mission (Englisch-Amerikanische Hilfsmission der Gesellschaft der Freunde)[Manuskript]</p><p>Klarstellung [Manuskript]</p><p>Die letzten Tage der Menschheit [zum Teil Manuskript]</p><p>Was suchen wir in Albanien (Der Optimist und der Nörgler)</p><p>Während der Vorstellung in einem Vorstadttheater </p><p>Ein Generalstäbler am Telephon </p><p>Im Landesverteidigungsministerium </p><p>Im Kriegsministerium </p><p>Ringstraßencafé</p><p>Der Oberstleutnant des Generalstabs Maderer von Mullatschak </p><p>Während der Somme-Schlacht </p><p>Zwei Generale </p><p>Erzherzog Friedrich [Die Szene, die immer wiederholt werden muß, solange die letzte Sehnsucht nach jener Monarchie nicht erstickt ist.]</p><p>Wachstube</p><p>Empfang durch die Kriegsberichterstatterin [Manuskript]</p><p>Aus der Gefangenschaft [Manuskript]</p><p>Absage</p><p>10 Minuten Pause</p><p>II.</p><p> </p><p>Der Bauer, der Hund und der Soldat</p><p>Ich habe einen Blick gesehn</p><p>Legende</p><p>Dichterschule</p><p>Jugend</p><p>Antwort an Rosa Luxemburg von einer Umsentimentalen [Maunskript]</p><p>Inschriften: Militarismus. Franz Joseph. Der Letzte. Sprachenpflege. Das siebente Gebot. Wohnungswechsel. Mord in Ungarn. </p><p>Géza von Lakkati de Nemesfalva et Kutjafelegfaluszég</p><p>Erscheinungen aus der Schlußszene des V. Aktes: Die Gasmasken. Die erfrorenen Soldaten. Der alte serbische Bauer. Die Flammen. Die zwölfhundert Pferde. Die Lusitania-Kinder. Die Kriegshunde. Der tote Wald. Die Mutter. Das österreichische Antlitz. Die Raben. Die weiblichen Hilfskräfte.</p><p>Änderung und Kürzung vorbehalten.</p><p>Ein Teil des Ertrags dieser Vorlesung für die Friends' Relief Mission (Sammlung für tuberkulöse Wiener Kinder), Wien, I. Singerstraße 16.</p><p>[...]</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

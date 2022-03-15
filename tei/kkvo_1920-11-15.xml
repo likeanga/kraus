@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-11-15">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 182. Vorlesung am 15.11.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7712">
+               <title level="a">182. Vorlesung am 15.11.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7712</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7712" type="shortlink">https://www.kraus.wienbibliothek.at/node/7712</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/182-vorlesung-am-15111920" type="fulllink">https://www.kraus.wienbibliothek.at/content/182-vorlesung-am-15111920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132517">
+               <title>Vorlesung Karl Kraus. Wien, 1920.11.15</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132517</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132517" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132517</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15914060" type="opaclink">https://permalink.obvsg.at/wbr/AC15914060</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132517" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132517</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_63594bc5">
+               <note source="#krausonline_7712">Die Fackel 554-556, 11.1920, 24</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">554-556</biblScope>
+               <date />
+               <biblScope unit="page">24</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/554-556,024">https://fackel.oeaw.ac.at/f/554-556,024</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für eine arme Familie in Floridsdorf, das "Haus des Kindes" und für die Englisch-Amerikanische Hilfsmission der Gesellschaft der Freunde) und auf Kraus' nächste Vorlesungen; Text "Aus Eckermanns Gesprächen mit Goethe"</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7712">
+           <p />
+        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 15. November, 3 Uhr:</p><p>I. Vorwort. — Pandora. Von Goethe.</p><p>II. Worte in Versen: Die Flamme der Epimeleia / Der Mann und das Wort / Kompetenz vor der Sprache / Der Reim / Abenteuer der Arbeit / Traum / Schnellzug / Hypnagogische Gestalten / Jugend / Wiedersehn mit Schmetterlingen / Meinem Franz Janowitz / (Zur Feier der Republik:) Der sterbende Soldat / Volkshymne [Manuskript].</p><p>Die Hälfte des Ertrags für eine arme Familie in Floridsdorf, für das »Haus des Kindes« und für die »Englisch-Amerikanische Hilfsmission der Gesellschaft der Freunde«.</p><p>[Die Fackel 554-556, 11.1920, 24] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132517"><p>Programm im Mittleren Konzerthaussaal: Vorwort | Pandora (Fragment) von Goethe | Worte in Versen: Die Flamme der Epimeleia; Der Mann und das Wort; Kompetenz vor der Sprache; Der Reim; Abenteuer der Arbeit; Traum; Schnellzug; Hypnagogische Gestalten; Jugend; Wiedersehn mit Schmetterlingen; Meinem Franz Janowitz; Zur Feier der Republik: Der sterbende Soldat; Volkshymne (Manuskript)</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-11-15">15.11.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7712">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Vorwort [Von der Schändung eines Verses der »Pandora« durch die Literaturhistoriker, mit Zitaten aus »Brot und Lüge« etc.]</p><p>Pandora (Fragment)</p><p>von Goethe</p><p>[...]</p><p>Aus Eckermanns Gesprächen mit Goethe, Dienstag den 21. Oktober 1823:</p><p>Ich war diesen Abend bei Goethe. Wir sprachen über die »Pandora«. Ich fragte ihn, ob man diese Dichtung wohl als ein Ganzes ansehen könne, oder ob noch etwas weiteres davon existiere. Er sagte, es sei weiter nichts vorhanden, er habe es nicht weiter gemacht, und zwar deswegen nicht, weil der Zuschnitt des ersten Teils so groß geworden, daß er später einen zweiten nicht habe durchführen können. Auch wäre das Geschriebene recht gut als ein Ganzes zu betrachten, weshalb er sich auch dabei beruhiget habe.</p><p>Ich sagte ihm, daß ich bei dieser schweren Dichtung erst nach und nach zum Verständnis durchgedrungen, nachdem ich sie so oft gelesen, daß ich sie nun fast auswendig wisse. Darüber lächelte Goethe. »Das glaube ich wohl«, sagte er, »es ist alles als wie ineinander gekeilt.«</p><p>10 Minuten Pause</p><p>II. Worte in Versen</p><p>Die Flamme der Epimeleia / Der Mann und das Wort / Kompetenz vor der Sprache / Der Reim / Abenteuer der Arbeit / Vor dem Einschlafen / Traum / Schnellzug / Hypnagogische Gestalten / Jugend / Wiedersehn mit Schmetterlingen / Meinem Franz Janowitz / (Zur Feier der Republik:) Der sterbende Soldat / Der Zeuge / Volkshymne [Manuskript].</p><p>Änderunge und Kürzung vorbehalten.</p><p>Die Hälfte des Ertrags für eine arme Familie in Floridsdorf, für das »Haus des Kindes« und für die »Englisch-Amerikanische Hilfsmission der Gesellschaft der Freunde«.</p><p>
+	[...]</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

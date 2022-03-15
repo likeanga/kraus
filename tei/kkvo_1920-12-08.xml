@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-12-08">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 185. Vorlesung am 08.12.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7718">
+               <title level="a">185. Vorlesung am 08.12.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7718</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7718" type="shortlink">https://www.kraus.wienbibliothek.at/node/7718</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/185-vorlesung-am-08121920" type="fulllink">https://www.kraus.wienbibliothek.at/content/185-vorlesung-am-08121920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132527">
+               <title>Vorlesung Karl Kraus. Wien, 1920.12.08</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132527</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132527" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132527</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15978624" type="opaclink">https://permalink.obvsg.at/wbr/AC15978624</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132527" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132527</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_5815cef4">
+               <note source="#krausonline_7718">Die Fackel 557-560, 01.1921, 31</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">557-560</biblScope>
+               <date />
+               <biblScope unit="page">31</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/557-560,031">https://fackel.oeaw.ac.at/f/557-560,031</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für die Internierten in Ungarn) und auf Kraus' nächste Vorlesungen; "Das Publikum wird ersucht, lieber zuhause zu bleiben als zu spät zu kommen"</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7718">
+           <p />
+        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 8. Dezember, 3 Uhr:</p><p>I. Die Gesellschaft der Feinde. — Die letzten Tage der Menschheit: Wachstube / Kastelruth / Monolog der Schalek und Chor der Offiziere / Lied des Roda Roda / Winter in den Karpathen / Der fliehende General, Nowotny von Eichensieg [aus der »Letzten Nacht«], mit Begleitung / Erzherzog Friedrich / Während der Vorstellung in einem Vorstadttheater. — Empfang durch die Kriegsberichterstatterin / Aus der Gefangenschaft. — Legende / Schnellzug. — Zur Darnachachtung. — Miserere.</p><p>II. Die Republik ist schuld / Franz Joseph / Der Letzte / Sprachenpflege / Umsturz / Restauration / Wohnungswechsel. — Szene der Generalstäbler / Feldpostbriefe (Der Optimist und der Nörgler). — Post festum. — Volkshymne.</p><p>Ein Teil des Ertrags für die Internierten in Ungarn (Sammelstelle Wien V. Rechte Wienzeile 97).</p><p>[Die Fackel 557-560, 01.1921, 31] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132527"><p>Programm im Mittleren Konzerthaussaal: Die Gesellschaft der Feinde (Manuskript) | Die letzten Tage der Menschheit | Inschriften: Franz Joseph; Der Letzte; Sprachenpflege; Umsturz | Die Republik ist schuld (Manuskript) | Restauration (Manuskript) | Die Generalstäbler | Feldpostbriefe (Der Optimist und der Nörgler) | Post festum | Volkshymne</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-12-08">08.12.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7718">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Die Gesellschaft der Feinde [Manuskript]</p><p>Die letzten Tage der Menschheit:</p><p>Wachstube </p><p>Kastelruth</p><p>Monolog der Schalek und Chor der Offiziere</p><p>Lied des Roda Roda</p><p>Winter in den Karpathen </p><p>Der fliehende General, Nowotny von Eichensieg [aus der »Letzten Nacht«], mit Begleitung</p><p>Erzherzog Friedrich [Die Szene, die immer wiederholt werden muß, solange die letzte Sehnsucht nach jener Monarchie nicht erstickt ist.]</p><p>Während der Vorstellung in einem Vorstadttheater</p><p>Empfang durch die Kriegsberichterstatterin</p><p>Aus der Gefangenschaft</p><p>Legende</p><p>Schnellzug</p><p>Zur Darnachachtung [Manuskript]</p><p>Miserere [Manuskript]</p><p>10 Minuten Pause</p><p>II.</p><p>Die Republik ist schuld</p><p>Inschriften: Franz Joseph / Der Letzte / Sprachenpflege / Umsturz / Restauration [Manuskript] / Wohnungswechsel</p><p>Die Generalstäbler </p><p>Feldpostbriefe (Der Optimist und der Nörgler)</p><p>Post festum</p><p>Volkshymne</p><p>Änderung und Kürzung vorbehalten.</p><p>Ein Teil des Ertrags für die Internierten in Ungarn (Sammelstelle Wien V. Rechte Wienzeile 97).</p><p>[...]</p><p>Auf dem Programm: Das Publikum wird ersucht, lieber zuhause zu bleiben, als zu spät zu kommen.</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

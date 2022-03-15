@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-04-06">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 165. Vorlesung am 06.04.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7680">
+               <title level="a">165. Vorlesung am 06.04.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7680</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7680" type="shortlink">https://www.kraus.wienbibliothek.at/node/7680</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/165-vorlesung-am-06041920" type="fulllink">https://www.kraus.wienbibliothek.at/content/165-vorlesung-am-06041920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132460">
+               <title>Vorlesung Karl Kraus. Wien, 1920.04.06</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132460</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132460" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132460</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15972657" type="opaclink">https://permalink.obvsg.at/wbr/AC15972657</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132460" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132460</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_50bdc2c1">
+               <note source="#krausonline_7680">Die Fackel 544-545, 06.1920, 14-15</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">544-545</biblScope>
+               <date />
+               <biblScope unit="page">14-15</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/544-545,014">https://fackel.oeaw.ac.at/f/544-545,014</ref><ref target="https://fackel.oeaw.ac.at/f/544-545,015">https://fackel.oeaw.ac.at/f/544-545,015</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift; Bl. 1r: "Der Reinertrag (K 2470,96) wurde dem Fonds für die Befreiung der Kriegsgefangenen zugeführt."</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7680">
+           <p />
+        <p>[Karl Kraus las im Großer Musikvereinssaal für die Arbeiterschaft Wiens am] 6. April, 7 Uhr:</p><p>I.: Weltgericht / Aus: Die letzten Tage der Menschheit: IV 52 (Militärspital); V 38 (Der Blinde); V 31 und aus III 16 (Erzherzog Friedrich) / Der sterbende Soldat / Der Bauer, der Hund und der Soldat / Die Ballade vom Papagei / Nibelungentreue.</p><p>II.: I 7 (Elfriede Ritter); III 17 (Der Hauptmann im Landesverteidigungsministerium); III 18 (Der Hauptmann im Kriegministerium); V 5 (Zwei Generale); IV 19 (Viktualienhandlung); V 45 (Die Generalstäbler); V 35 (Militärgericht) / Géza von Lakkati de Némesfalva et Kutjafelegfaluszég / Der Zeuge (Fluch des sterbenden Soldaten).</p><p>Der Reinertrag (K 2470.96) wurde dem Fonds für die Befreiung der Kriegsgefangenen zugeführt.</p><p>[Die Fackel 544-545, 06.1920, 14-15] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132460"><p>Programm im Großer Musikvereinssaal (Für die Arbeiterschaft Wiens): Weltgericht | Aus: Die letzten Tage der Menschheit | Der sterbende Soldat | Der Bauer, der Hund und der Soldat | Die Ballade vom Papagei | Nibelungentreue | Aus: Die letzten Tage der Menschheit | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég | Der Zeuge (Fluch des sterbenden Soldaten)</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-04-06">06.04.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7680">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Weltgericht</p><p>Aus: Die letzten Tage der Menschheit: IV 52 (Militärspital);</p><p>V 38 (Der Blinde);</p><p>V 31 und aus III 16 (Erzherzog Friedrich)</p><p>Der sterbende Soldat</p><p>Der Bauer, der Hund und der Soldat</p><p>Die Ballade vom Papagei</p><p>Nibelungentreue</p><p>II.</p><p>I 7 (Elfriede Ritter); III 17 (Der Hauptmann im Landesverteidigungsministerium); III 18 (Der Hauptmann im Kriegministerium); V 5 (Zwei Generale); IV 19 (Viktualienhandlung); V 45 (Die Generalstäbler); V 35 (Militärgericht)</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p><p>Der Zeuge (Fluch des sterbenden Soldaten)</p><p>Der Reinertrag (K 2470.96) wurde dem Fonds für die Befreiung der Kriegsgefangenen zugeführt.</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

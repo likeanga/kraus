@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-06-14">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 177. Vorlesung am 14.06.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7702">
+               <title level="a">177. Vorlesung am 14.06.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7702</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7702" type="shortlink">https://www.kraus.wienbibliothek.at/node/7702</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/177-vorlesung-am-14061920" type="fulllink">https://www.kraus.wienbibliothek.at/content/177-vorlesung-am-14061920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132499">
+               <title>Vorlesung Karl Kraus. Prag, 1920.06.14</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132499</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132499" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132499</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15957534" type="opaclink">https://permalink.obvsg.at/wbr/AC15957534</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132499" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132499</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_adbf2e02">
+               <note source="#krausonline_7702">Die Fackel 546-550, 07.1920, 5</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">546-550</biblScope>
+               <date />
+               <biblScope unit="page">5</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/546-550,005">https://fackel.oeaw.ac.at/f/546-550,005</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7702">
+           <p />
+        <p>[Karl Kraus las im Mozarteum am] 14. Juni, ½8 Uhr:</p><p>I. Peter Altenberg / Inschriften: Hugo von Hofmannsthal (II); Der Bericht vom Tag; Der Flieger; Die Instrumente; Wien im Krieg; Ersatz; Verkehrte Götterwelt; Mit Gott; Die Werte; Bunte Welt; Jahreszeit; Unterricht; Die Zwangslage; Den Psychoanalytikern; Deutsche Literaturgeschichte; Der Vorleser / Grabschrift / Beim Anblick einer Schwangeren / Als Bobby starb / Verwandlung (II) / Unter dem Wasserfall / Wollust / Traum vom Fliegen / Legende / Jugend / Raimund: Der Bauer als Millionär II 4 bis teilweise 8; Monolog und Lied des Valentin.</p><p>II. Schluß des »Nachrufs« (mit Vorbemerkung) / Shakespeare: Heinrich VI. dritter Teil II 5 / Die Ballade vom Papagei / Inschriften: Sprachenpflege; Umsturz; Nibelungentreue / Der sterbende Soldat / Der Zeuge / Zum ewigen Frieden. (Begleitung: Dr. Otto
+	Janowitz).</p><p>[Die Fackel 546-550, 07.1920, 5] - zitiert nach Austrian Academy Corpus</p></abstract>
+        <abstract source="#wienbib_1132499"><p>Programm im Mozarteum: Peter Altenberg | Inschriften: Hugo von Hofmannsthal (II.) ; Der Bericht vom Tag; Der Flieger; Die Instrumente; Wien im Krieg; Ersatz; Verkehrte Götterwelt; Mit Gott; Die Werte; Bunte Welt; Jahreszeit; Unterricht; Die Zwangslage; Den Psychoanalytikern; Deutsche Literaturgeschichte; Der Vorleser | Grabschrift | Beim Anblick einer Schwangeren | Als Bobby starb | Verwandlung (II) | Unter dem Wasserfall | Wollust | Traum vom Fliegen | Legende | Jugend | Raimund: Der Bauer als Millionär; Monolog und Lied des Valentin | Schluss des "Nachrufs" (mit Vorbemerkung) | Shakespeare: Heinrich VI. | Die Ballade vom Papagei | Inschriften: Sprachenpflege; Umsturz; Nibelungentreue | Der sterbende Soldat | Der Zeuge | Zum ewigen Frieden</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-06-14">14.06.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7702">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Peter Altenberg </p><p>Inschriften: Hugo von Hofmannsthal (II); Der Bericht vom Tag; Der Flieger; Die Instrumente; Wien im Krieg; Ersatz; Verkehrte Götterwelt; Mit Gott; Die Werte; Bunte Welt; Jahreszeit; Unterricht; Die Zwangslage; Den Psychoanalytikern; Deutsche Literaturgeschichte; Der Vorleser </p><p>Grabschrift</p><p>Beim Anblick einer Schwangeren</p><p>Als Bobby starb </p><p>Verwandlung (II) </p><p>Unter dem Wasserfall </p><p>Wollust</p><p>Traum vom Fliegen</p><p>Legende</p><p>Jugend</p><p>Raimund: Der Bauer als Millionär II 4 bis teilweise 8</p><p>Monolog und Lied des Valentin.</p><p>II.</p><p>Schluß des »Nachrufs« (mit Vorbemerkung) </p><p>Shakespeare: Heinrich VI. dritter Teil II 5 </p><p>Die Ballade vom Papagei </p><p>Inschriften: Sprachenpflege; Umsturz; Nibelungentreue </p><p>Der sterbende Soldat </p><p>Der Zeuge </p><p>Zum ewigen Frieden.</p><p>(Begleitung: Dr. Otto Janowitz)</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

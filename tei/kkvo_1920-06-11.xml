@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-06-11">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 175. Vorlesung am 11.06.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7698">
+               <title level="a">175. Vorlesung am 11.06.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7698</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7698" type="shortlink">https://www.kraus.wienbibliothek.at/node/7698</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/175-vorlesung-am-11061920" type="fulllink">https://www.kraus.wienbibliothek.at/content/175-vorlesung-am-11061920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132492">
+               <title>Vorlesung Karl Kraus. Prag, 1920.06.11</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132492</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132492" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132492</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15986008" type="opaclink">https://permalink.obvsg.at/wbr/AC15986008</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132492" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132492</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_9d882fac">
+               <note source="#krausonline_7698">Die Fackel 546-550, 07.1920, 4</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">546-550</biblScope>
+               <date />
+               <biblScope unit="page">4</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/546-550,004">https://fackel.oeaw.ac.at/f/546-550,004</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7698">
+           <p />
+        <p>[Karl Kraus las im Mozarteum am] 11. Juni, ½8 Uhr:</p><p>I. Vorwort. — Aus den »Letzten Tagen der Menschheit«: Militärspital; Die beiden Generale; Erzherzog Friedrich; Der blinde Soldat; Der Auditor / Der sterbende Soldat / Aus dem Monolog des Nörglers.</p><p>II. Kriegsarchiv (mit Vorbemerkung); Die Schalek und Chor der Offiziere / Die Ballade vom Papagei / Der Tod des alten Biach (mit Vorbemerkung) / Entree des Roda Roda etc., der Generalstäbler/ Inschriften: Das siebente Gebot; Sprachenpflege; Felix Austria;
+	Schlechter Tausch; Mord in Ungarn / Géza von Lakkati de Némesfalva et Kutjafelegfaluszég / Inschriften: Umsturz; Immer feste druff; Nibelungentreue. (Begleitung: Dr. Otto Janowitz).</p><p>[Die Fackel 546-550, 07.1920, 4] - zitiert nach Austrian Academy Corpus</p></abstract>
+        <abstract source="#wienbib_1132492"><p>Programm im Mozarteum: Vorwort | Aus den "Letzten Tagen der Menschheit" | Der sterbende Soldat | Aus dem Monolog des Nörglers | Kriegsarchiv (mit Vorbemerkung) | Die Schalek und der Chor der Offiziere | Die Ballade vom Papagei | Der Tod des alten Biach (mit Vorbemerkung) | Entree des Roda Roda etc., der Generalstabler | Inschriften: Das siebente Gebot; Sprachenpflege; Felix Austria; Schlechter Tausch; Mord in Ungarn | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég | Inschriften: Umsturz; Immer feste druff; Nibelungentreue</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-06-11">11.06.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7698">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Vorwort</p><p>Aus den »Letzten Tagen der Menschheit«: Militärspital; Die beiden Generale; Erzherzog Friedrich; Der blinde Soldat; Der Auditor </p><p>Der sterbende Soldat </p><p>Aus dem Monolog des Nörglers</p><p>II.</p><p>Kriegsarchiv (mit Vorbemerkung)</p><p>Die Schalek und Chor der Offiziere</p><p>Die Ballade vom Papagei </p><p>Der Tod des alten Biach (mit Vorbemerkung) </p><p>Entree des Roda Roda etc., der Generalstäbler/</p><p>Inschriften: Das siebente Gebot; Sprachenpflege; Felix Austria; Schlechter Tausch; Mord in Ungarn</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég </p><p>Inschriften: Umsturz; Immer feste druff; Nibelungentreue</p><p>(Begleitung Dr. Otto Janowitz)</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

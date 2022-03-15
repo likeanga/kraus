@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-03-14">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 163. Vorlesung am 14.03.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7676">
+               <title level="a">163. Vorlesung am 14.03.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7676</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7676" type="shortlink">https://www.kraus.wienbibliothek.at/node/7676</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/163-vorlesung-am-14031920" type="fulllink">https://www.kraus.wienbibliothek.at/content/163-vorlesung-am-14031920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132453">
+               <title>Vorlesung Karl Kraus. Wien, 1920.03.14</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132453</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132453" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132453</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15976631" type="opaclink">https://permalink.obvsg.at/wbr/AC15976631</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132453" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132453</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_f770735f">
+               <note source="#krausonline_7676">Die Fackel 544-545, 06.1920, 12</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">544-545</biblScope>
+               <date />
+               <biblScope unit="page">12</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/544-545,012">https://fackel.oeaw.ac.at/f/544-545,012</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7676">
+           <p />
+        <p>[Karl Kraus las im Arbeiter-Bildungsverein, Ehemaliges Militärkasino,] 14. März,
+	3 Uhr:</p><p>I. Aus: Die letzten Tage der Menschheit: I, 1 (Sirk-Ecke, mit Vorbemerkung); IV 52 (Militärspital); V 31 und aus III 16 (Erzherzog Friedrich); V 38 (Der Blinde) / Der sterbende Soldat / Der Bauer, der Hund und der Soldat / Ich habe einen Blick gesehn / Nibelungentreue.</p><p>II.: III 17 (Der Hauptmann im Landesverteidigungsministerium); III 18 (Der Hauptmann im Kriegsministerium); V 5 (Zwei Generale); IV 19 (Viktualienhandlung); V 45 (Die Generalstäbler); V 35 (Militärgericht) / Géza von Lakkati de Némesfalva et Kutjafelegfaluszég / Der Zeuge (Fluch des sterbenden Soldaten).</p><p>Der Arbeiter-Bildungsverein hat 1000 Kronen den »Kinderfreunden« zugeführt.</p><p>[Die Fackel 544-545, 06.1920, 12] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132453"><p>Programm im Arbeiter-Bildungsverein, ehemaliges Militärkasino: Aus: Die letzten Tage der Menschheit | Der sterbende Soldat | Der Bauer, der Hund und der Soldat | Ich habe einen Blick gesehn | Nibelungentreue | Aus: Die letzten Tage der Menschheit | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég | Der Zeuge (Fluch des sterbenden Soldaten)</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-03-14">14.03.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7676">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Aus: Die letzten Tage der Menschheit: I, 1 (Sirk-Ecke, mit Vorbemerkung)</p><p>IV 52 (Militärspital)</p><p>V 31 und aus III 16 (Erzherzog Friedrich)</p><p>V 38 (Der Blinde)</p><p>Der sterbende Soldat</p><p>Der Bauer, der Hund und der Soldat</p><p>Ich habe einen Blick gesehn</p><p>Nibelungentreue.</p><p>II.</p><p>III 17 (Der Hauptmann im Landesverteidigungsministerium)</p><p>III 18 (Der Hauptmann im Kriegsministerium)</p><p>V 5 (Zwei Generale)</p><p>IV 19 (Viktualienhandlung)</p><p>V 45 (Die Generalstäbler)</p><p>V 35 (Militärgericht)</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p><p>Der Zeuge (Fluch des sterbenden Soldaten)</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

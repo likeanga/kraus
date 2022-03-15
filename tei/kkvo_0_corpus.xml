@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+     <teiHeader>
+         <fileDesc>
+             <titleStmt>
+                 <title>Vorlesungen Karl Kraus 1920. Digitale Erfassung.</title>
+                 <editor ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</editor>
+             </titleStmt>
+             <publicationStmt>
+                 <publisher>
+                     <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+                     <address>
+                         <street>Elisabethstraße 59/III</street>
+                         <postCode>8010</postCode>
+                         <settlement>Graz</settlement>
+                         <country>Austria</country>
+                     </address>
+                     <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+                 </publisher>
+                 <pubPlace>Graz, Austria</pubPlace>
+                 <date>2022</date>
+                 <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+                 </availability>
+             </publicationStmt>
+	        <sourceDesc>
+	            <bibl xml:id="krausonline">
+	                <title level="m">Karl Kraus Online</title>
+	                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+	                <ref target="https://www.kraus.wienbibliothek.at" type="fulllink">https://www.kraus.wienbibliothek.at</ref>
+	            </bibl>
+	            <bibl xml:id="wienbibliothek">
+	                <title level="m">Wienbibliothek Digital</title>
+	                <ref target="https://www.digital.wienbibliothek.at" type="fulllink">https://www.digital.wienbibliothek.at</ref>
+	            </bibl>
+	            <bibl xml:id="fackel">
+	                <title level="m">Austrian Academy Corpus: Die Fackel</title>
+	                <ref target="https://fackel.oeaw.ac.at" type="fullink">https://fackel.oeaw.ac.at</ref>
+	            </bibl>
+	        </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+             <projectDesc>
+                 <p><!-- Projektbeschreibung --></p>
+             </projectDesc>
+         </encodingDesc>
+     </teiHeader>
+    
+    <!-- Enities -->
+    <standOff xml:id="entites">
+        
+        <!-- Persons -->
+        <listPerson>
+            <head>Personen</head>
+            <person>
+                <persName/>
+            </person>        
+        </listPerson>
+        
+        <!-- Institutions -->
+        <listOrg>        
+            <head>Institutionen</head>     
+            <org>
+                <orgName/>        
+            </org>        
+        </listOrg>
+        
+        <!-- Places -->        
+        <listPlace>        
+            <head>Orte</head>
+            <place>        
+                <placeName/>        
+            </place>        
+        </listPlace>    
+        
+        <!-- Events -->    
+        <listEvent>
+            <event>
+                <label></label>
+            </event>
+        </listEvent>
+        
+        <!-- Works -->
+        <listBibl>        
+            <head>Werke</head>        
+            <bibl type="work">
+                <!--  -->
+            </bibl>        
+        </listBibl>
+    </standOff>
+    
+    <!-- TEI Files representing the individual "Vorlesungsprogramme" are x-included here -->
+    <xi:include href="kkvo_1920-01-01.xml"/>
+    <xi:include href="kkvo_1920-01-11.xml"/>
+    <xi:include href="kkvo_1920-01-22.xml"/>
+    <xi:include href="kkvo_1920-01-27.xml"/>
+    <xi:include href="kkvo_1920-01-29.xml"/>
+    <xi:include href="kkvo_1920-02-04.xml"/>
+    <xi:include href="kkvo_1920-02-15.xml"/>
+    <xi:include href="kkvo_1920-03-07.xml"/>
+    <xi:include href="kkvo_1920-03-14.xml"/>
+    <xi:include href="kkvo_1920-03-28.xml"/>
+    <xi:include href="kkvo_1920-04-06.xml"/>
+    <xi:include href="kkvo_1920-04-11.xml"/>
+    <xi:include href="kkvo_1920-04-18.xml"/>
+    <xi:include href="kkvo_1920-05-01.xml"/>
+    <xi:include href="kkvo_1920-05-09.xml"/>
+    <xi:include href="kkvo_1920-05-28.xml"/>
+    <xi:include href="kkvo_1920-05-29.xml"/>
+    <xi:include href="kkvo_1920-05-31.xml"/>
+    <xi:include href="kkvo_1920-06-02.xml"/>
+    <xi:include href="kkvo_1920-06-04.xml"/>
+    <xi:include href="kkvo_1920-06-11.xml"/>
+    <xi:include href="kkvo_1920-06-12.xml"/>
+    <xi:include href="kkvo_1920-06-14.xml"/>
+    <xi:include href="kkvo_1920-10-03.xml"/>
+    <xi:include href="kkvo_1920-10-09.xml"/>
+    <xi:include href="kkvo_1920-10-21.xml"/>
+    <xi:include href="kkvo_1920-11-01.xml"/>
+    <xi:include href="kkvo_1920-11-15.xml"/>
+    <xi:include href="kkvo_1920-11-28.xml"/>
+    <xi:include href="kkvo_1920-12-02.xml"/>
+    <xi:include href="kkvo_1920-12-08.xml"/>
+    <xi:include href="kkvo_1920-12-14.xml"/>
+    <xi:include href="kkvo_1920-12-19.xml"/>
+</teiCorpus>

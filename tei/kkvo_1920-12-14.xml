@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-12-14">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 186. Vorlesung am 14.12.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7720">
+               <title level="a">186. Vorlesung am 14.12.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7720</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7720" type="shortlink">https://www.kraus.wienbibliothek.at/node/7720</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/186-vorlesung-am-14121920" type="fulllink">https://www.kraus.wienbibliothek.at/content/186-vorlesung-am-14121920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132531">
+               <title>Vorlesung Karl Kraus. Wien, 1920.12.14</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132531</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132531" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132531</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15958417" type="opaclink">https://permalink.obvsg.at/wbr/AC15958417</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132531" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132531</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_5815cef4">
+               <note source="#krausonline_7720">Die Fackel 557-560, 01.1921, 31</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">557-560</biblScope>
+               <date />
+               <biblScope unit="page">31</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/557-560,031">https://fackel.oeaw.ac.at/f/557-560,031</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für die Gesellschaft der Freunde)</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7720">
+           <p />
+        <p>[Karl Kraus las im Festsaal des Niederösterreichischen Gewerbe-Vereines am 14. Dez., halb 7 Uhr:</p><p>I. Johann Nestroy: Die verhängnisvolle Faschingsnacht, I, aus 6 bis 10: Lorenz, Jakob, Holzhacker; Frau Everl, Kräutlerin; Frau von Schimmerglanz; Ein Bedienter / Der böse Geist Lumpazivagabundus oder: Das liederliche Kleeblatt, III, aus 7, 8: Pepi Hobelmann und Knieriem. (Musik von Adolph Müller sen.) / Die Familien Zwirn, Knieriem und Leim oder: Der Weltuntergangstag, I, aus 9: Entree des Knieriem) / Das Lied von der Chimäre). — Frank Wedekind: Die Hunde / Das Lied vom armen Kind [zum erstenmal gedruckt in der Fackel Oktober 1904] (beide nach der Originalmelodie) / Der Zoologe von Berlin (zum erstenmal gedruckt in der Fackel Juni 1905). — Karl Kraus: Mir san ja eh die reinen Lamperln) / Hypnagogische Gestalten. — Detlev v. Liliencron: Ballade in U-dur / Die betrunkenen Bauern (zum erstenmal gedruckt in der Fackel November 1905) / Begräbnis (eines der letzten Gedichte, zum erstenmal gedruckt in der Fackel September 1909). — Karl Kraus: Jugend. — Matthias Claudius: Phidile / Der Frühling / Kriegslied. — Gottfried August Bürger: Der wilde Jäger. — Karl Kraus: Gebet.</p><p>Begleitung: Dr. Viktor Junk.</p><p>II. Gerhart Hauptmann: Die Weber I. und II. Akt.</p><p>Der volle Ertrag — ähnlich wie 2. Dezember —: K 11.919.60 ist der Gesellschaft der Freunde, I., Singerstraße 16 zugeführt worden.</p><p>[Die Fackel 557-560, 01.1921, 31] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132531"><p>Programm im Festsaal des Niederösterreichischen Gewerbe-Vereines: Johann Nestroy: Die verhängnisvolle Faschingsnacht; Der böse Geist Lumpazivagabundus oder: Das liederliche Kleeblatt; Die Familien Zwirn, Knieriem und Leim oder: Der Weltuntergang; Das Lied von der Chimäre | Frank Wedekind: Die Hunde, Das Lied vom armen Kinde; Der Zoologe von Berlin | Karl Kraus: Mir san ja eh die reinen Lamperln; Hypnagogische Gestalten | Detlev von Liliencron: Ballade in U-dur; Die betrunkenen Bauern; Begräbnis | Karl Kraus: Jugend | Matthias Claudius: Phidile; Der Frühling; Abendlied; Kriegslied | Gottfried August Bürger: Der wilde Jäger | Karl Kraus: Gebet | Gerhart Hauptmann: Die Weber, I. und II. Akt</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-12-14">14.12.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7720">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Johann Nestroy: Die verhängnisvolle Faschingsnacht, I, aus 6 bis 10: Lorenz, Jakob, Holzhacker; Frau Everl, Kräutlerin; Frau von Schimmerglanz; Ein Bedienter (Meoldie nach Angabe des Vortragenden)</p><p>Der böse Geist Lumpazivagabundus oder: Das liederliche Kleeblatt, III, aus 7, 8: Pepi Hobelmann und Knieriem. (Musik von Adolph Müller sen.) </p><p>Die Familien Zwirn, Knieriem und Leim oder: Der Weltuntergangstag, I, aus 9: Entree des Knieriem (Melodie nach Angabe des Vortragenden)</p><p>Das Lied von der Chimäre (Melodie nach Angabe des Vortragenden)</p><p>Frank Wedekind: Die Hunde / Das Lied vom armen Kind [zum erstenmal gedruckt in der Fackel Oktober 1904] (beide nach der Originalmelodie)</p><p>Der Zoologe von Berlin (zum erstenmal gedruckt in der Fackel Juni 1905)</p><p>Karl Kraus: Mir san ja eh die reinen Lamperln (Melodie nach Angabe des Vortragenden)</p><p>Hypnagogische Gestalten</p><p>Detlev v. Liliencron: Ballade in U-dur</p><p>Die betrunkenen Bauern (zum erstenmal gedruckt in der Fackel November 1905) </p><p>Begräbnis (eines der letzten Gedichte, zum erstenmal gedruckt in der Fackel September 1909)</p><p>Karl Kraus: Jugend</p><p>Matthias Claudius: Phidile </p><p>Der Frühling</p><p>Abendlied</p><p>Kriegslied</p><p>Gottfried August Bürger: Der wilde Jäger</p><p>Karl Kraus: Gebet</p><p>Begleitung: Dr. Viktor Junk</p><p>II.</p><p>Gerhart Hauptmann: Die Weber</p><p>I. und II. Akt</p><p>[...]</p><p>Änderung und Kürzung vorbehalten.</p><p>Der volle Ertrag —für die Gesellschaft der Freunde. Spenden erbeten I., Singerstraße 16.</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

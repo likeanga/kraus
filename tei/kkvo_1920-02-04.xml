@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-02-04">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 160. Vorlesung am 04.02.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7670">
+               <title level="a">160. Vorlesung am 04.02.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7670</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7670" type="shortlink">https://www.kraus.wienbibliothek.at/node/7670</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/160-vorlesung-am-04021920" type="fulllink">https://www.kraus.wienbibliothek.at/content/160-vorlesung-am-04021920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132442">
+               <title>Vorlesung Karl Kraus. Innsbruck, 1920.02.04</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132442</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132442" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132442</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15985983" type="opaclink">https://permalink.obvsg.at/wbr/AC15985983</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132442" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132442</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_3282cde3">
+               <note source="#krausonline_7670">Die Fackel 531-543, 04.1920, 44</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">531-543</biblScope>
+               <date />
+               <biblScope unit="page">44</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/531-543,044">https://fackel.oeaw.ac.at/f/531-543,044</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7670">
+           <p />
+        <p>[Karl Kraus las im] Musikvereinssaal, 4. Januar, ½8 Uhr:</p><p>I. (Vorwort) Monolog des Nörglers (Schluß) / Der sterbende Soldat / Erzherzog Friedrich / Wagenknecht, Sedlatschek und Hans Müller / Die Schalek (III. 2) / Die beiden Generale (V. 5) / Stadtpark-Szene / Gebet. II. Die betrunkenen Generalstäbler (V. 45) / Elfriede Ritter und die Reporter / Wilhelm und die Generale (mit Randbemerkung) / Fluch des sterbenden Soldaten (»Der Zeuge«).</p><p>[Die Fackel 531-543, 04.1920, 44] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132442"><p>Programm im Musikvereinssaal: (Vorwort) | Monolog des Nörglers (Schluss) | Der sterbende Soldat | Erzherzog Friedrich | Wagenknecht, Sedlaschek und Hans Müller | Die Schalek (III.2) | Die beiden Generale (V.5) | Stadtpark-Szene | Gebet | Die betrunkenen Generalstäbler (V. 45) | Elfriede Ritter und die Reporter | Wilhelm und die Generale (mit Randbemerkung) | Fluch des sterbenden Soldaten ("Der Zeuge")</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-02-04">04.02.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7670">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>(Vorwort) Monolog des Nörglers (Schluss)</p><p>Der sterbende Soldat</p><p>Erzherzog Friedrich</p><p>Wagenknecht, Sedlaschek und Hans Müller</p><p>Die Schalek (III.2)</p><p>Die beiden Generale (V.5)</p><p>Stadtpark-Szene</p><p>Gebet</p><p>II.</p><p>Die betrunkenen Generalstäbler (V. 45)</p><p>Elfriede Ritter und die Reporter</p><p>Wilhelm und die Generale (mit Randbemerkung)</p><p>Fluch des sterbenden Soldaten ("Der Zeuge")</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

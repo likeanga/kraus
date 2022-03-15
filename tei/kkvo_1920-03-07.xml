@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-03-07">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 162. Vorlesung am 07.03.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7674">
+               <title level="a">162. Vorlesung am 07.03.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7674</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7674" type="shortlink">https://www.kraus.wienbibliothek.at/node/7674</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/162-vorlesung-am-07031920" type="fulllink">https://www.kraus.wienbibliothek.at/content/162-vorlesung-am-07031920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132449">
+               <title>Vorlesung Karl Kraus. Wien, 1920.03.07</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132449</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132449" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132449</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15992519" type="opaclink">https://permalink.obvsg.at/wbr/AC15992519</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132449" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132449</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_f7f0b7ce">
+               <note source="#krausonline_7674">Die Fackel 544-545, 06.1920, 11</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">544-545</biblScope>
+               <date />
+               <biblScope unit="page">11</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/544-545,011">https://fackel.oeaw.ac.at/f/544-545,011</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf Erhöhung der ersten Preiskategorien (zugunsten Österreichischen Bundes für Mutterschutz) und Kraus' nächste Vorlesungen</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7674">
+           <p />
+        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 7. März 1920, halb 3 Uhr:</p><p>I. Wozu der Lärm? / Vorwort zu einer demnächst erscheinenden Sammlung von Innsbrucker Dokumenten (Meine Eitelkeit und der deutsche Nationalstolz) / Aus: Die letzten Tage der Menschheit; I, 1: Ringstraßen-Korso (mit Vorbemerkung) / Der alte Aktivist / Nibelungentreue (aus dem Manuskript).</p><p>II. Aus: Die letzten Tage der Menschheit: I, 6: Volksschule; V, 31 und aus III, 16: Erzherzog Friedrich / Die Ballade vom Papagei / Die allerletzten Tage der Menschheit / Zwei Epigramme / Géza von Lakkati de Némesfalva et Kutjafelegfaluszég.</p><p>Die Erhöhung der ersten Preiskategorien zugunsten des Österreichischen Bundes für Mutterschutz (Wien, VII/2, Mariahilferstraße 12, Postsparkassen-Konto Nr. 87.931).</p><p>[Die Fackel 544-545, 06.1920, 11] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132449"><p>Programm im Mittleren Konzerthaussaal: Vorwort zu einer demnächst erscheinenden Sammlung von Innsbrucker Dokumenten (Meine Eitelkeit und der deutsche Nationalstolz) | Aus: Die letzten Tage der Menschheit | Der alte Aktivist | Nibelungentreue (ungedruckte Verse) | Aus: Die letzten Tage der Menschheit | Die Ballade vom Papagei, Couplet macabre (Melodie vom Verfasser), entstanden 1915 | Die allerletzen Tage der Menschheit | Epigramme (Manuskript) | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-03-07">07.03.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7674">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Wozu der Lärm? (Rede und Verse, ungedruckt)</p><p>Vorwort zu einer demnächst erscheinenden Sammlung von Innsbrucker Dokumenten (Meine Eitelkeit und der deutsche Nationalstolz)</p><p>Aus: Die letzten Tage der Menschheit; I, 1: Ringstraßen-Korso (mit Vorbemerkung)</p><p>Der alte Aktivist</p><p>[Écrasez l'infâme!] Nibelungentreue (ungedruckte Verse).</p><p>Zehn Minuten Pause.</p><p>II.</p><p>Aus: Die letzten Tage der Menschheit:</p><p>I, 7: Elfriede Ritter und die Reporter,</p><p>I, 6: Volksschule</p><p>IV, 15: Kriegsarchiv,</p><p>V, 31 und aus III, 16: Erzherzog Friedrich</p><p>Die Ballade vom Papagei, Couplet macabre (Melodie vom Verfasser), entstanden 1915</p><p>Die allerletzten Tage der Menschheit</p><p>Epigramme (Manuskript)</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p><p>Änderung und Kürzung vorbehalten.</p><p>Die Erhöhung der ersten Preiskategorien zugunsten des Österreichischen Bundes für Mutterschutz (Wien, VII/2, Mariahilferstraße 12, Postsparkassen-Konto Nr. 87.931).</p><p>[...]</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

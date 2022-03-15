@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-10-09">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 179. Vorlesung am 09.10.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7706">
+               <title level="a">179. Vorlesung am 09.10.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7706</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7706" type="shortlink">https://www.kraus.wienbibliothek.at/node/7706</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/179-vorlesung-am-09101920" type="fulllink">https://www.kraus.wienbibliothek.at/content/179-vorlesung-am-09101920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132506">
+               <title>Vorlesung Karl Kraus. Wien, 1920.10.09</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132506</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132506" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132506</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15963927" type="opaclink">https://permalink.obvsg.at/wbr/AC15963927</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132506" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132506</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_06004beb">
+               <note source="#krausonline_7706">Die Fackel 552-553, 10.1920, 27-28</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">552-553</biblScope>
+               <date />
+               <biblScope unit="page">27-28</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/552-553,027">https://fackel.oeaw.ac.at/f/552-553,027</ref><ref target="https://fackel.oeaw.ac.at/f/552-553,028">https://fackel.oeaw.ac.at/f/552-553,028</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung ("Haus des Kindes") und auf Kraus' nächste Vorlesung; Anmerkung zu Störungen der Vorlesung</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7706">
+           <p />
+        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 9. Oktober, halb 7 Uhr:
+	I. Die Riesentanne [Manuskript]. — Vorbemerkung. — Die letzten Tage der Menschheit [zum Teil Manuskript]: Der Optimist und der Nörgler (Berchtolds Bild) / Ein Generalstäbler am Telephon / Im Landesverteidigungsministerium / Im Kriegsministerium / Kastelruth / Der Optimist und der Nörgler (Man darf nicht generalisieren) / Winter in den Karpathen. — Brief von Rosa Luxemburg (mit Vorbemerkung). — Baracke in Sibirien. — Heimkehr und Vollendung.</p><p>II. Czernin (aus dem »Nachruf«, mit Vorbemerkung). — Während der Somme-Schlacht / Erzherzog Friedrich. — Inschriften: Zusammenhänge. Franz Joseph. Der Letzte. Mord in Ungarn. — Druckfehler in einer Verlustanzeige der ungarischen Regierung [Manuskript]. — Gespräch mit dem Monarchisten. — Inschriften: Umsturz. Militarismus. Wohnungswechsel. — Schluß des »Nachrufs« (mit Vorbemerkung).</p><p>[Die Fackel 552-553, 10.1920, 27-28] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132506"><p>Programm im Mittleren Konzerthaussaal: Die Riesentanne (Manuskript) | Vorbemerkung | Die letzten Tage der Menschheit (zum Teil Manuskript) | Brief von Rosa Luxemburg (mit Vorbemerkung) | Baracke in Sibirien | Heimkehr und Vollendung | Czernin (aus dem "Nachruf", mit Vorbemerkung) | Die letzten Tage der Menschheit | Die Gefährten (Manuskript) | Apokalypse | Die letzten Tage der Menschheit | Inschriften: Zusammenhänge; Sprachenpflege; Franz Joseph; Der Letzte; Mord in Ungarn; Druckfehler in einer Verlustanzeige der ungarischen Regierung (Manuskript) | Gespräch mit dem Monarchisten | Inschriften: Umsturz, Militarismus; Wohnungswechsel | Schluß des "Nachrufs" (mit Vorbemerkung)</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-10-09">09.10.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7706">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Die Riesentanne [Manuskript].</p><p>Vorbemerkung.</p><p>Die letzten Tage der Menschheit [zum Teil Manuskript]:</p><p>Der Optimist und der Nörgler (Berchtolds Bild)</p><p>Ein Generalstäbler am Telephon</p><p>Im Landesverteidigungsministerium</p><p>Im Kriegsministerium</p><p>Kastelruth</p><p>Der Optimist und der Nörgler (Man darf nicht generalisieren)</p><p>Winter in den Karpathen.</p><p>Brief von Rosa Luxemburg (mit Vorbemerkung).</p><p>Baracke in Sibirien.</p><p>Heimkehr und Vollendung.</p><p>10 Minuten Pause</p><p>II.</p><p>Czernin (aus dem »Nachruf«, mit Vorbemerkung).</p><p>Die letzten Tage der Menschheit:</p><p>Während der Somme-Schlacht</p><p>Der Optimist und der Nörgler (Was suchen wir in Albanien)</p><p>Erzherzog Friedrich</p><p>Inschriften: Zusammenhänge. Sprachenpflege. Franz Joseph. Der Letzte. Mord in Ungarn.</p><p>Druckfehler in einer Verlustanzeige der ungarischen Regierung [Manuskript]</p><p>Gespräch mit dem Monarchisten</p><p>Inschriften: Umsturz. Militarismus. Wohnungswechsel. Nibelungentreue.</p><p>Der Optimist und der Nörgler (Feldpostbriefe)</p><p>(Eventuell) Schluß des »Nachrufs« (mit Vorbemerkung)</p><p>Änderung und Kürzung vorbehalten.</p><p>Ein Teil des Ertrags dieser Vorlesung für das »Haus des Kindes«.</p><p>[...]</p><p>Wer zu der heutigen Vorlesung zu spät kommt und dadurch die Anwesenden stört, liest auch diese Anmerkung zu spät und wird deshalb erst das nächste Mal zurechtkommen.
+	Dagegen ist auch innerhalb der heutigen Vorlesung noch Zeit genug, denjenigen zu warnen, der etwa die Absicht hat, die Anwesenden am Schlusse zu stören, indem er den Saal verläßt, um mit der Garderobe wiederzukehren. Gegen solche, die gar mitten in der Vorlesung die Anwesenden stören wollten, würden sich diese selbst zu schützen wissen.</p><p>[...]</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

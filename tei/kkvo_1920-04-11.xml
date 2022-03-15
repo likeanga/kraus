@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-04-11">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 166. Vorlesung am 11.04.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7682">
+               <title level="a">166. Vorlesung am 11.04.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7682</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7682" type="shortlink">https://www.kraus.wienbibliothek.at/node/7682</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/166-vorlesung-am-11041920" type="fulllink">https://www.kraus.wienbibliothek.at/content/166-vorlesung-am-11041920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132463">
+               <title>Vorlesung Karl Kraus. Wien, 1920.04.11</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132463</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132463" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132463</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15966715" type="opaclink">https://permalink.obvsg.at/wbr/AC15966715</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132463" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132463</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_390598c4">
+               <note source="#krausonline_7682">Die Fackel 544-545, 06.1920, 15</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">544-545</biblScope>
+               <date />
+               <biblScope unit="page">15</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/544-545,015">https://fackel.oeaw.ac.at/f/544-545,015</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf die Erhöhung der ersten Preiskategorien (zugunsten des Fonds für Kriegsgefangene) und auf Kraus' nächste Vorlesungen</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7682">
+           <p />
+        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 11. April 1920, ½3 Uhr:</p><p>I. Mit der Uhr in der Hand / Die letzten Tage der Menschheit: IV 32; Zwei junge Leute aus Berlin, Der Imam, Eine Dame; IV 13: Hindenburg und Ludendorff, Paul Goldmann; II 7: Hirsch, Roda Roda, Ein Generalstäbler; V 31 und aus III 16: Erzherzog Friedrich / Nibelungentreue / Heldengräber / Jugend / Raimund: Der Bauer als Millionär, II, 4 bis (teilweise) 8 [Musik von Josef Drechsler]; Lied des Valentin aus dem Verschwender, III, 10 [Konradin Kreutzer].</p><p>II. IV 8: Die Schalek [mit einem Chor der Offiziere: »Solche Kontraste gibt’s nur an der Front«]; IV 16: Hugo von Hofmannsthal, Der Zyniker; V 19: Ärzteversammlung in Berlin; IV 15: Kriegsarchiv / Meinem Franz Janowitz / Nachruf: an alle, die mich an einem Grabe geschmäht haben.</p><p>1000 Kronen wurden dem Fonds für die Kriegsgefangenen zugewendet.</p><p>[Die Fackel 544-545, 06.1920, 15] - zitiert nach  Austrian Academy Corpus </p></abstract>
+        <abstract source="#wienbib_1132463"><p>Programm im Mittleren Konzerthaussaal: Mit der Uhr in der Hand | Die letzten Tage der Menschheit | Nibelungentreue (Manuskript) | Heldengräber | Jugend | Raimund: Der Bauer als Millionär, Lied des Valentin | Die letzten Tage der Menschheit | Meinem Franz Janowitz | Nachruf: an alle, die mich an einem Grabe geschmäht haben (Manuskript)</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-04-11">11.04.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7682">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Mit der Uhr in der Hand</p><p>Die letzten Tage der Menschheit:</p><p>IV, 32: Zwei junge Leute aus Berlin, Der Imam, Eine Dame;</p><p>IV, 13: Hindenburg und Ludendorff, Paul Goldmann;</p><p>II, 7: Hirsch, Roda Roda, Ein Generalstäbler;</p><p>V, 31 und aus III, 16: Erzherzog Friedrich </p><p>Nibelungentreue [Manuskript]</p><p>Heldengräber</p><p>Jugend</p><p>Raimund: Der Bauer als Millionär, II, 4 bis (teilweise) 8</p><p>Fortunatus Wurzel, Afterling, Musensohn, Schmeichelfeld, Habakuk, Lorenz, Die Jugend, Das Alter [Musik von Josef Drechsler]</p><p>Lied des Valentin (aus dem Verschwender, III, 10) [Konradin Kreutzer]</p><p>Zehn Minuten Pause</p><p>II.</p><p>Die letzten Tage der Menschheit:</p><p>IV, 8: Die Schalek [mit einem Chor der Offiziere: »Solche Kontraste gibt’s nur an der Front«];</p><p>IV, 16: Hugo von Hofmannsthal, Der Zyniker;</p><p>V, 19: Ärzteversammlung in Berlin;</p><p>IV, 34: Ein Magistratsbeamter, Eine Partei;</p><p>IV 15: Ein Hauptmann im Kriegsarchiv, Dörmann, Hans Müller.</p><p>Meinem Franz Janowitz</p><p>Nachruf: an alle, die mich an einem Grabe geschmäht haben (Manuskript)</p><p>Änderung und Kürzung vorbehalten.</p><p>Die Erhöhung der ersten Preiskategorien und ein Teil des Ertrages zugunsten des Fonds für die Kriegsgefangenen.</p><p>[...]</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

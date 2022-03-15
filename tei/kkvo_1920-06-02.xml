@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-06-02">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Kraus: 173. Vorlesung am 02.06.1920</title>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/transcribing">Transkription</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+            <respStmt>
+               <resp ref="https://vocabs.dariah.eu/tadirah/annotating">TEI-Encoding</resp>
+               <persName ref="https://orcid.org/0000-0001-6104-7484">Angelika Hechtl</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <address>
+                  <street>Elisabethstraße 59/III</street>
+                  <postCode>8010</postCode>
+                  <settlement>Graz</settlement>
+                  <country>Austria</country>
+               </address>
+               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+            </publisher>
+            <pubPlace>Graz, Austria</pubPlace>
+            <date>2022</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Vorlesungen Karl Kraus</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl source="#krausonline" xml:id="krausonline_7694">
+               <title level="a">173. Vorlesung am 02.06.1920</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <title level="m">Karl Kraus Online</title>
+               <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
+               <idno type="ID">7694</idno>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7694" type="shortlink">https://www.kraus.wienbibliothek.at/node/7694</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/173-vorlesung-am-02061920" type="fulllink">https://www.kraus.wienbibliothek.at/content/173-vorlesung-am-02061920</ref>
+            </bibl>
+            <bibl source="#wienbib" xml:id="wienbib_1132485">
+               <title>Vorlesung Karl Kraus. Berlin, 1920.06.02</title>
+               <author ref="#P.Kraus">Karl Kraus</author>
+               <publisher>Wienbibliothek im Rathaus</publisher>
+               <pubPlace>Wien</pubPlace>
+               <idno type="ID">1132485</idno>
+               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132485" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132485</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15964964" type="opaclink">https://permalink.obvsg.at/wbr/AC15964964</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132485" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132485</ref>
+            </bibl>
+            <bibl source="#fackel" xml:id="fackel_301750eb">
+               <note source="#krausonline_7694">Die Fackel 546-550, 07.1920, 3-4</note>
+               <title level="s">Die Fackel</title>
+               <biblScope unit="issue">546-550</biblScope>
+               <date />
+               <biblScope unit="page">3-4</biblScope>
+               
+            <ref target="https://fackel.oeaw.ac.at/f/546-550,003">https://fackel.oeaw.ac.at/f/546-550,003</ref><ref target="https://fackel.oeaw.ac.at/f/546-550,004">https://fackel.oeaw.ac.at/f/546-550,004</ref></bibl>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Wienbibliothek im Rathaus</institution>
+                  <collection>Teilnachlass Karl Kraus</collection>
+                  <idno>000</idno>
+                  <altIdentifier>
+                     <idno>000</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <abstract source="#krausonline_7694">
+           <p />
+        <p>[Karl Kraus las im Harmonium-Saal am] 2. Juni, 8 Uhr:</p><p>I. Vorwort. — Hannele Matterns Himmelfahrt. (Begleitung: Dr. Heinrich Zellner).</p><p>II. Peter Altenberg / Kompetenz vor der Sprache / Inschriften: Zwangslage; Den Psychoanalytikern; Deutsche Literaturgeschichte; Der Vorleser / Der Mann und das Wort / Inschriften: Hugo von Hofmannsthal (II.); Bahrs Himmelfahrt; Der Bericht vom Tag / Vision des Erblindeten / Inschriften: Der Flieger; Ausgleich; Die Instrumente; Ersatz; Made in Germany; Verkehrte Götterwelt; Mit Gott / Kunterbunt / Inschriften: Bunte Welt; Die Werte; Das Lebensmittel; Der Geschäftskrieg; Die Schuldfrage; Jahreszeit; Unterricht; Die Schwärmer / Es werde Licht / Vallorbe / Fahrt ins Fextal / Flieder / Magie / Die Büßerin / Grabschrift / Inschriften: Die unzulängliche Macht; Rekonvaleszenz / Der sterbende Soldat / Zum ewigen Frieden.</p><p>[Die Fackel 546-550, 07.1920, 3-4] - zitiert nach Austrian Academy Corpus</p></abstract>
+        <abstract source="#wienbib_1132485"><p>Programm im Harmonium-Saal: Vorwort | Hannele Materns Himmelfahrt | Peter Altenberg | Kompetenz vor der Sprache | Inschriften: Zwangslage; Den Psychoanalytikern; Deutsche Literaturgeschichte; der Vorleser | Der Mann und das Wort | Inschriften: Hugo von Hafmannsthal (II.); Bahrs Himmelfahrt ; Der Bericht vom Tag | Vision des Erblindeten | Inschriften: Der Flieger; Ausgleich; Die Instrumente; Ersatz; Made in Germany; Verkehrte Götterwelt; Mit Gott | Kunterbunt | Inschriften: Bunte Welt; Die Werte; Das Lebensmittel; Der Geschäftskrieg; Die Schuldfrage; Jahreszeit; Unterricht; Die Schwärmer | Es werde Licht | Vallorbe | Fahrt ins Fextal | Flieder | Magie | Die Büsserin | Grabinschrift | Inschriften: Die unzulängliche Macht; Rekonvaleszenz | Der sterbende Soldat | Zum ewigen Frieden</p></abstract><langUsage>
+           <language ident="ger">Deutsch</language>
+        </langUsage>
+        <settingDesc>
+           <setting>
+              <time />
+              <date when-iso="1920-06-02">02.06.1920</date>
+              <locale>
+                 <placeName ref="" />
+              </locale>
+           </setting>
+        </settingDesc>
+        <particDesc>
+           <listPerson>
+              <person />
+           </listPerson>
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text source="#krausonline_7694">
+      <body>
+         <p>Some text here.</p>
+      <p>[...]</p><p>I.</p><p>Vorwort</p><p>Hannele Matterns Himmelfahrt</p><p>II.</p><p>Peter Altenberg</p><p>Kompetenz vor der Sprache</p><p>Inschriften: Zwangslage; Den Psychoanalytikern; Deutsche Literaturgeschichte; Der Vorleser</p><p>Der Mann und das Wort</p><p>Inschriften: Hugo von Hofmannsthal (II.); Bahrs Himmelfahrt; Der Bericht vom Tag</p><p>Vision des Erblindeten</p><p>Inschriften: Der Flieger; Ausgleich; Die Instrumente; Ersatz; Made in Germany; Verkehrte Götterwelt; Mit Gott </p><p>Kunterbunt</p><p>Inschriften: Bunte Welt; Die Werte; Das Lebensmittel; Der Geschäftskrieg; Die Schuldfrage; Jahreszeit; Unterricht; Die Schwärmer </p><p>Es werde Licht</p><p>Vallorbe </p><p>Fahrt ins Fextal</p><p>Flieder</p><p>Magie</p><p>Die Büsserin</p><p>Grabschrift</p><p>Inschriften: Die unzulängliche Macht; Rekonvaleszenz</p><p>Der sterbende Soldat</p><p>Zum ewigen Frieden</p><p>(Begleitung: Dr. Heinrich Zellner)</p></body>
+   </text>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
