@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-12-19">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 187. Vorlesung am 19.12.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7722</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7722" type="shortlink">https://www.kraus.wienbibliothek.at/node/7722</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/187-vorlesung-am-19121920" type="fulllink">https://www.kraus.wienbibliothek.at/content/187-vorlesung-am-19121920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7722" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7722</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/187-vorlesung-am-19121920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/187-vorlesung-am-19121920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132534">
                <title>Vorlesung Karl Kraus. Wien, 1920.12.19</title>
@@ -49,62 +55,115 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132534</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132534" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132534</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15977262" type="opaclink">https://permalink.obvsg.at/wbr/AC15977262</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132534" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132534</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-40027</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132534"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132534</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15977262" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15977262</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132534" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132534</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_11788c6c">
                <note source="#krausonline_7722">Die Fackel 557-560, 01.1921, 32</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">557-560</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">32</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/557-560,032">https://fackel.oeaw.ac.at/f/557-560,032</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/557,032"
+                  >https://fackel.oeaw.ac.at/f/557,032</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239648</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für eine arme Familie und für den Blinden-Unterstützungsverein) und auf Kraus' nächste Vorlesungen</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck</ab>
+                  <ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für eine arme
+                     Familie und für den Blinden-Unterstützungsverein) und auf Kraus' nächste
+                     Vorlesungen</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7722">
-           <p />
-        <p>[Karl Kraus las im Mittleren Konzerthaussaal am 19. Dezember, 3 Uhr]</p><p>I. Die letzten Tage der Menschheit: Ringstraßen-Korso (I. Akt) / Volksschule / In der Wohnung der Schauspielerin Elfriede Ritter / Ein Wiener Nachtlokal / Seitengasse. — Post festum.</p><p>II. Die letzte Nacht (Begleitung zu: General und Nowotny von Eichensieg)</p><p>Ein Teil des Ertrags für eine arme Familie und für den I. Blinden-Unterstützungsverein (VIII. Florianigasse 41).</p><p>[Die Fackel 557-560, 01.1921, 32] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132534"><p>Programm im Mittleren Konzerthaussaal: Die letzten Tage der Menschheit | Post festum | Die letzte Nacht. Epilog zu der Tragödie "Die letzten Tage der Menschheit" (Geschrieben im Juli 1917)</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-12-19">19.12.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7722">
+            <p/>
+            <p>[Karl Kraus las im Mittleren Konzerthaussaal am 19. Dezember, 3 Uhr]</p>
+            <p>I. Die letzten Tage der Menschheit: Ringstraßen-Korso (I. Akt) / Volksschule / In der
+               Wohnung der Schauspielerin Elfriede Ritter / Ein Wiener Nachtlokal / Seitengasse. —
+               Post festum.</p>
+            <p>II. Die letzte Nacht (Begleitung zu: General und Nowotny von Eichensieg)</p>
+            <p>Ein Teil des Ertrags für eine arme Familie und für den I.
+               Blinden-Unterstützungsverein (VIII. Florianigasse 41).</p>
+            <p>[Die Fackel 557-560, 01.1921, 32] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132534">
+            <p>Programm im Mittleren Konzerthaussaal: Die letzten Tage der Menschheit | Post festum
+               | Die letzte Nacht. Epilog zu der Tragödie "Die letzten Tage der Menschheit"
+               (Geschrieben im Juli 1917)</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="15:00:00">15:00</time>
+               <date when-iso="1920-12-19"><name type="day">Sonntag</name>, 19.12.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7722">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Die letzten Tage der Menschheit:</p><p>aus dem 1. Akt:</p><p>Ringstraßen-Korso</p><p>Volksschule</p><p>In der Wohnung der Schauspielerin Elfriede Ritter </p><p>aus dem II. Akt:</p><p>Restaurant des Anton Grüßer</p><p>aus dem III. Akt:</p><p>Ein Wiener Nachtlokal</p><p>aus dem IV. Akt:</p><p>Kriegsarchiv</p><p>aus dem V. Akt:</p><p>Seitengasse</p><p>Post festum</p><p>10 Minuten Pause</p><p>II.</p><p>Die letzte Nacht</p><p>Epilog zu der Tragödie "Die letzten Tage der Menschheit"</p><p>(Geschrieben im Juli 1917)</p><p>[...]</p><p>Änderung und Kürzung vorbehalten.</p><p>Ein Teil des Ertrags für eine arme Familie und für den I. Blinden-Unterstützungsverein (VIII. Florianigasse 41).</p><p>[...]</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Die letzten Tage der Menschheit:</p>
+         <p>aus dem 1. Akt:</p>
+         <p>Ringstraßen-Korso</p>
+         <p>Volksschule</p>
+         <p>In der Wohnung der Schauspielerin Elfriede Ritter </p>
+         <p>aus dem II. Akt:</p>
+         <p>Restaurant des Anton Grüßer</p>
+         <p>aus dem III. Akt:</p>
+         <p>Ein Wiener Nachtlokal</p>
+         <p>aus dem IV. Akt:</p>
+         <p>Kriegsarchiv</p>
+         <p>aus dem V. Akt:</p>
+         <p>Seitengasse</p>
+         <p>Post festum</p>
+         <p>10 Minuten Pause</p>
+         <p>II.</p>
+         <p>Die letzte Nacht</p>
+         <p>Epilog zu der Tragödie "Die letzten Tage der Menschheit"</p>
+         <p>(Geschrieben im Juli 1917)</p>
+         <p>[...]</p>
+         <p>Änderung und Kürzung vorbehalten.</p>
+         <p>Ein Teil des Ertrags für eine arme Familie und für den I. Blinden-Unterstützungsverein
+            (VIII. Florianigasse 41).</p>
+         <p>[...]</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

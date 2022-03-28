@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-01-01">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 153. Vorlesung am 01.01.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">20473</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/20473" type="shortlink">https://www.kraus.wienbibliothek.at/node/20473</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/153-vorlesung-am-01011920" type="fulllink">https://www.kraus.wienbibliothek.at/content/153-vorlesung-am-01011920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/20473" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/20473</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/153-vorlesung-am-01011920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/153-vorlesung-am-01011920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132418">
                <title>Vorlesung Karl Kraus. Wien, 1920.01.01</title>
@@ -49,62 +55,101 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132418</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132418" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132418</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15920647" type="opaclink">https://permalink.obvsg.at/wbr/AC15920647</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132418" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132418</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39695</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132418"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132418</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15920647" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15920647</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132418" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132418</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_7ce369cd">
                <note source="#krausonline_20473">Die Fackel 521-530, 01.1920, 98</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">521-530</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">98</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/521-530,098">https://fackel.oeaw.ac.at/f/521-530,098</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/521,098"
+                  >https://fackel.oeaw.ac.at/f/521,098</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239615</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: Hinweis auf die Erhöhung der ersten Preiskategorien für einen Notleidenden und auf Kraus' nächste Vorlesungen</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab>
+                  <ab>Bl. 1r: Hinweis auf die Erhöhung der ersten Preiskategorien für einen
+                     Notleidenden und auf Kraus' nächste Vorlesungen</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_20473">
-           <p />
-        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 1. Januar 1920, ½3 Uhr:</p><p>I. Géza von Lakkati de Némesfalva et Kutjafelegfaluszég / »Die letzten Tage der Menschheit«: IV 15, 19, II aus 7, 9 (Musikbegleitung), V 51.</p><p>II. Die Schlußszene des V. Aktes.</p><p>Die Erhöhung der ersten Preiskategorien für einen Notleidenden.</p><p>[Die Fackel 521-530, 01.1920, 98] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132418"><p>Programm im Mittleren Konzerthaussaal: Géza von Lakkati de Némesfalva et Kutjafelegfaluszég (Manuskript) | Szenen aus den "Letzten Tagen der Menschheit" (Musikbegleitung) | Moriz und Max (Manuskript) | Gebet an die Sonne von Gibeon | Die letzten Tage der Menschheit, V. Akt, Schlußszene (gekürzt)</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-01-01">01.01.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_20473">
+            <p/>
+            <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 1. Januar 1920, ½3 Uhr:</p>
+            <p>I. Géza von Lakkati de Némesfalva et Kutjafelegfaluszég / »Die letzten Tage der
+               Menschheit«: IV 15, 19, II aus 7, 9 (Musikbegleitung), V 51.</p>
+            <p>II. Die Schlußszene des V. Aktes.</p>
+            <p>Die Erhöhung der ersten Preiskategorien für einen Notleidenden.</p>
+            <p>[Die Fackel 521-530, 01.1920, 98] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132418">
+            <p>Programm im Mittleren Konzerthaussaal: Géza von Lakkati de Némesfalva et
+               Kutjafelegfaluszég (Manuskript) | Szenen aus den "Letzten Tagen der Menschheit"
+               (Musikbegleitung) | Moriz und Max (Manuskript) | Gebet an die Sonne von Gibeon | Die
+               letzten Tage der Menschheit, V. Akt, Schlußszene (gekürzt)</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="14:30:00">14:30</time>
+               <date when-iso="1920-01-01"><name type="day">Donnerstag</name>, 01.01.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_20473">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p><p>Szenen aus den »Letzten Tage der Menschheit« IV 15, 19, II aus 7, 9 (Musikbegleitung), V 51.</p><p>Moriz und Max (Manuskript)</p><p>Gebet an die Sonne von Gibeon</p><p>Zehn Minuten Pause.</p><p>II.</p><p>» Die letzten Tage der Menschheit«, V. Akt, Schlußszene (gekürzt):</p><p>[...]</p><p>Änderung und Kürzung vorbehalten.</p><p>Die Erhöhung der ersten Preiskatgeorien für einen Notleidenden.</p><p>[...]</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p>
+         <p>Szenen aus den »Letzten Tage der Menschheit« IV 15, 19, II aus 7, 9 (Musikbegleitung), V
+            51.</p>
+         <p>Moriz und Max (Manuskript)</p>
+         <p>Gebet an die Sonne von Gibeon</p>
+         <p>Zehn Minuten Pause.</p>
+         <p>II.</p>
+         <p>» Die letzten Tage der Menschheit«, V. Akt, Schlußszene (gekürzt):</p>
+         <p>[...]</p>
+         <p>Änderung und Kürzung vorbehalten.</p>
+         <p>Die Erhöhung der ersten Preiskatgeorien für einen Notleidenden.</p>
+         <p>[...]</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

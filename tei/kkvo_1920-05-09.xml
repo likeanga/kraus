@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-05-09">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 100. Wiener Vorlesung am 09.05.1920 [169.]</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,12 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">8726</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/8726" type="shortlink">https://www.kraus.wienbibliothek.at/node/8726</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/100-wiener-vorlesung-am-09051920-169" type="fulllink">https://www.kraus.wienbibliothek.at/content/100-wiener-vorlesung-am-09051920-169</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/8726" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/8726</ref>
+               <ref
+                  target="https://www.kraus.wienbibliothek.at/content/100-wiener-vorlesung-am-09051920-169"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/100-wiener-vorlesung-am-09051920-169</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1135610">
                <title>Die 100. Wiener Vorlesung Karl Kraus. Wien, 1920.05.09</title>
@@ -49,62 +56,134 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1135610</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1135610" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1135610</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15862030" type="opaclink">https://permalink.obvsg.at/wbr/AC15862030</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1135610" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1135610</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-45115</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1135610"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1135610</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15862030" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15862030</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1135610" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1135610</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_390598c4">
                <note source="#krausonline_8726">Die Fackel 544-545, 06.1920, 15</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">544-545</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">15</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/544-545,015">https://fackel.oeaw.ac.at/f/544-545,015</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/544,015"
+                  >https://fackel.oeaw.ac.at/f/544,015</ref></bibl>
+            <!-- https://fackel.oeaw.ac.at/f/544,016 die Seitenangabe etc. stimmt NICHT, es ist Seite 16, das hier der richtige Permalink, page 16 stimmt -->
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-240474</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: "Ein Teil des Ertrages für den von einer Brandkatastrophe betroffenen Ort Wilhelmsburg (N.-Ö.)"; Statistik über 100 Wiener Vorlesungen</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab>
+                  <ab>Bl. 1r: "Ein Teil des Ertrages für den von einer Brandkatastrophe betroffenen
+                     Ort Wilhelmsburg (N.-Ö.)"; Statistik über 100 Wiener Vorlesungen</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_8726">
-           <p />
-        <p>[Karl Kraus las im Mittleren Konzerthaussaal die 100. Wiener Vorlesung, am] 9. Mai, ½4 Uhr:</p><p>I. Die Welt ohne Blatt / Rhythmus eines österreichischen Sommers (mit Vorbemerkung) / v. Bienerth und v. Bismarck / Blutiger Ausgang einer Faschingsunterhaltung / Der Neger.</p><p>II. Neue Epigramme und Gedichte (Dichterschule, Legende, Immer feste druff!, Das siebente Gebot, Umsturz, Schlechter Tausch, Felix Austria, Mord in Ungarn, Sprachenpflege) / Aus dem Ungarischen / Wiener Faschingsleben 1913 / Jetzt ist die Zeit / Nibelungentreue.</p><p>Ein Teil des Ertrags für den von einer Brandkatastrophe betroffenen Ort Wilhelmsburg (N.-Ö.).</p><p>[Die Fackel 544-545, 06.1920, 15] - zitiert nach Austrian Academy Corpus</p></abstract>
-        <abstract source="#wienbib_1135610"><p>Programm im Mittleren Konzerthaussaal: Die Welt ohne Blatt (Manuskript) | Rhythmus eines österreichischen Sommers (1910, mit Vorbemerkung) | v. Bienert und v. Bismarck | Blutiger Ausgang einer Faschingsunterhaltung | Ostende, erster Morgen | Der Neger | Neue Epigramme und Gedichte | Der kleine Brockhaus | Aus dem Ungarischen | Das ist so allgemein bekannt | Wiener Faschingsleben 1913 | Staatsprüfung | Wir haben es besser | Jetzt ist die Zeit | Das Ehrenkreuz | Wahrung berechtigter Interessen | Und in Kriegszeiten (Dezember 1912) | Nibelungentreue (Manuskript)</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-05-09">09.05.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_8726">
+            <p/>
+            <p>[Karl Kraus las im Mittleren Konzerthaussaal die 100. Wiener Vorlesung, am] 9. Mai,
+               ½4 Uhr:</p>
+            <p>I. Die Welt ohne Blatt / Rhythmus eines österreichischen Sommers (mit Vorbemerkung) /
+               v. Bienerth und v. Bismarck / Blutiger Ausgang einer Faschingsunterhaltung / Der
+               Neger.</p>
+            <p>II. Neue Epigramme und Gedichte (Dichterschule, Legende, Immer feste druff!, Das
+               siebente Gebot, Umsturz, Schlechter Tausch, Felix Austria, Mord in Ungarn,
+               Sprachenpflege) / Aus dem Ungarischen / Wiener Faschingsleben 1913 / Jetzt ist die
+               Zeit / Nibelungentreue.</p>
+            <p>Ein Teil des Ertrags für den von einer Brandkatastrophe betroffenen Ort Wilhelmsburg
+               (N.-Ö.).</p>
+            <p>[Die Fackel 544-545, 06.1920, 15] - zitiert nach Austrian Academy Corpus</p>
+         </abstract>
+         <abstract source="#wienbib_1135610">
+            <p>Programm im Mittleren Konzerthaussaal: Die Welt ohne Blatt (Manuskript) | Rhythmus
+               eines österreichischen Sommers (1910, mit Vorbemerkung) | v. Bienert und v. Bismarck
+               | Blutiger Ausgang einer Faschingsunterhaltung | Ostende, erster Morgen | Der Neger |
+               Neue Epigramme und Gedichte | Der kleine Brockhaus | Aus dem Ungarischen | Das ist so
+               allgemein bekannt | Wiener Faschingsleben 1913 | Staatsprüfung | Wir haben es besser
+               | Jetzt ist die Zeit | Das Ehrenkreuz | Wahrung berechtigter Interessen | Und in
+               Kriegszeiten (Dezember 1912) | Nibelungentreue (Manuskript)</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="15:30:00">15:30</time>
+               <date when-iso="1920-05-09"><name type="day">Sonntag</name>, 09.05.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_8726">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Die Welt ohne Blatt (Manuskript)</p><p>Rhythmus eines österreichischen Sommers (1910, mit Vorbemerkung) </p><p>v. Bienert und v. Bismarck</p><p>Blutiger Ausgang einer Faschingsunterhaltung </p><p>Ostende, erster Morgen</p><p>Der Neger</p><p>10 Minuten Pause</p><p>II.</p><p>Neue Epigramme und Gedichte </p><p>Der kleine Brockhaus</p><p>Aus dem Ungarischen</p><p>Das ist so allgemein bekannt </p><p>Wiener Faschingsleben 1913 </p><p>Staatsprüfung</p><p>Wir haben es besser</p><p>Jetzt ist die Zeit</p><p>Das Ehrenkreuz</p><p>Wahrung berechtigter Interessen</p><p>Und in Kriegszeiten (Dezember 1912) </p><p>Nibelungentreue (Manuskript)</p><p>Änderung und Kürzung vorbehalten.</p><p>Fast alle Glossen und Satiren sind älteren Jahrgängen der Fackel entnommen.</p><p>Ein Teil des Ertrags für den von einer Brandkatastrophe betroffenen Ort Wilhelmsburg (N.-Ö.).</p><p>Von der ersten Wiener Vorlesung, die am 3. Mai 1910 stattgefunden hat, sind bis zur hundertsten zehn Jahre verflossen.</p><p>Es entfallen auf das Jahr 1910: 2, 1911: 4, 1912: 8, 1913: 8, 1914: 7, 1915: 3, 1916: 10, 1917: 14, 1918: 14, 1919: 19 und 1920: 11 Vorlesungen.</p><p>Die Säle waren die folgenden: Ingenieur- und Architektensaal: 6, Großer Beethovensaal: 7, Kleine Bühne: 1, Hörsaal des Anatomischen Instituts: 1, Großer Musikvereinssaal: 2, Kleiner Musikvereinssaal: 14, Großer Konzerthaussaal: 3, Mittlerer Konzerthaussaal: 22, Kleiner Konzerthaussaal: 42, Großer Saal des Volksheims (XVI): 1, Ehemaliges Militärkasino: 1 mal.</p><p>Außer den hundert Wiener Vorlesungen haben seit dem Jahre 1910 bis heute 69 Vorlesungen in der Provinz und im Ausland stattgefunden.</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Die Welt ohne Blatt (Manuskript)</p>
+         <p>Rhythmus eines österreichischen Sommers (1910, mit Vorbemerkung) </p>
+         <p>v. Bienert und v. Bismarck</p>
+         <p>Blutiger Ausgang einer Faschingsunterhaltung </p>
+         <p>Ostende, erster Morgen</p>
+         <p>Der Neger</p>
+         <p>10 Minuten Pause</p>
+         <p>II.</p>
+         <p>Neue Epigramme und Gedichte </p>
+         <p>Der kleine Brockhaus</p>
+         <p>Aus dem Ungarischen</p>
+         <p>Das ist so allgemein bekannt </p>
+         <p>Wiener Faschingsleben 1913 </p>
+         <p>Staatsprüfung</p>
+         <p>Wir haben es besser</p>
+         <p>Jetzt ist die Zeit</p>
+         <p>Das Ehrenkreuz</p>
+         <p>Wahrung berechtigter Interessen</p>
+         <p>Und in Kriegszeiten (Dezember 1912) </p>
+         <p>Nibelungentreue (Manuskript)</p>
+         <p>Änderung und Kürzung vorbehalten.</p>
+         <p>Fast alle Glossen und Satiren sind älteren Jahrgängen der Fackel entnommen.</p>
+         <p>Ein Teil des Ertrags für den von einer Brandkatastrophe betroffenen Ort Wilhelmsburg
+            (N.-Ö.).</p>
+         <p>Von der ersten Wiener Vorlesung, die am 3. Mai 1910 stattgefunden hat, sind bis zur
+            hundertsten zehn Jahre verflossen.</p>
+         <p>Es entfallen auf das Jahr 1910: 2, 1911: 4, 1912: 8, 1913: 8, 1914: 7, 1915: 3, 1916:
+            10, 1917: 14, 1918: 14, 1919: 19 und 1920: 11 Vorlesungen.</p>
+         <p>Die Säle waren die folgenden: Ingenieur- und Architektensaal: 6, Großer Beethovensaal:
+            7, Kleine Bühne: 1, Hörsaal des Anatomischen Instituts: 1, Großer Musikvereinssaal: 2,
+            Kleiner Musikvereinssaal: 14, Großer Konzerthaussaal: 3, Mittlerer Konzerthaussaal: 22,
+            Kleiner Konzerthaussaal: 42, Großer Saal des Volksheims (XVI): 1, Ehemaliges
+            Militärkasino: 1 mal.</p>
+         <p>Außer den hundert Wiener Vorlesungen haben seit dem Jahre 1910 bis heute 69 Vorlesungen
+            in der Provinz und im Ausland stattgefunden.</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-05-01">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 168. Vorlesung am 01.05.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7686</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7686" type="shortlink">https://www.kraus.wienbibliothek.at/node/7686</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/168-vorlesung-am-01051920" type="fulllink">https://www.kraus.wienbibliothek.at/content/168-vorlesung-am-01051920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7686" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7686</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/168-vorlesung-am-01051920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/168-vorlesung-am-01051920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132471">
                <title>Vorlesung Karl Kraus für die Arbeiterschaft Wiens. Wien, 1920.05.01</title>
@@ -49,62 +55,102 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132471</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132471" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132471</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15966725" type="opaclink">https://permalink.obvsg.at/wbr/AC15966725</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132471" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132471</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39842</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132471"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132471</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15966725" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15966725</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132471" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132471</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_390598c4">
                <note source="#krausonline_7686">Die Fackel 544-545, 06.1920, 15</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">544-545</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">15</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/544-545,015">https://fackel.oeaw.ac.at/f/544-545,015</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/544,015"
+                  >https://fackel.oeaw.ac.at/f/544,015</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239630</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (Fonds für die Befreiung der Kriegsgefangenen) und auf Kraus' nächste Vorlesung (100. Wiener Vorlesung)</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab>
+                  <ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (Fonds für die
+                     Befreiung der Kriegsgefangenen) und auf Kraus' nächste Vorlesung (100. Wiener
+                     Vorlesung)</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7686">
-           <p />
-        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 1. Mai, ½7Uhr, für die Arbeiterschaft Wiens:</p><p>I. Die Weber, II. Akt.</p><p>II. Hannele Matterns Himmelfahrt. (Begleitmusik: Dr. Karl Meyer.)</p><p>Der volle Ertrag dieser Vorlesung (K 1151.40) wurde dem Fonds für die Befreiung der Kriegsgefangenen überwiesen.</p><p>[Die Fackel 544-545, 06.1920, 15] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132471"><p>Programm im Mittleren Konzerthaussaal: Die Weber, II. Akt. Schauspiel aus den vierziger Jahren von Gerhart Hauptmann | Hannele Matterns Himmelfahrt. Traumdichtung in zwei Teilen von Gerhart Hauptmann</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-05-01">01.05.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7686">
+            <p/>
+            <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 1. Mai, ½7Uhr, für die
+               Arbeiterschaft Wiens:</p>
+            <p>I. Die Weber, II. Akt.</p>
+            <p>II. Hannele Matterns Himmelfahrt. (Begleitmusik: Dr. Karl Meyer.)</p>
+            <p>Der volle Ertrag dieser Vorlesung (K 1151.40) wurde dem Fonds für die Befreiung der
+               Kriegsgefangenen überwiesen.</p>
+            <p>[Die Fackel 544-545, 06.1920, 15] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132471">
+            <p>Programm im Mittleren Konzerthaussaal: Die Weber, II. Akt. Schauspiel aus den
+               vierziger Jahren von Gerhart Hauptmann | Hannele Matterns Himmelfahrt. Traumdichtung
+               in zwei Teilen von Gerhart Hauptmann</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="18:30:00">18:30</time>
+               <date when-iso="1920-05-01"><name type="date">Samstag</name>, 01.05.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7686">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Die Weber, II. Akt. Schauspiel aus den vierziger Jahren von Gerhart Hauptmann</p><p>[...]</p><p>Pause</p><p>II.</p><p>Hannele Matterns Himmelfahrt. Traumdichtung in zwei Teilen von Gerhart Hauptmann</p><p>[...]</p><p>Begleitmusik: Dr. Karl Meyer</p><p>Zwischen den beiden Teilen der Dichtung eine  ganz kurze Pause.</p><p>Der volle Ertrag dieser Vorlesung wird dem Fonds für die Befreiung der Kriegsgefangenen (Österreichisches Kriegsgefangenenamt, Wien, VI., Gumpendorferstraße Nr. 1) zugewendet.</p><p>[...]</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Die Weber, II. Akt. Schauspiel aus den vierziger Jahren von Gerhart Hauptmann</p>
+         <p>[...]</p>
+         <p>Pause</p>
+         <p>II.</p>
+         <p>Hannele Matterns Himmelfahrt. Traumdichtung in zwei Teilen von Gerhart Hauptmann</p>
+         <p>[...]</p>
+         <p>Begleitmusik: Dr. Karl Meyer</p>
+         <p>Zwischen den beiden Teilen der Dichtung eine  ganz kurze Pause.</p>
+         <p>Der volle Ertrag dieser Vorlesung wird dem Fonds für die Befreiung der Kriegsgefangenen
+            (Österreichisches Kriegsgefangenenamt, Wien, VI., Gumpendorferstraße Nr. 1)
+            zugewendet.</p>
+         <p>[...]</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-05-28">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 170. Vorlesung am 28.05.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7688</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7688" type="shortlink">https://www.kraus.wienbibliothek.at/node/7688</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/170-vorlesung-am-28051920" type="fulllink">https://www.kraus.wienbibliothek.at/content/170-vorlesung-am-28051920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7688" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7688</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/170-vorlesung-am-28051920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/170-vorlesung-am-28051920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132474">
                <title>Vorlesung Karl Kraus. Berlin, 1920.05.28</title>
@@ -49,62 +55,115 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132474</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132474" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132474</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15979176" type="opaclink">https://permalink.obvsg.at/wbr/AC15979176</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132474" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132474</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39857</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132474"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132474</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15979176" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15979176</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132474" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132474</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_bdc7d448">
                <note source="#krausonline_7688">Die Fackel 546-550, 07.1920, 3</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">546-550</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">3</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/546-550,003">https://fackel.oeaw.ac.at/f/546-550,003</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/546,003"
+                  >https://fackel.oeaw.ac.at/f/546,003</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239631</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Typoskr.</ab>
+                  <ab>Abschrift</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7688">
-           <p />
-        <p>[Karl Kraus las im Bechstein-Saal am] 28. Mai, 8 Uhr:</p><p>I. Vorwort. — Mit der Uhr in der Hand / Aus den »Letzten Tagen der Menschheit«: Militärspital; Die beiden Generale; Erzherzog Friedrich; Der blinde Soldat / Der sterbende Soldat / Ich habe einen Blick gesehn / Brief Rosa Luxemburgs (mit Vorbemerkung) / Absage.</p><p>II. Aus den »Letzten Tagen der Menschheit«: Kriegsarchiv (mit Vorbemerkung) / Inschriften: Dichterschule; Das siebente Gebot; Schlechter Tausch; Felix Austria; Mord in Ungarn; Sprachenpflege / Legende / Schnellzug / Alle Vögel sind schon da / Traum vom Fliegen / Der Bauer, der Hund und der Soldat / Géza von Lakkati de Némesfalva et Kutjafelegfaluszég / Inschriften: Umsturz; Immer feste druff; Nibelungentreue.</p><p>[Die Fackel 546-550, 07.1920, 3] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132474"><p>Programm im Bechstein-Saal: Vorwort | Mit der Uhr in der Hand | Aus den "Letzten Tagen der Menschheit" | Der sterbende Soldat | Ich habe einen Blick gesehn | Brief Rosa Luxemburgs (mit Vorbemerkung) | Absage | Aus den "Letzten Tagen der Menschheit" | Legende | Schnellzug | Alle Vögel sind schon da | Traum vom Fliegen | Der Bauer, der Hund und der Soldat | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég | Inschriften: Umsturz; Immer feste druff; Nibelungentreue</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-05-28">28.05.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7688">
+            <p/>
+            <p>[Karl Kraus las im Bechstein-Saal am] 28. Mai, 8 Uhr:</p>
+            <p>I. Vorwort. — Mit der Uhr in der Hand / Aus den »Letzten Tagen der Menschheit«:
+               Militärspital; Die beiden Generale; Erzherzog Friedrich; Der blinde Soldat / Der
+               sterbende Soldat / Ich habe einen Blick gesehn / Brief Rosa Luxemburgs (mit
+               Vorbemerkung) / Absage.</p>
+            <p>II. Aus den »Letzten Tagen der Menschheit«: Kriegsarchiv (mit Vorbemerkung) /
+               Inschriften: Dichterschule; Das siebente Gebot; Schlechter Tausch; Felix Austria;
+               Mord in Ungarn; Sprachenpflege / Legende / Schnellzug / Alle Vögel sind schon da /
+               Traum vom Fliegen / Der Bauer, der Hund und der Soldat / Géza von Lakkati de
+               Némesfalva et Kutjafelegfaluszég / Inschriften: Umsturz; Immer feste druff;
+               Nibelungentreue.</p>
+            <p>[Die Fackel 546-550, 07.1920, 3] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132474">
+            <p>Programm im Bechstein-Saal: Vorwort | Mit der Uhr in der Hand | Aus den "Letzten
+               Tagen der Menschheit" | Der sterbende Soldat | Ich habe einen Blick gesehn | Brief
+               Rosa Luxemburgs (mit Vorbemerkung) | Absage | Aus den "Letzten Tagen der Menschheit"
+               | Legende | Schnellzug | Alle Vögel sind schon da | Traum vom Fliegen | Der Bauer,
+               der Hund und der Soldat | Géza von Lakkati de Némesfalva et Kutjafelegfaluszég |
+               Inschriften: Umsturz; Immer feste druff; Nibelungentreue</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="20:00:00">20:00</time>
+               <date when-iso="1920-05-28"><name type="day">Freitag</name>, 28.05.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7688">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Vorwort </p><p>Mit der Uhr in der Hand</p><p>Aus den "Letzten Tagen der Menschheit": Militärspital; Die beiden Generale; Erzherzog Friedrich; Der blinde Soldat</p><p>Der sterbende Soldat</p><p>Ich habe einen Blick gesehn</p><p>Brief Rosa Luxemburgs (mit Vorbemerkung)</p><p>Absage</p><p>II.</p><p>Aus den "Letzten Tagen der Menschheit": Kriegsarchiv (mit Vorbemerkung)</p><p>Inschriften: Dichterschule; Das siebente Gebot; Schlechter Tausch; Felix Austria; Mord in Ungarn; Sprachenpflege</p><p>Legende</p><p>Schnellzug </p><p>Alle Vögel sind schon da </p><p>Traum vom Fliegen </p><p>Der Bauer, der Hund und der Soldat</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég |</p><p>Inschriften: Umsturz; Immer feste druff; Nibelungentreue;</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Vorwort </p>
+         <p>Mit der Uhr in der Hand</p>
+         <p>Aus den "Letzten Tagen der Menschheit": Militärspital; Die beiden Generale; Erzherzog
+            Friedrich; Der blinde Soldat</p>
+         <p>Der sterbende Soldat</p>
+         <p>Ich habe einen Blick gesehn</p>
+         <p>Brief Rosa Luxemburgs (mit Vorbemerkung)</p>
+         <p>Absage</p>
+         <p>II.</p>
+         <p>Aus den "Letzten Tagen der Menschheit": Kriegsarchiv (mit Vorbemerkung)</p>
+         <p>Inschriften: Dichterschule; Das siebente Gebot; Schlechter Tausch; Felix Austria; Mord
+            in Ungarn; Sprachenpflege</p>
+         <p>Legende</p>
+         <p>Schnellzug </p>
+         <p>Alle Vögel sind schon da </p>
+         <p>Traum vom Fliegen </p>
+         <p>Der Bauer, der Hund und der Soldat</p>
+         <p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég |</p>
+         <p>Inschriften: Umsturz; Immer feste druff; Nibelungentreue;</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-01-11">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 154. Vorlesung am 11.01.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7658</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7658" type="shortlink">https://www.kraus.wienbibliothek.at/node/7658</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/154-vorlesung-am-11011920" type="fulllink">https://www.kraus.wienbibliothek.at/content/154-vorlesung-am-11011920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7658" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7658</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/154-vorlesung-am-11011920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/154-vorlesung-am-11011920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132421">
                <title>Vorlesung Karl Kraus. Wien, 1920.01.11</title>
@@ -49,63 +55,162 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132421</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132421" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132421</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15960874" type="opaclink">https://permalink.obvsg.at/wbr/AC15960874</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132421" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132421</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39700</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132421"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132421</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15960874" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15960874</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132421" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132421</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_7ce369cd">
                <note source="#krausonline_7658">Die Fackel 521-530, 01.1920, 98</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">521-530</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">98</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/521-530,098">https://fackel.oeaw.ac.at/f/521-530,098</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/521,098"
+                  >https://fackel.oeaw.ac.at/f/521,098</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239616 </idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrags der Vorlesung (Kinderfürsorge) und auf Kraus' nächste Vorlesung</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck</ab>
+                  <ab>Bl. 1r: Hinweis auf die Verwendung des Ertrags der Vorlesung (Kinderfürsorge)
+                     und auf Kraus' nächste Vorlesung</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7658">
-           <p />
-        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 11. Januar, ½3 Uhr:</p><p>I. Lammasch und die Christen.</p><p>Gerhart Hauptmann, »Die Weber« I. und II. Akt.</p><p>II. »Die Weber«, IV. Akt.</p><p>Gebet an die Sonne von Gibeon.</p><p>Die Hälfte des Ertrags für die Kinderausspeisung.</p><p>[Die Fackel 521-530, 01.1920, 98] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132421"><p>Programm im Mittleren Konzerthaussaal: Lammasch und die Christen (Manuskript) | Aus: Die Weber. Schauspiel aus den vierziger Jahren von Gerhart Hauptmann | Gebet an die Sonne von Gibeon</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-01-11">11.01.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7658">
+            <p/>
+            <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 11. Januar, ½3 Uhr:</p>
+            <p>I. Lammasch und die Christen.</p>
+            <p>Gerhart Hauptmann, »Die Weber« I. und II. Akt.</p>
+            <p>II. »Die Weber«, IV. Akt.</p>
+            <p>Gebet an die Sonne von Gibeon.</p>
+            <p>Die Hälfte des Ertrags für die Kinderausspeisung.</p>
+            <p>[Die Fackel 521-530, 01.1920, 98] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132421">
+            <p>Programm im Mittleren Konzerthaussaal: Lammasch und die Christen (Manuskript) | Aus:
+               Die Weber. Schauspiel aus den vierziger Jahren von Gerhart Hauptmann | Gebet an die
+               Sonne von Gibeon</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="14:30:00">14:30</time>
+               <date when-iso="1920-01-11"><name type="day">Sonntag</name>, 11.01.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7658">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>Lammasch und die Christen (Manuskript)</p><p>Aus: Die Weber.</p><p>Schauspiel aus den vierziger Jahren von Gerhart Hauptmann</p><p>[...]</p><p> </p><p>Die erste vollständige Vorlesung der »Weber« hat am 23. August 1893 nachmittags in Ischl stattgefunden; ihr folgte eine am 3. Oktober in München (im großen Saal des Museums); hierauf eine vom Allgemeinen Österreichischen Frauenverein, Dezember 1893, veranstaltete in Wien (im Saale
-	des Gemeindehauses IX), des II. Aktes; eine ebensolche am 11. Dezember 1894, an einem Abend der Wiener Musik- und Theater-Gesellschaft, an dem auch M. G. Conrad und Josef Lewinskymitgewirkt haben.</p><p>Von Pressestimmen zu diesen Vorlesungen sind nur zwei aufbewahrt. Münchener Allgemeine Zeitung, 4. Oktober 1893, Abendblatt:</p><p> </p><p>μ München, 4. Oct. Der Akademisch-dramatische Verein veranstaltet literarische Vortragsabende, an welchen moderne Dramen, die hier noch nicht aufgeführt wurden, zur Vorlesung gelangen. Gestern trug Hr. Karl Kraus, Schriftsteller aus Wien, Gerhart Hauptmanns „Weber“ vor — dieses bedeutendste Drama des jungen hochbegabten Autors, das von den beiden Gewalten, die nach Schiller die Welt zusammenhalten, dem Hunger und der Liebe, die erstere zum einzigen Motiv gewählt hat, und zum Helden gab er ihm einen ganzen Stand: die armen schlesischen Weber der vierziger Jahre. Noch gegenwärtig wird in Berlin um die Aufführung des Stückes gekämpft, denn wenn es auch alle Welt längst durch die Lectüre kennt, es ist nichts weniger als ein Lesedrama und schreit förmlich nach der Verkörperung auf der Bühne. Daß es aber auch vorgetragen von großer Wirkung ist, bewies der gestrige Abend. Hr. Kraus ist eine blutjunge bartlose Erscheinung, der man, wenn sie in einem Piccolo-Jaquet das Podium betritt, kaum viel zuzutrauen geneigt ist. Anfangs war er den Meisten auch schwer verständlich, nicht weil er das Original im schlesischen Dialekt las, sondern der ziemlich undeutlich hervorgesprudelten hochdeutschen Stellen wegen. Er wuchs aber mit seiner Aufgabe von Act zu Act, und man fühlte, er ließ sich durch sie begeistert mit fortreißen und beherrschte sie doch wieder zugleich mit ungewöhnlicher Gewandtheit. Hr. Kraus besitzt eine ganz bedeutende schauspielerische Begabung. Gesicht und Bewegungen werden im Laufe der Rede immer ausdrucksvoller, und diese selbst weiß die zahlreichen Personen des Stückes außerordentlich prägnant zu charakterisiren. Der Vortrag, der im Museum stattfand, war leider nur von einem sehr kleinen Publicum besucht, dieses zollte jedoch, von der Kraft der Dichtung hingerissen, dem jungen Recitator nach jeder Pause freundliche Anerkennung, wenn auch der von 8 bis 11 Uhr dauernde Vortrag des einen Hungerthemas zuletzt die erschöpften Zuhörer in einen Zustand versetzte, der dem der schlesischen Weber nicht so unähnlich gewesen sein mag.</p><p> </p><p>Neue Freie Presse, 15. Dezember 1893: Das jüngst erschienene Heft einer deutschen Revue enthält einen Münchener Kunstbrief des Dr. M. G. Conrad, der die »Weber«-Rezitation des jungen Wiener Literaten Karl Kraus überaus anerkennend hervorhebt, es heißt dort unter anderm: »Eine rühmliche That haben wir wiederum dem unermüdlich strebsamen »Akademisch-dramatischen Verein« zu verdanken: die Vorlesung des  Hauptmannschen Meisterwerkes »Die Weber«. Der Vorleser [unser wertgeschätzter Mitarbeiter] Karl Kraus aus Wien, bewältigte die schwierige Aufgabe mit ungemeinem Talente. Einzelnes brachte er mit der Kunst seines Vortrages und erstaunlicher Beherrschung seiner charakterisierungskräftigen Stimmittel unübertrefflich zur Geltung, so namentlich den ganzen zweiten und vierten Akt. [Es war ein kleines, ausgewähltes Publikum im Museums-Saale, das dem Vortrage lauschte. Karl Kraus erntete den wohlverdienten Beifall. Sein Name wird forthin neben den besten Rezitatoren als der eines der kühnsten Bahnbrecher auf dem Gebiete dramatischen Vortrages mit Auszeichnung genannt werden.]« Vergangenen Mittwoch las Herr Kraus im Wiener Allgemeinen österreichischen Frauenverein, einer Einladung desselben folgend, den zweiten Akt der oben erwähnten Dichtung Hauptmanns nebst einer erläuternden Einleitung und erntete auch hier wohlverdienten Beifall.</p><p> </p><p>Das Zitat war der Conrad’schen Monatsschrift »Die Gesellschaft« (Leipzig, Novemberheft 1893, »Aus dem Münchener Kunstleben«) entnommen. Nicht vollständig. Die eingeklammerten Sätze hatte die Neue Freie Presse weggelassen. Namentlich die im Schlußsatz enthaltene Prophezeiung wollte die Neue Freie Presse nicht auf sich nehmen. Sie hielt sie für unerfüllbar und sie hat recht behalten. Der Name des Vortragenden ist forthin neben den besten Rezitatoren als der eines der kühnsten Bahnbrecher auf dem Gebiete dramatischen Vortrages nicht genannt worden.</p><p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p><p>Gebet an die Sonne von Gibeon</p><p>Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie vorauszusehen, die Zeit nach der Pause nicht ausreicht. Im andern Fall würde er anstatt des IV. Aktes der »Weber« und des » Gebets an die Sonne von Gibeon« gelesen werden.</p><p>Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p><p>[...]</p><p> </p></body>
+         <p>[...]</p>
+         <p>Lammasch und die Christen (Manuskript)</p>
+         <p>Aus: Die Weber.</p>
+         <p>Schauspiel aus den vierziger Jahren von Gerhart Hauptmann</p>
+         <p>[...]</p>
+         <p> </p>
+         <p>Die erste vollständige Vorlesung der »Weber« hat am 23. August 1893 nachmittags in Ischl
+            stattgefunden; ihr folgte eine am 3. Oktober in München (im großen Saal des Museums);
+            hierauf eine vom Allgemeinen Österreichischen Frauenverein, Dezember 1893, veranstaltete
+            in Wien (im Saale des Gemeindehauses IX), des II. Aktes; eine ebensolche am 11. Dezember
+            1894, an einem Abend der Wiener Musik- und Theater-Gesellschaft, an dem auch M. G.
+            Conrad und Josef Lewinskymitgewirkt haben.</p>
+         <p>Von Pressestimmen zu diesen Vorlesungen sind nur zwei aufbewahrt. Münchener Allgemeine
+            Zeitung, 4. Oktober 1893, Abendblatt:</p>
+         <p> </p>
+         <p>μ München, 4. Oct. Der Akademisch-dramatische Verein veranstaltet literarische
+            Vortragsabende, an welchen moderne Dramen, die hier noch nicht aufgeführt wurden, zur
+            Vorlesung gelangen. Gestern trug Hr. Karl Kraus, Schriftsteller aus Wien, Gerhart
+            Hauptmanns „Weber“ vor — dieses bedeutendste Drama des jungen hochbegabten Autors, das
+            von den beiden Gewalten, die nach Schiller die Welt zusammenhalten, dem Hunger und der
+            Liebe, die erstere zum einzigen Motiv gewählt hat, und zum Helden gab er ihm einen
+            ganzen Stand: die armen schlesischen Weber der vierziger Jahre. Noch gegenwärtig wird in
+            Berlin um die Aufführung des Stückes gekämpft, denn wenn es auch alle Welt längst durch
+            die Lectüre kennt, es ist nichts weniger als ein Lesedrama und schreit förmlich nach der
+            Verkörperung auf der Bühne. Daß es aber auch vorgetragen von großer Wirkung ist, bewies
+            der gestrige Abend. Hr. Kraus ist eine blutjunge bartlose Erscheinung, der man, wenn sie
+            in einem Piccolo-Jaquet das Podium betritt, kaum viel zuzutrauen geneigt ist. Anfangs
+            war er den Meisten auch schwer verständlich, nicht weil er das Original im schlesischen
+            Dialekt las, sondern der ziemlich undeutlich hervorgesprudelten hochdeutschen Stellen
+            wegen. Er wuchs aber mit seiner Aufgabe von Act zu Act, und man fühlte, er ließ sich
+            durch sie begeistert mit fortreißen und beherrschte sie doch wieder zugleich mit
+            ungewöhnlicher Gewandtheit. Hr. Kraus besitzt eine ganz bedeutende schauspielerische
+            Begabung. Gesicht und Bewegungen werden im Laufe der Rede immer ausdrucksvoller, und
+            diese selbst weiß die zahlreichen Personen des Stückes außerordentlich prägnant zu
+            charakterisiren. Der Vortrag, der im Museum stattfand, war leider nur von einem sehr
+            kleinen Publicum besucht, dieses zollte jedoch, von der Kraft der Dichtung hingerissen,
+            dem jungen Recitator nach jeder Pause freundliche Anerkennung, wenn auch der von 8 bis
+            11 Uhr dauernde Vortrag des einen Hungerthemas zuletzt die erschöpften Zuhörer in einen
+            Zustand versetzte, der dem der schlesischen Weber nicht so unähnlich gewesen sein
+            mag.</p>
+         <p> </p>
+         <p>Neue Freie Presse, 15. Dezember 1893: Das jüngst erschienene Heft einer deutschen Revue
+            enthält einen Münchener Kunstbrief des Dr. M. G. Conrad, der die »Weber«-Rezitation des
+            jungen Wiener Literaten Karl Kraus überaus anerkennend hervorhebt, es heißt dort unter
+            anderm: »Eine rühmliche That haben wir wiederum dem unermüdlich strebsamen
+            »Akademisch-dramatischen Verein« zu verdanken: die Vorlesung des  Hauptmannschen
+            Meisterwerkes »Die Weber«. Der Vorleser [unser wertgeschätzter Mitarbeiter] Karl Kraus
+            aus Wien, bewältigte die schwierige Aufgabe mit ungemeinem Talente. Einzelnes brachte er
+            mit der Kunst seines Vortrages und erstaunlicher Beherrschung seiner
+            charakterisierungskräftigen Stimmittel unübertrefflich zur Geltung, so namentlich den
+            ganzen zweiten und vierten Akt. [Es war ein kleines, ausgewähltes Publikum im
+            Museums-Saale, das dem Vortrage lauschte. Karl Kraus erntete den wohlverdienten Beifall.
+            Sein Name wird forthin neben den besten Rezitatoren als der eines der kühnsten
+            Bahnbrecher auf dem Gebiete dramatischen Vortrages mit Auszeichnung genannt werden.]«
+            Vergangenen Mittwoch las Herr Kraus im Wiener Allgemeinen österreichischen Frauenverein,
+            einer Einladung desselben folgend, den zweiten Akt der oben erwähnten Dichtung
+            Hauptmanns nebst einer erläuternden Einleitung und erntete auch hier wohlverdienten
+            Beifall.</p>
+         <p> </p>
+         <p>Das Zitat war der Conrad’schen Monatsschrift »Die Gesellschaft« (Leipzig, Novemberheft
+            1893, »Aus dem Münchener Kunstleben«) entnommen. Nicht vollständig. Die eingeklammerten
+            Sätze hatte die Neue Freie Presse weggelassen. Namentlich die im Schlußsatz enthaltene
+            Prophezeiung wollte die Neue Freie Presse nicht auf sich nehmen. Sie hielt sie für
+            unerfüllbar und sie hat recht behalten. Der Name des Vortragenden ist forthin neben den
+            besten Rezitatoren als der eines der kühnsten Bahnbrecher auf dem Gebiete dramatischen
+            Vortrages nicht genannt worden.</p>
+         <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
+         <p>Gebet an die Sonne von Gibeon</p>
+         <p>Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung des Epilogs »Die
+            letzte Nacht« muß unterbleiben, wenn, wie vorauszusehen, die Zeit nach der Pause nicht
+            ausreicht. Im andern Fall würde er anstatt des IV. Aktes der »Weber« und des » Gebets an
+            die Sonne von Gibeon« gelesen werden.</p>
+         <p>Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p>
+         <p>[...]</p>
+         <p> </p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

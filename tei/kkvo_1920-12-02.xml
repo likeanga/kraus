@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-12-02">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 184. Vorlesung am 02.12.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7716</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7716" type="shortlink">https://www.kraus.wienbibliothek.at/node/7716</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/184-vorlesung-am-02121920" type="fulllink">https://www.kraus.wienbibliothek.at/content/184-vorlesung-am-02121920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7716" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7716</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/184-vorlesung-am-02121920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/184-vorlesung-am-02121920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132524">
                <title>Vorlesung Karl Kraus. Wien, 1920.12.02</title>
@@ -49,62 +55,123 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132524</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132524" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132524</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC16001714" type="opaclink">https://permalink.obvsg.at/wbr/AC16001714</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132524" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132524</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39991</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132524"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132524</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC16001714" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC16001714</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132524" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132524</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_7baae7df">
                <note source="#krausonline_7716">Die Fackel 557-560, 01.1921, 30</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">557-560</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">30</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/557-560,030">https://fackel.oeaw.ac.at/f/557-560,030</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/557,030"
+                  >https://fackel.oeaw.ac.at/f/557,030</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239645</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für die Heilanstalt Alland)</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck</ab>
+                  <ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für die
+                     Heilanstalt Alland)</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7716">
-           <p />
-        <p>[Karl Kraus las im Festsaal des Niederösterreichischen Gewerbe-Vereins am] 2. Dezember, halb 7 Uhr:</p><p>I. Ferdinand Raimund: Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, II 4 bis 7 / Aus III 8: Monolog des Wurzel (Aschenlied) [Musik von Josef Drechsler]. — Der Alpenkönig und der Menschenfeind, I 11 bis 21 [Musik von Wenzel Müller] / Der Verschwender III 10: Monolog des Valentin (Hobellied) [Musik von Conradin Kreutzer].</p><p>II. Das Notwendige und das Überflüssige (nach »Die beiden Nachtwandler«), Posse mit Gesang in zwei Akten von Johann Nestroy, bearbeitet von Karl Kraus [Musik nach Angabe des Bearbeiters, gesetzt von Otto Janowitz und Anderen].</p><p>Begleitung: Dr. Viktor Junk.</p><p>Der volle Ertrag dieser wie der vorhergegangenen Vorlesung — zu beträchtlich erhöhten Preisen — ist der Heilanstalt Alland (Notstandsausschuß der Heilanstalt Alland II bei Baden) zugeführt worden: — inklusive Erlös des Programms und bei Provisionsverzicht der Verkaufsstelle Lanyi und Gratisdruck durch die Druckerei — K 20.342·20.</p><p>[Die Fackel 557-560, 01.1921, 30] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132524"><p>Programm im Festsaal des Niederösterreichischen Gewerbe-Vereins: Ferdinand Raimund: Das Mädchen aus der Feenwelt oder Der Bauer als Millionär; Der Alpenkönig und der Menschenfeind | Johann Nestroy: Das Notwendige und das Überflüssige (Nach "Die beiden Nachtwandler"). Posse mit Gesang in zwei Akten</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-12-02">02.12.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7716">
+            <p/>
+            <p>[Karl Kraus las im Festsaal des Niederösterreichischen Gewerbe-Vereins am] 2.
+               Dezember, halb 7 Uhr:</p>
+            <p>I. Ferdinand Raimund: Das Mädchen aus der Feenwelt oder Der Bauer als Millionär, II 4
+               bis 7 / Aus III 8: Monolog des Wurzel (Aschenlied) [Musik von Josef Drechsler]. — Der
+               Alpenkönig und der Menschenfeind, I 11 bis 21 [Musik von Wenzel Müller] / Der
+               Verschwender III 10: Monolog des Valentin (Hobellied) [Musik von Conradin
+               Kreutzer].</p>
+            <p>II. Das Notwendige und das Überflüssige (nach »Die beiden Nachtwandler«), Posse mit
+               Gesang in zwei Akten von Johann Nestroy, bearbeitet von Karl Kraus [Musik nach Angabe
+               des Bearbeiters, gesetzt von Otto Janowitz und Anderen].</p>
+            <p>Begleitung: Dr. Viktor Junk.</p>
+            <p>Der volle Ertrag dieser wie der vorhergegangenen Vorlesung — zu beträchtlich erhöhten
+               Preisen — ist der Heilanstalt Alland (Notstandsausschuß der Heilanstalt Alland II bei
+               Baden) zugeführt worden: — inklusive Erlös des Programms und bei Provisionsverzicht
+               der Verkaufsstelle Lanyi und Gratisdruck durch die Druckerei — K 20.342·20.</p>
+            <p>[Die Fackel 557-560, 01.1921, 30] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132524">
+            <p>Programm im Festsaal des Niederösterreichischen Gewerbe-Vereins: Ferdinand Raimund:
+               Das Mädchen aus der Feenwelt oder Der Bauer als Millionär; Der Alpenkönig und der
+               Menschenfeind | Johann Nestroy: Das Notwendige und das Überflüssige (Nach "Die beiden
+               Nachtwandler"). Posse mit Gesang in zwei Akten</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="18:30:00">18:30</time>
+               <date when-iso="1920-12-02"><name type="day">Donnerstag</name>, 02.12.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7716">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Ferdinand Raimund:</p><p>Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</p><p>II 4 bis 7 [...]</p><p>Aus III 8: Monolog des Wurzel (Aschenlied)</p><p>Musik von Josef Drechsler</p><p>Der Alpenkönig und der Menschenfeind</p><p>I 11 bis 21 [..]</p><p>Musik von Wenzel Müller</p><p>Der Verschwender III 10: Monolog des Valentin (Hobellied)</p><p>Musik von Conradin Kreutzer</p><p>10 Minuten Pause</p><p>II.</p><p>Das Notwendige und das Überflüssige (nach »Die beiden Nachtwandler«)</p><p>Posse mit Gesang in zwei Akten von Johann Nestroy</p><p>Bearbeitet von Karl Kraus</p><p>(Verlag von Richard Lányi, Wien 1920. Das Erträgnis aus dem verlag fällt wohltätigen Zwecken zu.)</p><p>[...]</p><p>Musik nach Angabe des Bearbeiters, gesetzt von Otto Janowitz und Anderen</p><p>Zwischen den beiden Akten eine ganz kurze Pause.</p><p>Begleitung: Dr. Viktor Junk</p><p>Änderung und Kürzung vorbehalten.</p><p>Der volle Ertrag dieser wie der vorhergegangenen Vorlesung für die Heilanstalt Alland. Spenden erbeten an den Notstandsausschuß der Heilanstalt Alland II (bei Baden).</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Ferdinand Raimund:</p>
+         <p>Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</p>
+         <p>II 4 bis 7 [...]</p>
+         <p>Aus III 8: Monolog des Wurzel (Aschenlied)</p>
+         <p>Musik von Josef Drechsler</p>
+         <p>Der Alpenkönig und der Menschenfeind</p>
+         <p>I 11 bis 21 [..]</p>
+         <p>Musik von Wenzel Müller</p>
+         <p>Der Verschwender III 10: Monolog des Valentin (Hobellied)</p>
+         <p>Musik von Conradin Kreutzer</p>
+         <p>10 Minuten Pause</p>
+         <p>II.</p>
+         <p>Das Notwendige und das Überflüssige (nach »Die beiden Nachtwandler«)</p>
+         <p>Posse mit Gesang in zwei Akten von Johann Nestroy</p>
+         <p>Bearbeitet von Karl Kraus</p>
+         <p>(Verlag von Richard Lányi, Wien 1920. Das Erträgnis aus dem verlag fällt wohltätigen
+            Zwecken zu.)</p>
+         <p>[...]</p>
+         <p>Musik nach Angabe des Bearbeiters, gesetzt von Otto Janowitz und Anderen</p>
+         <p>Zwischen den beiden Akten eine ganz kurze Pause.</p>
+         <p>Begleitung: Dr. Viktor Junk</p>
+         <p>Änderung und Kürzung vorbehalten.</p>
+         <p>Der volle Ertrag dieser wie der vorhergegangenen Vorlesung für die Heilanstalt Alland.
+            Spenden erbeten an den Notstandsausschuß der Heilanstalt Alland II (bei Baden).</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

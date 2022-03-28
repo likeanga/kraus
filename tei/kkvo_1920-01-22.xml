@@ -49,6 +49,7 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132432</idno>
+               <idno type="URN">urn:nbn:at:AT-WBR-39730</idno>
                <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132432" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132432</ref>
                <ref target="https://permalink.obvsg.at/wbr/AC15993854" type="opaclink">https://permalink.obvsg.at/wbr/AC15993854</ref>
                <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132432" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132432</ref>
@@ -60,14 +61,17 @@
                <date />
                <biblScope unit="page">23</biblScope>
                
-            <ref target="https://fackel.oeaw.ac.at/f/531-543,023">https://fackel.oeaw.ac.at/f/531-543,023</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/531,023">https://fackel.oeaw.ac.at/f/531,023</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239619</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
                <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
@@ -83,8 +87,8 @@
         </langUsage>
         <settingDesc>
            <setting>
-              <time />
-              <date when-iso="1920-01-22">22.01.1920</date>
+              <time when="20:00:00">8 Uhr</time>
+              <date when-iso="1920-01-22"><name type="day">Donnerstag</name>, 22.01.1920</date>
               <locale>
                  <placeName ref="" />
               </locale>

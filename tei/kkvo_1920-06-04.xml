@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-06-04">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 174. Vorlesung am 04.06.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7696</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7696" type="shortlink">https://www.kraus.wienbibliothek.at/node/7696</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/174-vorlesung-am-04061920" type="fulllink">https://www.kraus.wienbibliothek.at/content/174-vorlesung-am-04061920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7696" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7696</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/174-vorlesung-am-04061920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/174-vorlesung-am-04061920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132488">
                <title>Vorlesung Karl Kraus. Dresden, 1920.06.04</title>
@@ -49,62 +55,129 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132488</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132488" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132488</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15984212" type="opaclink">https://permalink.obvsg.at/wbr/AC15984212</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132488" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132488</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39895</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132488"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132488</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15984212" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15984212</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132488" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132488</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_9d882fac">
                <note source="#krausonline_7696">Die Fackel 546-550, 07.1920, 4</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">546-550</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">4</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/546-550,004">https://fackel.oeaw.ac.at/f/546-550,004</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/546,004"
+                  >https://fackel.oeaw.ac.at/f/546,004</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239635</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Typoskr.</ab><ab>Abschrift</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Typoskr.</ab>
+                  <ab>Abschrift</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7696">
-           <p />
-        <p>[Karl Kraus las im Kleinen Saal der Kaufmannschaft am] 4. Juni, 7 Uhr:</p><p>I. Programmansage. — Jean Paul: Erinnerungen aus den schönsten Stunden für die letzten / Claudius: An —, als ihm die — starb; Bei dem Grabe meines Vaters; Der Tod und das Mädchen; Als der Hund tot war; Kriegslied / Chinesische Kriegslyrik: Der müde Soldat; Nachts im Zelt; Klage der Garde / Shakespeare: Heinrich VI. dritter Teil II 5 / Brief Rosa Luxemburgs (mit Vorbemerkung) / Absage.</p><p>II. Vorwort. — Aus den »Letzten Tagen der Menschheit«: Der blinde Soldat; Erzherzog Friedrich / Der Bauer, der Hund und der Soldat / Beim Anblick einer Schwangeren / Grabschrift / Vor einem Springbrunnen / Der Reim / Kompetenz vor der Sprache / Der Flieder / Jugend / Inschriften: Wien im Krieg; Die unzulängliche Macht; Rekonvaleszenz; Mord in Ungarn; Umsturz; Nibelungentreue / Der sterbende Soldat / Zum ewigen Frieden.</p><p>[Die Fackel 546-550, 07.1920, 4] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132488"><p>Programm im Kleinen Saal der Kaufmannschaft: Programmansage | Jean Paul: Erinnerungen aus den schönsten Stunden für die letzten | Claudius: An –, als ihm die – starb; Bei dem Grabe meines Vaters; Der Tod und das Mädchen; Als der Hund tot war; Kriegslied | Chinesische Kriegslyrik: Der müde Soldat; Nachts im Zelt; Klage der Garde | Shakespeare: Heinrich VI., dritter Teil II 5 | Brief Rosa Luxemburgs (mit Vorbemerkung) | Absage | Vorwort | Aus den "Letzten Tagen der Menschheit" | Der Bauer, der Hund und der Soldat | Beim Anblick einer Schwangeren | Grabschrift | Vor einem Springbrunnen| Der Reim | Kompetenz vor der Sprache | Der Flieder | Jugend | Inschriften: Wien im Krieg; Die unzulängliche Macht; Rekonvaleszenz; Mord in Ungarn; Umsturz; Nibelungentreue | Der sterbende Soldat | Zum ewigen Frieden</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-06-04">04.06.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7696">
+            <p/>
+            <p>[Karl Kraus las im Kleinen Saal der Kaufmannschaft am] 4. Juni, 7 Uhr:</p>
+            <p>I. Programmansage. — Jean Paul: Erinnerungen aus den schönsten Stunden für die
+               letzten / Claudius: An —, als ihm die — starb; Bei dem Grabe meines Vaters; Der Tod
+               und das Mädchen; Als der Hund tot war; Kriegslied / Chinesische Kriegslyrik: Der müde
+               Soldat; Nachts im Zelt; Klage der Garde / Shakespeare: Heinrich VI. dritter Teil II 5
+               / Brief Rosa Luxemburgs (mit Vorbemerkung) / Absage.</p>
+            <p>II. Vorwort. — Aus den »Letzten Tagen der Menschheit«: Der blinde Soldat; Erzherzog
+               Friedrich / Der Bauer, der Hund und der Soldat / Beim Anblick einer Schwangeren /
+               Grabschrift / Vor einem Springbrunnen / Der Reim / Kompetenz vor der Sprache / Der
+               Flieder / Jugend / Inschriften: Wien im Krieg; Die unzulängliche Macht;
+               Rekonvaleszenz; Mord in Ungarn; Umsturz; Nibelungentreue / Der sterbende Soldat / Zum
+               ewigen Frieden.</p>
+            <p>[Die Fackel 546-550, 07.1920, 4] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132488">
+            <p>Programm im Kleinen Saal der Kaufmannschaft: Programmansage | Jean Paul: Erinnerungen
+               aus den schönsten Stunden für die letzten | Claudius: An –, als ihm die – starb; Bei
+               dem Grabe meines Vaters; Der Tod und das Mädchen; Als der Hund tot war; Kriegslied |
+               Chinesische Kriegslyrik: Der müde Soldat; Nachts im Zelt; Klage der Garde |
+               Shakespeare: Heinrich VI., dritter Teil II 5 | Brief Rosa Luxemburgs (mit
+               Vorbemerkung) | Absage | Vorwort | Aus den "Letzten Tagen der Menschheit" | Der
+               Bauer, der Hund und der Soldat | Beim Anblick einer Schwangeren | Grabschrift | Vor
+               einem Springbrunnen| Der Reim | Kompetenz vor der Sprache | Der Flieder | Jugend |
+               Inschriften: Wien im Krieg; Die unzulängliche Macht; Rekonvaleszenz; Mord in Ungarn;
+               Umsturz; Nibelungentreue | Der sterbende Soldat | Zum ewigen Frieden</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="19:00:00">19:00</time>
+               <date when-iso="1920-06-04"><name type="day">Freitag</name>, 04.06.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7696">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Programmansage</p><p>Jean Paul: Erinnerungen aus den schönsten Stunden für die letzten </p><p>Claudius: An –, als ihm die – starb</p><p>Bei dem Grabe meines Vaters</p><p>Der Tod und das Mädchen</p><p>Als der Hund tot war</p><p>Kriegslied</p><p>Chinesische Kriegslyrik: Der müde Soldat</p><p>Nachts im Zelt</p><p>Klage der Garde</p><p>Shakespeare: Heinrich VI., dritter Teil II 5 </p><p>Brief Rosa Luxemburgs (mit Vorbemerkung)</p><p>Absage</p><p>II.</p><p>Vorwort</p><p>Aus den "Letzten Tagen der Menschheit": Der blinde Soldat; Erzherzog Friedrich;</p><p>Der Bauer, der Hund und der Soldat</p><p>Beim Anblick einer Schwangeren</p><p>Grabschrift </p><p>Vor einem Springbrunnen</p><p>Der Reim</p><p>Kompetenz vor der Sprache</p><p>Der Flieder</p><p>Jugend</p><p>Inschriften: Wien im Krieg; Die unzulängliche Macht; Rekonvaleszenz; Mord in Ungarn; Umsturz; Nibelungentreue;</p><p>Der sterbende Soldat</p><p>Zum ewigen Frieden</p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Programmansage</p>
+         <p>Jean Paul: Erinnerungen aus den schönsten Stunden für die letzten </p>
+         <p>Claudius: An –, als ihm die – starb</p>
+         <p>Bei dem Grabe meines Vaters</p>
+         <p>Der Tod und das Mädchen</p>
+         <p>Als der Hund tot war</p>
+         <p>Kriegslied</p>
+         <p>Chinesische Kriegslyrik: Der müde Soldat</p>
+         <p>Nachts im Zelt</p>
+         <p>Klage der Garde</p>
+         <p>Shakespeare: Heinrich VI., dritter Teil II 5 </p>
+         <p>Brief Rosa Luxemburgs (mit Vorbemerkung)</p>
+         <p>Absage</p>
+         <p>II.</p>
+         <p>Vorwort</p>
+         <p>Aus den "Letzten Tagen der Menschheit": Der blinde Soldat; Erzherzog Friedrich;</p>
+         <p>Der Bauer, der Hund und der Soldat</p>
+         <p>Beim Anblick einer Schwangeren</p>
+         <p>Grabschrift </p>
+         <p>Vor einem Springbrunnen</p>
+         <p>Der Reim</p>
+         <p>Kompetenz vor der Sprache</p>
+         <p>Der Flieder</p>
+         <p>Jugend</p>
+         <p>Inschriften: Wien im Krieg; Die unzulängliche Macht; Rekonvaleszenz; Mord in Ungarn;
+            Umsturz; Nibelungentreue;</p>
+         <p>Der sterbende Soldat</p>
+         <p>Zum ewigen Frieden</p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kkvo_1920-10-21">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Karl Kraus: 180. Vorlesung am 21.10.1920</title>
@@ -15,19 +15,22 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities</orgName>
+               <orgName>Institut Zentrum für Informationsmodellierung – Austrian Centre for Digital
+                  Humanities</orgName>
                <address>
                   <street>Elisabethstraße 59/III</street>
                   <postCode>8010</postCode>
                   <settlement>Graz</settlement>
                   <country>Austria</country>
                </address>
-               <ref target="https://informationsmodellierung.uni-graz.at">https://informationsmodellierung.uni-graz.at</ref>
+               <ref target="https://informationsmodellierung.uni-graz.at"
+                  >https://informationsmodellierung.uni-graz.at</ref>
             </publisher>
             <pubPlace>Graz, Austria</pubPlace>
             <date>2022</date>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International</licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">Creative Commons
+                  Attribution 4.0 International</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -40,8 +43,11 @@
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7708</idno>
-               <ref target="https://www.kraus.wienbibliothek.at/node/7708" type="shortlink">https://www.kraus.wienbibliothek.at/node/7708</ref>
-               <ref target="https://www.kraus.wienbibliothek.at/content/180-vorlesung-am-21101920" type="fulllink">https://www.kraus.wienbibliothek.at/content/180-vorlesung-am-21101920</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/node/7708" type="shortlink"
+                  >https://www.kraus.wienbibliothek.at/node/7708</ref>
+               <ref target="https://www.kraus.wienbibliothek.at/content/180-vorlesung-am-21101920"
+                  type="fulllink"
+                  >https://www.kraus.wienbibliothek.at/content/180-vorlesung-am-21101920</ref>
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132509">
                <title>Vorlesung Karl Kraus. Wien, 1920.10.21</title>
@@ -49,63 +55,138 @@
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132509</idno>
-               <ref target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132509" type="fulllink">https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132509</ref>
-               <ref target="https://permalink.obvsg.at/wbr/AC15974024" type="opaclink">https://permalink.obvsg.at/wbr/AC15974024</ref>
-               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132509" type="pdf">https://www.digital.wienbibliothek.at/download/pdf/1132509</ref>
+               <idno type="URN">urn:nbn:at:AT-WBR-39952</idno>
+               <ref
+                  target="https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132509"
+                  type="fulllink"
+                  >https://www.digital.wienbibliothek.at/wbrobv02/content/titleinfo/1132509</ref>
+               <ref target="https://permalink.obvsg.at/wbr/AC15974024" type="opaclink"
+                  >https://permalink.obvsg.at/wbr/AC15974024</ref>
+               <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132509" type="pdf"
+                  >https://www.digital.wienbibliothek.at/download/pdf/1132509</ref>
             </bibl>
             <bibl source="#fackel" xml:id="fackel_de3f6c14">
                <note source="#krausonline_7708">Die Fackel 554-556, 11.1920, 23</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">554-556</biblScope>
-               <date />
+               <date/>
                <biblScope unit="page">23</biblScope>
-               
-            <ref target="https://fackel.oeaw.ac.at/f/554-556,023">https://fackel.oeaw.ac.at/f/554-556,023</ref></bibl>
+               <ref target="https://fackel.oeaw.ac.at/f/554,023"
+                  >https://fackel.oeaw.ac.at/f/554,023</ref></bibl>
             <msDesc>
                <msIdentifier>
                   <institution>Wienbibliothek im Rathaus</institution>
                   <collection>Teilnachlass Karl Kraus</collection>
-                  <idno>000</idno>
+                  <idno>H.I.N.-239641</idno>
                   <altIdentifier>
-                     <idno>000</idno>
+                     <idno>IN 184232</idno>
+                  </altIdentifier>
+                  <altIdentifier>
+                     <idno>B 133993</idno>
                   </altIdentifier>
                </msIdentifier>
-               <physDesc><ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab><ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für eine schwer tuberkulöse Familie in Innsbruck) und auf Kraus' nächste Vorlesung; Anmerkung zu Störungen der Vorlesung</ab></physDesc>    
+               <physDesc>
+                  <ab type="extent">1 Bl., Druck mit hs. Korrekturen</ab>
+                  <ab>Bl. 1r: Hinweis auf die Verwendung des Ertrages der Vorlesung (für eine schwer
+                     tuberkulöse Familie in Innsbruck) und auf Kraus' nächste Vorlesung; Anmerkung
+                     zu Störungen der Vorlesung</ab>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <abstract source="#krausonline_7708">
-           <p />
-        <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 21. Oktober, halb 7 Uhr:</p><p>I. Klarstellung [Manuskript]. — Die Riesentanne. — Die letzten Tage der Menschheit [zum Teil Manuskript]: Am Ballhausplatz / Kastelruth / Winter in den Karpathen / Wachstube. — Brief von Rosa Luxemburg [mit Vorbemerkung]. — Antwort an Rosa Luxemburg von einer Unsentimentalen [Manuskript].</p><p>II. Apokalypse [mit Vorbemerkung]. — Zur Rückkehr der Kriegsgefangenen: Baracke in Sibirien / Heimkehr und Vollendung / Empfang durch die Kriegsberichterstatterin). — Die Schalek und Chor der Offiziere [mit Vorbemerkung] / Erzherzog Friedrich. — Die Ballade vom Papagei. — Inschriften: Umsturz. Nibelungentreue. Wohnungswechsel. — Der sterbende Soldat.</p><p>Ein Teil des Ertrags dieser Vorlesung für eine tuberkulöse Familie in Innsbruck.</p><p>[Die Fackel 554-556, 11.1920, 23] - zitiert nach  Austrian Academy Corpus </p></abstract>
-        <abstract source="#wienbib_1132509"><p>Programm im Mittleren Konzerthaussaal: Klarstellung (Manuskript) | Die Riesentanne | Die letzten Tage der Menschheit (zum Teil Manuskript) | Brief von Rosa Luxemburg (mit Vorbemerkung) | Antwort an Rosa Luxemburg von einer Unsentimentalen (Manuskript) | Apokalypse (mit Vorbemerkung) | Baracke in Sibirien | Heimkehr und Vollendung | Empfang durch die Kriegsberichterstatterin (Manuskript) | Die Schalek und der Chor der Offiziere | Erzherzog Friedrich | Die Ballade vom Papagei (Couplet macabre, geschrieben 1915, Melodie vom Verfasser) | Inschriften: Umsturz, Militarismus; Wohnungswechsel | Der sterbende Soldat</p></abstract><langUsage>
-           <language ident="ger">Deutsch</language>
-        </langUsage>
-        <settingDesc>
-           <setting>
-              <time />
-              <date when-iso="1920-10-21">21.10.1920</date>
-              <locale>
-                 <placeName ref="" />
-              </locale>
-           </setting>
-        </settingDesc>
-        <particDesc>
-           <listPerson>
-              <person />
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <abstract source="#krausonline_7708">
+            <p/>
+            <p>[Karl Kraus las im Mittleren Konzerthaussaal am] 21. Oktober, halb 7 Uhr:</p>
+            <p>I. Klarstellung [Manuskript]. — Die Riesentanne. — Die letzten Tage der Menschheit
+               [zum Teil Manuskript]: Am Ballhausplatz / Kastelruth / Winter in den Karpathen /
+               Wachstube. — Brief von Rosa Luxemburg [mit Vorbemerkung]. — Antwort an Rosa Luxemburg
+               von einer Unsentimentalen [Manuskript].</p>
+            <p>II. Apokalypse [mit Vorbemerkung]. — Zur Rückkehr der Kriegsgefangenen: Baracke in
+               Sibirien / Heimkehr und Vollendung / Empfang durch die Kriegsberichterstatterin). —
+               Die Schalek und Chor der Offiziere [mit Vorbemerkung] / Erzherzog Friedrich. — Die
+               Ballade vom Papagei. — Inschriften: Umsturz. Nibelungentreue. Wohnungswechsel. — Der
+               sterbende Soldat.</p>
+            <p>Ein Teil des Ertrags dieser Vorlesung für eine tuberkulöse Familie in Innsbruck.</p>
+            <p>[Die Fackel 554-556, 11.1920, 23] - zitiert nach Austrian Academy Corpus </p>
+         </abstract>
+         <abstract source="#wienbib_1132509">
+            <p>Programm im Mittleren Konzerthaussaal: Klarstellung (Manuskript) | Die Riesentanne |
+               Die letzten Tage der Menschheit (zum Teil Manuskript) | Brief von Rosa Luxemburg (mit
+               Vorbemerkung) | Antwort an Rosa Luxemburg von einer Unsentimentalen (Manuskript) |
+               Apokalypse (mit Vorbemerkung) | Baracke in Sibirien | Heimkehr und Vollendung |
+               Empfang durch die Kriegsberichterstatterin (Manuskript) | Die Schalek und der Chor
+               der Offiziere | Erzherzog Friedrich | Die Ballade vom Papagei (Couplet macabre,
+               geschrieben 1915, Melodie vom Verfasser) | Inschriften: Umsturz, Militarismus;
+               Wohnungswechsel | Der sterbende Soldat</p>
+         </abstract>
+         <langUsage>
+            <language ident="ger">Deutsch</language>
+         </langUsage>
+         <settingDesc>
+            <setting>
+               <time when="18:30:00">18:30</time>
+               <date when-iso="1920-10-21"><name type="day">Donnerstag</name>, 21.10.1920</date>
+               <locale>
+                  <placeName ref=""/>
+               </locale>
+            </setting>
+         </settingDesc>
+         <particDesc>
+            <listPerson>
+               <person/>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
    <text source="#krausonline_7708">
       <body>
          <p>Some text here.</p>
-      <p>[...]</p><p>I.</p><p>Klarstellung [Manuskript]</p><p>Die Riesentanne</p><p>Die letzten Tage der Menschheit [zum Teil Manuskript]:</p><p>Am Ballhausplatz</p><p>Kastelruth</p><p>Winter in den Karpathen</p><p>Wachstube</p><p>Brief von Rosa Luxemburg [mit Vorbemerkung]</p><p>Antwort an Rosa Luxemburg von einer Unsentimentalen [Manuskript]</p><p>Absage</p><p>10 Minuten Pause</p><p>II.</p><p>Apokalypse [mit Vorbemerkung]</p><p>Zur Rückkehr der Kriegsgefangenen: Baracke in Sibirien / Heimkehr und Vollendung / Empfang durch die Kriegsberichterstatterin)</p><p>Die Schalek und Chor der Offiziere [mit Vorbemerkung]</p><p>Erzherzog Friedrich</p><p>Während der Somme Schlacht</p><p>Zwei Generale</p><p>Die Ballade vom Papagei (Couplet macabre, geschrieben 1915, Melodie vom Verfasser)</p><p>Gespräch mit dem Monarchisten</p><p>Inschriften: Umsturz. Nibelungentreue. Wohnungswechsel.</p><p>Druckfehler in einer Verlustanzeige der ungarischen Regierung</p><p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p><p>Der sterbende Soldat.</p><p>Änderung und Kürzung vorbehalten.</p><p>Ein Teil des Ertrags dieser Vorlesung für eine tuberkulöse Familie in Innsbruck.</p><p>Spenden aus dem Publikum dringend erbeten an den Brenner-Verlag, Innsbruck Mühlau Nr. 102.</p><p>[...]</p><p>Wer zu der heutigen Vorlesung zu spät kommt und dadurch die Anwesenden stört, liest auch diese Anmerkung zu spät und wird deshalb erst das nächste Mal zurechtkommen.
-	Dagegen ist auch innerhalb der heutigen Vorlesung noch Zeit genug, denjenigen zu warnen, der etwa die Absicht hat, die Anwesenden am Schlusse zu stören, indem er den Saal verläßt, um mit der Garderobe wiederzukehren. Gegen solche, die gar mitten in der Vorlesung die Anwesenden stören wollten, würden sich diese selbst zu schützen wissen.</p><p>[...]</p><p> </p></body>
+         <p>[...]</p>
+         <p>I.</p>
+         <p>Klarstellung [Manuskript]</p>
+         <p>Die Riesentanne</p>
+         <p>Die letzten Tage der Menschheit [zum Teil Manuskript]:</p>
+         <p>Am Ballhausplatz</p>
+         <p>Kastelruth</p>
+         <p>Winter in den Karpathen</p>
+         <p>Wachstube</p>
+         <p>Brief von Rosa Luxemburg [mit Vorbemerkung]</p>
+         <p>Antwort an Rosa Luxemburg von einer Unsentimentalen [Manuskript]</p>
+         <p>Absage</p>
+         <p>10 Minuten Pause</p>
+         <p>II.</p>
+         <p>Apokalypse [mit Vorbemerkung]</p>
+         <p>Zur Rückkehr der Kriegsgefangenen: Baracke in Sibirien / Heimkehr und Vollendung /
+            Empfang durch die Kriegsberichterstatterin)</p>
+         <p>Die Schalek und Chor der Offiziere [mit Vorbemerkung]</p>
+         <p>Erzherzog Friedrich</p>
+         <p>Während der Somme Schlacht</p>
+         <p>Zwei Generale</p>
+         <p>Die Ballade vom Papagei (Couplet macabre, geschrieben 1915, Melodie vom Verfasser)</p>
+         <p>Gespräch mit dem Monarchisten</p>
+         <p>Inschriften: Umsturz. Nibelungentreue. Wohnungswechsel.</p>
+         <p>Druckfehler in einer Verlustanzeige der ungarischen Regierung</p>
+         <p>Géza von Lakkati de Némesfalva et Kutjafelegfaluszég</p>
+         <p>Der sterbende Soldat.</p>
+         <p>Änderung und Kürzung vorbehalten.</p>
+         <p>Ein Teil des Ertrags dieser Vorlesung für eine tuberkulöse Familie in Innsbruck.</p>
+         <p>Spenden aus dem Publikum dringend erbeten an den Brenner-Verlag, Innsbruck Mühlau Nr.
+            102.</p>
+         <p>[...]</p>
+         <p>Wer zu der heutigen Vorlesung zu spät kommt und dadurch die Anwesenden stört, liest auch
+            diese Anmerkung zu spät und wird deshalb erst das nächste Mal zurechtkommen. Dagegen ist
+            auch innerhalb der heutigen Vorlesung noch Zeit genug, denjenigen zu warnen, der etwa
+            die Absicht hat, die Anwesenden am Schlusse zu stören, indem er den Saal verläßt, um mit
+            der Garderobe wiederzukehren. Gegen solche, die gar mitten in der Vorlesung die
+            Anwesenden stören wollten, würden sich diese selbst zu schützen wissen.</p>
+         <p>[...]</p>
+         <p> </p>
+      </body>
    </text>
    <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>
