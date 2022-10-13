@@ -123,7 +123,7 @@
                <time when="15:00:00">15:00</time>
                <date when-iso="1920-03-14"><name type="day">Sonntag</name>, 14.03.1920</date>
                <locale>
-                  <placeName ref=""/>
+                  <placeName ref="jaja"/>
                </locale>
             </setting>
          </settingDesc>

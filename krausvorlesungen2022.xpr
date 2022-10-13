@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="22.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="krausvorlesungen2022.xpr">
+        <folder path="."/>
+        <folder path="tei/schema/"/>
+    </projectTree>
+</project>

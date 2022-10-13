@@ -136,6 +136,9 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <change who="#AH" when="2022-07-13"></change>
+      </revisionDesc>
    </teiHeader>
    <text source="#krausonline_7674">
       <body>
