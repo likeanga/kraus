@@ -125,7 +125,7 @@
                <time when="14:30:00">14:30</time>
                <date when-iso="1920-04-11"><name type="day">Sonntag</name>, 11.04.1920</date>
                <locale>
-                  <placeName ref=""/>
+                  <placeName ref="place:O.Mittlerer-Konzerthaussaal"/>
                </locale>
             </setting>
          </settingDesc>
@@ -135,6 +135,16 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="place"
+               matchPattern="(O\.\w+)"
+               replacementPattern="entities/kk_places.xml#$1">
+               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der Datei "kk_places" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
    </teiHeader>
    <text source="#krausonline_7682">
       <body>

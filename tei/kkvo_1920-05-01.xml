@@ -118,7 +118,7 @@
                <time when="18:30:00">18:30</time>
                <date when-iso="1920-05-01"><name type="date">Samstag</name>, 01.05.1920</date>
                <locale>
-                  <placeName ref=""/>
+                  <placeName ref="place:O.Mittlerer-Konzerthaussaal"/>
                </locale>
             </setting>
          </settingDesc>

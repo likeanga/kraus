@@ -123,7 +123,7 @@
                <time when="15:00:00">15:00</time>
                <date when-iso="1920-03-14"><name type="day">Sonntag</name>, 14.03.1920</date>
                <locale>
-                  <placeName ref="jaja"/>
+                  <placeName ref="place:O.Arbeiter-Bildungsverein"/>
                </locale>
             </setting>
          </settingDesc>
@@ -133,6 +133,16 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="place"
+               matchPattern="(O\.\w+)"
+               replacementPattern="entities/kk_places.xml#$1">
+               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der Datei "kk_places" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
    </teiHeader>
    <text source="#krausonline_7676">
       <body>

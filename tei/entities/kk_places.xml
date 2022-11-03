@@ -50,7 +50,7 @@
                         <idno type="Wienwiki"
                             >https://www.geschichtewiki.wien.gv.at/Renaissancetheater</idno>
                     </place>
-                    
+
                     <place xml:id="O.Wiener-Buergertheater">
                         <placeName>Wiener Bürgertheater</placeName>
                     </place>
@@ -67,7 +67,7 @@
                         </place>
                     </place>
 
-                   
+
                     <place xml:id="O.Wiener-Konzerthaus">
                         <placeName>Wiener Konzerthaus</placeName>
                         <location>
@@ -85,8 +85,10 @@
                             <placeName>Mittlerer Konzerthaussaal</placeName>
                             <placeName type="alt">Mittlerer Saal</placeName>
                             <placeName type="alt">Mozartsaal</placeName>
-                            <note>Mittlerer Saal (Mozartsaal, Renovierung [Wiederherstellung des ursprünglich Zustands] 1975; ursprünglich für <measure type="capacity">893</measure>, heute für 706 Personen)</note>
-                            
+                            <note>Mittlerer Saal (Mozartsaal, Renovierung [Wiederherstellung des
+                                ursprünglich Zustands] 1975; ursprünglich für <measure
+                                    type="capacity">893</measure>, heute für 706 Personen)</note>
+
                         </place>
                         <place xml:id="O.Kleiner-Konzerthaussaal">
                             <placeName>Kleiner Konzerthaussaal</placeName>
@@ -198,14 +200,15 @@
                         <placeName>Tiroler Landeskonservatorium</placeName>
                         <idno type="Wikidata">Q874350</idno>
                         <place xml:id="O.Musikvereinssaal-Innsbruck">
-                        <placeName>Musikvereinssaal</placeName>
-                        <location>
-                            <geo>47.26766329072288, 11.39840599610617</geo>
-                            <address>
-                                <settlement>Innsbruck</settlement>
-                            </address>
-                        </location>
-                    </place></place>
+                            <placeName>Musikvereinssaal</placeName>
+                            <location>
+                                <geo>47.26766329072288, 11.39840599610617</geo>
+                                <address>
+                                    <settlement>Innsbruck</settlement>
+                                </address>
+                            </location>
+                        </place>
+                    </place>
 
                     <place xml:id="O.Arbeiter-Bildungsverein">
                         <placeName>Arbeiter-Bildungsverein, Ehemaliges Militärkasino</placeName>
@@ -246,9 +249,10 @@
                             </address>
                         </location>
                         <place xml:id="O.Kleiner-Saal-Kaufmannschaft">
-                        <placeName>Kleiner Saal der Kaufmannschaft</placeName>
-                        
-                    </place></place>
+                            <placeName>Kleiner Saal der Kaufmannschaft</placeName>
+
+                        </place>
+                    </place>
 
                     <place xml:id="O.Mozarteum">
                         <placeName>Mozarteum</placeName>
