@@ -111,7 +111,7 @@
                <time when="20:00:00">20:00</time>
                <date when-iso="1920-01-22"><name type="day">Donnerstag</name>, 22.01.1920</date>
                <locale>
-                  <placeName ref=""/>
+                  <placeName ref="place:O.Bechstein-Saal"/>
                </locale>
             </setting>
          </settingDesc>
