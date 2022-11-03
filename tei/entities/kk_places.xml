@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Entities zu den Kraus-Vorlesungen</title>
+                <title type="sub">Verzeichnis der Orte</title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Angelika Hechtl</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>born digital</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab xml:id="entities_places">
+                <listPlace xml:id="places">
+
+                    <place xml:id="O.Musikvereinsgebaeude">
+                        <placeName>Musikvereinsgebäude</placeName>
+                        <location>
+                            <geo/>
+                        </location>
+                        <idno type="Wikidata">Q686720</idno>
+                        <idno type="Wienwiki"
+                            >https://www.geschichtewiki.wien.gv.at/Neues_Musikvereinsgeb%C3%A4ude</idno>
+
+                        <place xml:id="O.Musikvereinssaal-klein">
+                            <placeName>Kleiner Musikvereinssaal</placeName>
+                        </place>
+                        <place xml:id="O.Musikvereinssaal-gross">
+                            <placeName>Großer Musikvereinssaal</placeName>
+                        </place>
+                    </place>
+
+                    <place xml:id="O.Renaissancebuehne">
+                        <placeName>Renaissance-Bühne</placeName>
+                        <placeName>Renaissancetheater</placeName>
+                        <idno type="Wikidata">Q1620212</idno>
+                        <idno type="Wienwiki"
+                            >https://www.geschichtewiki.wien.gv.at/Renaissancetheater</idno>
+                    </place>
+                    
+                    <place xml:id="O.Wiener-Buergertheater">
+                        <placeName>Wiener Bürgertheater</placeName>
+                    </place>
+
+                    <place xml:id="O.Noe-Gewerbeverein">
+                        <placeName>Niederösterreichischer Gewerbeverein</placeName>
+                        <idno type="Wikidata">Q306269</idno>
+                        <idno type="Wienwiki"
+                            >https://www.geschichtewiki.wien.gv.at/Nieder%C3%B6sterreichischer_Gewerbeverein</idno>
+
+                        <place xml:id="O.Noe-Gewerbeverein-Festsaal">
+                            <placeName>Festsaal des Niederösterreichischen
+                                Gewerbevereins</placeName>
+                        </place>
+                    </place>
+
+                   
+                    <place xml:id="O.Wiener-Konzerthaus">
+                        <placeName>Wiener Konzerthaus</placeName>
+                        <location>
+                            <geo>48.200982931554286, 16.37738242443203</geo>
+                        </location>
+                        <idno type="Wikidata">Q695126</idno>
+                        <idno type="Wienwiki"
+                            >https://www.geschichtewiki.wien.gv.at/Konzerthaus</idno>
+                        <place xml:id="O.Grosser-Konzerthaussaal">
+                            <placeName>Großer Konzerthaussaal</placeName>
+                            <placeName type="alt">Großer Saal</placeName>
+                            <!-- Großer Saal (Renovierung 1974; ursprünglich für 2.030, heute für 1.840 Personen) -->
+                        </place>
+                        <place xml:id="O.Mittlerer-Konzerthaussaal">
+                            <placeName>Mittlerer Konzerthaussaal</placeName>
+                            <placeName type="alt">Mittlerer Saal</placeName>
+                            <placeName type="alt">Mozartsaal</placeName>
+                            <note>Mittlerer Saal (Mozartsaal, Renovierung [Wiederherstellung des ursprünglich Zustands] 1975; ursprünglich für <measure type="capacity">893</measure>, heute für 706 Personen)</note>
+                            
+                        </place>
+                        <place xml:id="O.Kleiner-Konzerthaussaal">
+                            <placeName>Kleiner Konzerthaussaal</placeName>
+                            <placeName type="alt">Kleiner Saal</placeName>
+                            <placeName type="alt">Schubertsaal</placeName>
+                            <!-- Kleiner Saal (Schubertsaal, Renovierung 1972; ursprünglich 414, heute für 336 Personen). -->
+                        </place>
+                    </place>
+
+
+                    <place xml:id="O.Klindworth-Scharwenka-Konservatorium">
+                        <placeName>Klindworth-Scharwenka-Konservatorium</placeName>
+                        <location>
+                            <geo>52.50481803051303, 13.360502203684394</geo>
+                            <address>
+                                <settlement>Berlin</settlement>
+                            </address>
+                        </location>
+                        <idno/>
+                        <place xml:id="O.Klindworth-Scharwenka-Saal">
+                            <placeName>Klindworth-Scharwenka-Saal</placeName>
+                        </place>
+                    </place>
+
+
+                    <place xml:id="O.Druckerei-Jahoda-Siegel">
+                        <placeName>Druckerei Jahoda &amp; Siegel</placeName>
+                        <location>
+                            <address>
+                                <street>Hintere Zollamtstraße 3</street>
+                                <postCode>1030</postCode>
+                                <settlement>Wien</settlement>
+                            </address>
+                        </location>
+                    </place>
+                    <place xml:id="O.Kinderfreunde-Vereinsanschrift">
+                        <placeName/>
+                        <location>
+                            <address>
+                                <street>Rechte Wienzeile 97</street>
+                                <postCode>1050</postCode>
+                                <settlement>Wien</settlement>
+                            </address>
+                        </location>
+                    </place>
+                    <place xml:id="O.Kehlendorfer">
+                        <placeName>Kehlendorfer</placeName>
+                        <location>
+                            <address>
+                                <street>Krugerstraße 3</street>
+                                <postCode>1010</postCode>
+                                <settlement>Wien</settlement>
+                            </address>
+                        </location>
+                    </place>
+                    <place xml:id="O.Kleiner-Tonhallesaal">
+                        <placeName>Kleiner Tonhalle-Saal</placeName>
+                        <location>
+                            <address>
+                                <!-- Historische Adressen - Umgang? -->
+                                <street>Gotthardstrasse 5</street>
+                                <postCode>8002</postCode>
+                                <settlement>Zürich</settlement>
+                                <country>Schweiz</country>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Meister-Saal">
+                        <placeName>Meister-Saal</placeName>
+                        <location>
+                            <geo>52.506399338885686, 13.377022311626213</geo>
+                            <address>
+                                <settlement>Berlin</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Bechstein-Saal">
+                        <placeName>Bechstein-Saal</placeName>
+                        <location>
+                            <geo>52.53529852721633, 13.17782190183512</geo>
+                            <address>
+                                <settlement>Berlin</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Vier-Jahreszeiten-Saal">
+                        <placeName>Vier-Jahreszeiten-Saal</placeName>
+                        <location>
+                            <address>
+                                <settlement>München</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Kurt-Wolff-Haus">
+                        <placeName>Kurt Wolff-Haus</placeName>
+                        <location>
+                            <address>
+                                <settlement>München</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+
+                    <place xml:id="O.Tiroler-Landeskonservatorium">
+                        <placeName>Tiroler Landeskonservatorium</placeName>
+                        <idno type="Wikidata">Q874350</idno>
+                        <place xml:id="O.Musikvereinssaal-Innsbruck">
+                        <placeName>Musikvereinssaal</placeName>
+                        <location>
+                            <geo>47.26766329072288, 11.39840599610617</geo>
+                            <address>
+                                <settlement>Innsbruck</settlement>
+                            </address>
+                        </location>
+                    </place></place>
+
+                    <place xml:id="O.Arbeiter-Bildungsverein">
+                        <placeName>Arbeiter-Bildungsverein, Ehemaliges Militärkasino</placeName>
+                        <location>
+                            <address>
+                                <settlement>Wien</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Kuenstlerhaus">
+                        <placeName>Künstlerhaus</placeName>
+                        <location>
+                            <geo>52.51047638561988, 13.373673013476633</geo>
+                            <address>
+                                <settlement>Berlin</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Harmonium-Saal">
+                        <placeName>Harmonium-Saal</placeName>
+                        <location>
+                            <address>
+                                <settlement>Berlin</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Haus-Dresdner-Kaufmannschaft">
+                        <placeName>Haus der Dresdner Kaufmannschaft</placeName>
+                        <location>
+                            <geo>51.05302706287457, 13.731578913546654</geo>
+                            <address>
+                                <street>Ostra-Allee 9</street>
+                                <postCode>01067</postCode>
+                                <settlement>Dresden</settlement>
+                            </address>
+                        </location>
+                        <place xml:id="O.Kleiner-Saal-Kaufmannschaft">
+                        <placeName>Kleiner Saal der Kaufmannschaft</placeName>
+                        
+                    </place></place>
+
+                    <place xml:id="O.Mozarteum">
+                        <placeName>Mozarteum</placeName>
+                        <location>
+                            <geo>50.08239277772102, 14.422840130713405</geo>
+                            <address>
+                                <street>Jungmannova 748/30</street>
+                                <postCode>11000</postCode>
+                                <settlement>Prag</settlement>
+                            </address>
+                        </location>
+                    </place>
+
+                    <place xml:id="O.Festsaal-Ingenieur-Architektenverein">
+                        <placeName>Festsaal des Ingenieur- und Architektenvereines</placeName>
+                        <location>
+                            <geo>48.20254334262626, 16.36368336880016</geo>
+                            <address>
+                                <street>Eschenbachgasse 9</street>
+                                <postCode>1010</postCode>
+                                <settlement>Wien</settlement>
+                            </address>
+                        </location>
+                    </place>
+                </listPlace>
+            </ab>
+        </body>
+    </text>
+</TEI>
