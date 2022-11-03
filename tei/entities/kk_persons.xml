@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Entities zu den Kraus-Vorlesungen</title>
+                <title type="sub">Verzeichnis der Personen</title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Angelika Hechtl</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>born digital</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab xml:id="entities_persons">
+                <listPerson xml:id="persons">
+                    
+                    <person xml:id="P.Kraus-Karl">
+                        <name>
+                            <surname>Kraus</surname>
+                            <forename>Karl</forename>
+                            <idno type="GND">http://d-nb.info/gnd/118566288</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q44328</idno>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/11988/detail</idno>
+                        </name>
+                    </person>
+                    
+                    <person xml:id="P.Loos-Adolf">
+                        <persName>
+                            <surname>Loos</surname>
+                            <forename>Adolf</forename>
+                        </persName>
+                        <idno type="GND">http://d-nb.info/gnd/11857423X</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q44323</idno>
+                        <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Adolf_Loos</idno>
+                        <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/3612/detail</idno>
+                    </person>
+                    
+                    <person xml:id="P.Friedell-Egon">
+                        <name>
+                            <surname>Friedell</surname>
+                            <forename>Egon</forename>
+                            <idno type="GND">http://d-nb.info/gnd/118535560</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q112255</idno>
+                            <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Egon_Friedell</idno>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/2771/detail</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Gryphius-Andreas">
+                        <name>
+                            <surname>Andreas</surname>
+                            <forename>Gryphius</forename>
+                            <idno type="GND">http://d-nb.info/gnd/118543032</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q77214</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Gabor-Andor">
+                        <name>
+                            <surname>G&#180;bor</surname>
+                            <forename>Andor</forename>
+                            <idno type="GND">http://d-nb.info/gnd/119033887</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q288936</idno>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                    <person xml:id="P.Jacobsen-Jens-Peter">
+                        <persName>
+                            <surname>Jacobsen</surname>
+                            <forename>Jens Peter</forename>
+                        </persName>
+                        <idno type="GND">http://d-nb.info/gnd/118711172</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q370246</idno>
+                        <idno type="Wienwiki"/>
+                        <idno type="PMB"/>
+                    </person>
+                    <person xml:id="P.Ibsen-Henrik">
+                        <name>
+                            <surname>Ibsen</surname>
+                            <forename>Henrik</forename>
+                        </name>
+                        <idno type="GND">http://d-nb.info/gnd/118555286</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q36661</idno>
+                        <idno type="Wienwiki"/>
+                        <idno type="PMB"/>
+                    </person>
+                    <person xml:id="P.Liliencron-Detlev">
+                        <name>
+                            <forename>Detlev</forename>
+                            <nameLink>von</nameLink>
+                            <surname>Liliencron</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118572954</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q21119</idno>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/12071/detail</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Wedekind-Frank">
+                        <name>
+                            <forename>Frank</forename>
+                            <surname>Wedekind</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118629867</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q57619</idno>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/13068/detail</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Raimund-Ferdinand">
+                        <name>
+                            <forename>Ferdinand</forename>
+                            <surname>Raimund</surname>
+                        </name>
+                        <idno type="GND">http://d-nb.info/gnd/118597914</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q45025</idno>
+                        <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Ferdinand_Raimund</idno>
+                        <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/12468/detail</idno>
+                    </person>
+                    <person xml:id="P.Nestroy-Johann">
+                        <name>
+                            <forename>Johann</forename>
+                            <forename>Nepomuk</forename>
+                            <forename>Eduard</forename>
+                            <forename>Ambrosius</forename>
+                            <surname>Nestroy</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118587080</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q44862</idno>
+                            <idno type="Wienwiki"
+                                >https://www.geschichtewiki.wien.gv.at/Johann_Nestroy</idno>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/12338/detail</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Shakespeare-William">
+                        <name>
+                            <forename>William</forename>
+                            <surname>Shakespeare</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118613723</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q692</idno>
+                        </name>
+                        
+                    </person>
+                    <person xml:id="P.Goethe-Johann-Wolfgang">
+                        <name>
+                            <forename>Johann</forename>
+                            <forename>Wolfgang</forename>
+                            <nameLink>von</nameLink>
+                            <surname>Goethe</surname>
+                            <idno type="GND">	http://d-nb.info/gnd/118540238</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q5879</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Offenbach-Jaccques">
+                        <name>
+                            <forename>Jacques</forename>
+                            <surname>Offenbach</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118589598</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q41555</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Niebergall-Ernst">
+                        <name>
+                            <forename>Ernst</forename>
+                            <forename>Elias</forename>
+                            <surname>Niebergall</surname>
+                            <idno type="GND">	http://d-nb.info/gnd/118734776</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q92065</idno>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/9079/detail</idno>
+                        </name>
+                    </person>
+                    <person xml:id="P.Hauptmann-Gerhart">
+                        <name>
+                            <forename>Gerhart</forename>
+                            <surname>Hauptmann</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118546937</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q43523</idno>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                    <person xml:id="P.Wacha-Frieda">
+                        <name >
+                            <forename>Frieda</forename>
+                            <surname>Wacha</surname>
+                            <idno type="GND"/>
+                            <idno type="Wikidata"/>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                    <person xml:id="P.Schlegel-August-Wilhelm">
+                        <name>
+                            <forename>August</forename>
+                            <forename>Wilhelm</forename>
+                            <nameLink>von</nameLink>
+                            <surname>Schlegel</surname>
+                            <idno type="GND">http://d-nb.info/gnd/118607960</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q57281</idno>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                </listPerson>
+            </ab>
+        </body>
+    </text>
+</TEI>
