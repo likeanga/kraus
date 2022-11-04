@@ -130,6 +130,12 @@
                </p>
             </prefixDef>
          </listPrefixDef>
+         <prefixDef ident="person"
+            matchPattern="(P\.\w+)"
+            replacementPattern="entities/kk_persons.xml#$1">
+            <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
+            </p>
+         </prefixDef>
       </encodingDesc>
    </teiHeader>
    <text source="#krausonline_7664">

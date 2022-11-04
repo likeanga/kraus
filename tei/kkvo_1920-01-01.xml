@@ -136,7 +136,7 @@
                </p>
             </prefixDef>
             <prefixDef ident="person"
-            matchPattern="(O\.\w+)"
+            matchPattern="(P\.\w+)"
             replacementPattern="entities/kk_persons.xml#$1">
             <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
             </p>
