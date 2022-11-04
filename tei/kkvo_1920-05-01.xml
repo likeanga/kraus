@@ -128,6 +128,22 @@
             </listPerson>
          </particDesc>
       </profileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="place"
+               matchPattern="(O\.\w+)"
+               replacementPattern="entities/kk_places.xml#$1">
+               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der Datei "kk_places" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
+            <prefixDef ident="person"
+               matchPattern="(P\.\w+)"
+               replacementPattern="entities/kk_persons.xml#$1">
+               <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
    </teiHeader>
    <text source="#krausonline_7686">
       <body>
