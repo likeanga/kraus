@@ -39,7 +39,7 @@
          <sourceDesc>
             <bibl source="#krausonline" xml:id="krausonline_8726">
                <title level="a">100. Wiener Vorlesung am 09.05.1920 [169.]</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">8726</idno>
@@ -52,7 +52,7 @@
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1135610">
                <title>Die 100. Wiener Vorlesung Karl Kraus. Wien, 1920.05.09</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1135610</idno>

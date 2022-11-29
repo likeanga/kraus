@@ -39,7 +39,7 @@
          <sourceDesc>
             <bibl source="#krausonline" xml:id="krausonline_7686">
                <title level="a">168. Vorlesung am 01.05.1920</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7686</idno>
@@ -51,7 +51,7 @@
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132471">
                <title>Vorlesung Karl Kraus für die Arbeiterschaft Wiens. Wien, 1920.05.01</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132471</idno>

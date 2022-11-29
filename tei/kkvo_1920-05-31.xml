@@ -39,7 +39,7 @@
          <sourceDesc>
             <bibl source="#krausonline" xml:id="krausonline_7692">
                <title level="a">172. Vorlesung am 31.05.1920</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7692</idno>
@@ -51,7 +51,7 @@
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132481">
                <title>Vorlesung Karl Kraus. Berlin, 1920.05.31</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132481</idno>

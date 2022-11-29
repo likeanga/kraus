@@ -79,7 +79,9 @@
                         <place xml:id="O.Grosser-Konzerthaussaal">
                             <placeName>Großer Konzerthaussaal</placeName>
                             <placeName type="alt">Großer Saal</placeName>
-                            <!-- Großer Saal (Renovierung 1974; ursprünglich für 2.030, heute für 1.840 Personen) -->
+                            <note>Großer Saal (Renovierung 1974; ursprünglich für <measure
+                                    type="capacity">2.030</measure>, heute für 1.840
+                                Personen)</note>
                         </place>
                         <place xml:id="O.Mittlerer-Konzerthaussaal">
                             <placeName>Mittlerer Konzerthaussaal</placeName>
@@ -93,7 +95,9 @@
                             <placeName>Kleiner Konzerthaussaal</placeName>
                             <placeName type="alt">Kleiner Saal</placeName>
                             <placeName type="alt">Schubertsaal</placeName>
-                            <!-- Kleiner Saal (Schubertsaal, Renovierung 1972; ursprünglich 414, heute für 336 Personen). -->
+                            <note> Kleiner Saal (Schubertsaal, Renovierung 1972; ursprünglich
+                                    <measure type="capacity">414</measure>, heute für 336
+                                Personen)</note>
                         </place>
                     </place>
 
