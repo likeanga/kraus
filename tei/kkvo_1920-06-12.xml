@@ -129,17 +129,15 @@
       </profileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="place"
-               matchPattern="(O\.\w+)"
+            <prefixDef ident="place" matchPattern="(O\.\w+)"
                replacementPattern="entities/kk_places.xml#$1">
-               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der Datei "kk_places" im Ordner "entities" aufgelöst werden.
-               </p>
+               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der
+                  Datei "kk_places" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
-            <prefixDef ident="person"
-               matchPattern="(P\.\w+)"
+            <prefixDef ident="person" matchPattern="(P\.\w+)"
                replacementPattern="entities/kk_persons.xml#$1">
-               <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
-               </p>
+               <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können
+                  mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -152,7 +150,7 @@
          <p>Meinem Franz Janowitz</p>
          <p>Legende</p>
          <p>Kompetenz vor der Sprache</p>
-         <p>Schnellzug </p>
+         <p>Schnellzug</p>
          <p>Vallorbe</p>
          <p>Ich habe einen Blick gesehn </p>
          <p>Brief Rosa Luxemburgs (mit Vorbemerkung) </p>
@@ -164,7 +162,27 @@
    </text>
    <text>
       <body>
-         <p>Some text here.</p>
+         <!-- ab hier eigens verändern -->
+         <p>12. Juni, ½8 Uhr</p>
+         <div>
+            <p>I.</p>
+            <p><bibl><title>Mit der Uhr in der Hand</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Der Bauer, der Hund und der Soldat</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Kompetenz vor der Sprache</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Vallorbe</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Ich habe einen Blick
+               gesehn</title><author ref="person:P.Kraus-Karl"/><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl></p>
+            <p><bibl><title>Brief Rosa Luxemburgs (mit Vorbemerkung)</title></bibl></p>
+            <p><bibl><title>Absage</title><author ref="person:P.Kraus-Karl"/><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/absage</note></bibl></p>
+            <p><bibl><title>Nach zwanzig Jahren</title></bibl></p>
+         </div>
+         <div>
+            <p>II.</p>
+            <p>Die Schlußszene des <bibl><title>V. Aktes</title></bibl> (mit Vorbemerkung)</p>
+         </div>
       </body>
    </text>
 </TEI>

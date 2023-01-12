@@ -39,7 +39,7 @@
          <sourceDesc>
             <bibl source="#krausonline" xml:id="krausonline_7658">
                <title level="a">154. Vorlesung am 11.01.1920</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <title level="m">Karl Kraus Online</title>
                <editor ref="https://orcid.org/0000-0003-3438-7779">Katharina Prager</editor>
                <idno type="ID">7658</idno>
@@ -51,7 +51,7 @@
             </bibl>
             <bibl source="#wienbib" xml:id="wienbib_1132421">
                <title>Vorlesung Karl Kraus. Wien, 1920.01.11</title>
-               <author ref="#P.Kraus">Karl Kraus</author>
+               <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <publisher>Wienbibliothek im Rathaus</publisher>
                <pubPlace>Wien</pubPlace>
                <idno type="ID">1132421</idno>
@@ -123,7 +123,9 @@
          </settingDesc>
          <particDesc>
             <listPerson>
-               <person/>
+               <person>
+                  <name ref="person:P.Kraus-Karl">Karl Kraus</name>
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -138,7 +140,13 @@
             <prefixDef ident="person"
                matchPattern="(P\.\w+)"
                replacementPattern="entities/kk_persons.xml#$1">
-               <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
+               <p>Im Projektkontext steht das Präfix "person" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
+            <prefixDef ident="institution"
+               matchPattern="(I\.\w+)"
+               replacementPattern="entities/kk_institutions.xml#$1">
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner "entities" aufgelöst werden.
                </p>
             </prefixDef>
          </listPrefixDef>
