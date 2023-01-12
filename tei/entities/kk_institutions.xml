@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Entities zu den Kraus-Vorlesungen</title>
+                <title type="sub">Verzeichnis der Organisationen</title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Angelika Hechtl</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>born digital</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab xml:id="entities_institutions">
+                <listOrg xml:id="institutions">
+                    <org xml:id="I.Jahoda-Siegel">
+                        <placeName>Gebäude der Druckerei Jahoda &amp; Siegel</placeName>
+                        <location>
+                            <geo>48.21184371716884, 16.387335069268904</geo>
+                            <address>
+                                <street>Hintere Zollamtsstraße 3</street>
+                                <postCode>1030</postCode>
+                                <settlement>Wien</settlement>
+                            </address>
+                        </location>
+                    </org>
+                </listOrg>
+            </ab>
+        </body>
+    </text>
+</TEI>
