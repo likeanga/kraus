@@ -140,6 +140,12 @@
                <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
                </p>
             </prefixDef>
+            <prefixDef ident="institution"
+               matchPattern="(I\.\w+)"
+               replacementPattern="entities/kk_institutions.xml#$1">
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
          </listPrefixDef>
       </encodingDesc>
    </teiHeader>

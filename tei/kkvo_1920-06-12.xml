@@ -139,6 +139,12 @@
                <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können
                   mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
+            <prefixDef ident="institution"
+               matchPattern="(I\.\w+)"
+               replacementPattern="entities/kk_institutions.xml#$1">
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner "entities" aufgelöst werden.
+               </p>
+            </prefixDef>
          </listPrefixDef>
       </encodingDesc>
    </teiHeader>
@@ -168,7 +174,7 @@
             <p>I.</p>
             <p><bibl><title>Mit der Uhr in der Hand</title><author ref="person:P.Kraus-Karl"/></bibl></p>
             <p><bibl><title>Der Bauer, der Hund und der Soldat</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+            <p><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"/><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz</note></bibl></p>
             <p><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"/></bibl></p>
             <p><bibl><title>Kompetenz vor der Sprache</title><author ref="person:P.Kraus-Karl"/></bibl></p>
             <p><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"/></bibl></p>
