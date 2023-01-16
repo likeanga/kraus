@@ -171,36 +171,44 @@
          <!-- ab hier eigens verändern 
          was wurde gemacht: obere Infos wurden zusätzlichm transkribiert, bisher in anderen Quellen nicht vorhanden, bzw. nur bei Metainformationen zur Vorlesung;
          nur das abgeschrieben, was tatsächlich auf dem Blatt steht; 
-         typographisches wurde nicht ausgezeichet, nicht wesentlich für die Erfassung des Inhaltes-->
-         <div type="info">
+         typographisches wurde nicht ausgezeichet, nicht wesentlich für die Erfassung des Inhaltes und Segmentierung der Datei ist via divs erfasst
+         -->
+         <div type="head">
             <p>PRAG, MOZARTEUM, 12.JUNI 1920 ½8 Uhr</p>
          </div>
-         <div type="header"><p>VORLESUNG KARL KRAUS</p></div>
+         <div type="title">
+            <p>VORLESUNG KARL KRAUS</p>
+         </div>
          <div type="content">
             <div n="1">
-               <p>I.</p>
-               <p><bibl><title>Mit der Uhr in der Hand</title><author ref="person:P.Kraus-Karl"
-                     /></bibl></p>
-               <p><bibl><title>Der Bauer, der Hund und der Soldat</title><author
-                        ref="person:P.Kraus-Karl"/></bibl></p>
-               <p><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"
-                        /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz</note></bibl></p>
-               <p><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-               <p><bibl><title>Kompetenz vor der Sprache</title><author ref="person:P.Kraus-Karl"
-                     /></bibl></p>
-               <p><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-               <p><bibl><title>Vallorbe</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-               <p><bibl><title>Ich habe einen Blick gesehn</title><author ref="person:P.Kraus-Karl"
-                        /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl></p>
-               <p><bibl><title>Brief Rosa Luxemburgs (mit Vorbemerkung)</title></bibl></p>
-               <p><bibl><title>Absage</title><author ref="person:P.Kraus-Karl"
-                        /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/absage</note></bibl></p>
-               <p><bibl><title>Nach zwanzig Jahren</title></bibl></p>
+               <list>
+                  <head>I.</head>
+                  <item><title ref="work:">Mit der Uhr in der Hand</title></item>
+                  <item><bibl><title>Der Bauer, der Hund und der Soldat</title><author
+                           ref="person:P.Kraus-Karl"/></bibl></item>
+                  <item><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"
+                           /></bibl></item>
+                  <item><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"
+                     /></bibl></item>
+                  <item><bibl><title>Kompetenz vor der Sprache</title><author
+                           ref="person:P.Kraus-Karl"/></bibl></item>
+                  <item><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"
+                     /></bibl></item>
+                  <item><bibl><title>Vallorbe</title></bibl></item>
+                  <item><bibl><title>Ich habe einen Blick gesehn</title></bibl></item>
+                  <item><bibl><title>Brief Rosa Luxemburgs (mit Vorbemerkung)</title></bibl></item>
+                  <item><bibl><title>Absage</title><author ref="person:P.Kraus-Karl"
+                           /></bibl></item>
+                  <item><bibl><title>Nach zwanzig Jahren</title></bibl></item>
+                  <!-- author soll dann raus weil information gedoppelt ist; infos sind ja im kk_works enthalten; aber spannend, dass es so geht -->
+               </list>
             </div>
             <div n="2">
-               <p>II.</p>
-               <p>Die Schlußszene des <bibl><title>V. Aktes</title><author ref="person:P.Kraus-Karl"
-               /></bibl> (mit Vorbemerkung)</p>
+               <list>
+                  <head>II.</head>
+                  <item>Die Schlußszene des <bibl><title>v. Aktes</title><author
+                           ref="person:P.Kraus-Karl"/></bibl> (mit Vorbemerkung)</item>
+               </list>
             </div>
          </div>
       </body>
