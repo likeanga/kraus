@@ -139,11 +139,11 @@
                <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können
                   mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
-            <prefixDef ident="institution"
-               matchPattern="(I\.\w+)"
+            <prefixDef ident="institution" matchPattern="(I\.\w+)"
                replacementPattern="entities/kk_institutions.xml#$1">
-               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner "entities" aufgelöst werden.
-               </p>
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
+                  Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
+                  "entities" aufgelöst werden. </p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -168,26 +168,40 @@
    </text>
    <text>
       <body>
-         <!-- ab hier eigens verändern -->
-         <p>12. Juni, ½8 Uhr</p>
-         <div>
-            <p>I.</p>
-            <p><bibl><title>Mit der Uhr in der Hand</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Der Bauer, der Hund und der Soldat</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"/><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz</note></bibl></p>
-            <p><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Kompetenz vor der Sprache</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Vallorbe</title><author ref="person:P.Kraus-Karl"/></bibl></p>
-            <p><bibl><title>Ich habe einen Blick
-               gesehn</title><author ref="person:P.Kraus-Karl"/><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl></p>
-            <p><bibl><title>Brief Rosa Luxemburgs (mit Vorbemerkung)</title></bibl></p>
-            <p><bibl><title>Absage</title><author ref="person:P.Kraus-Karl"/><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/absage</note></bibl></p>
-            <p><bibl><title>Nach zwanzig Jahren</title></bibl></p>
+         <!-- ab hier eigens verändern 
+         was wurde gemacht: obere Infos wurden zusätzlichm transkribiert, bisher in anderen Quellen nicht vorhanden, bzw. nur bei Metainformationen zur Vorlesung;
+         nur das abgeschrieben, was tatsächlich auf dem Blatt steht; 
+         typographisches wurde nicht ausgezeichet, nicht wesentlich für die Erfassung des Inhaltes-->
+         <div type="info">
+            <p>PRAG, MOZARTEUM, 12.JUNI 1920 ½8 Uhr</p>
          </div>
-         <div>
-            <p>II.</p>
-            <p>Die Schlußszene des <bibl><title>V. Aktes</title></bibl> (mit Vorbemerkung)</p>
+         <div type="header"><p>VORLESUNG KARL KRAUS</p></div>
+         <div type="content">
+            <div n="1">
+               <p>I.</p>
+               <p><bibl><title>Mit der Uhr in der Hand</title><author ref="person:P.Kraus-Karl"
+                     /></bibl></p>
+               <p><bibl><title>Der Bauer, der Hund und der Soldat</title><author
+                        ref="person:P.Kraus-Karl"/></bibl></p>
+               <p><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"
+                        /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz</note></bibl></p>
+               <p><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+               <p><bibl><title>Kompetenz vor der Sprache</title><author ref="person:P.Kraus-Karl"
+                     /></bibl></p>
+               <p><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+               <p><bibl><title>Vallorbe</title><author ref="person:P.Kraus-Karl"/></bibl></p>
+               <p><bibl><title>Ich habe einen Blick gesehn</title><author ref="person:P.Kraus-Karl"
+                        /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl></p>
+               <p><bibl><title>Brief Rosa Luxemburgs (mit Vorbemerkung)</title></bibl></p>
+               <p><bibl><title>Absage</title><author ref="person:P.Kraus-Karl"
+                        /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/absage</note></bibl></p>
+               <p><bibl><title>Nach zwanzig Jahren</title></bibl></p>
+            </div>
+            <div n="2">
+               <p>II.</p>
+               <p>Die Schlußszene des <bibl><title>V. Aktes</title><author ref="person:P.Kraus-Karl"
+               /></bibl> (mit Vorbemerkung)</p>
+            </div>
          </div>
       </body>
    </text>
