@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Entities zu den Kraus-Vorlesungen</title>
+                <title type="sub">Verzeichnis der vorgetragenen und erwähnten Werke</title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Angelika Hechtl</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>born digital</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="person" matchPattern="(P\.\w+)"
+                    replacementPattern="kk_persons.xml#$1">
+                    <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können
+                        mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
+                </prefixDef>
+            </listPrefixDef>
+            <classDecl>
+                <taxonomy xml:id="genres">
+                    <category xml:id="G.Poetry">
+                        <catDesc>Lyrik</catDesc>
+                        <category xml:id="G.Poem">
+                            <catDesc>Gedicht</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="G.Prose">
+                        <catDesc>Prosa</catDesc>
+                    </category>
+                    <category xml:id="G.Drama">
+                        <catDesc>Drama</catDesc>
+                        <category xml:id="G.Drama_w_acts">
+                            <catDesc>Mehraktiges Drama</catDesc>
+                        </category>
+                        <category xml:id="G.Drama_oneact">
+                            <catDesc>Einaktiges Drama</catDesc>
+                        </category>
+                    </category>
+                </taxonomy>
+                <taxonomy>
+                    <desc>Struktureinheiten literarischer Texte</desc>
+                    <category xml:id="S.Act" corresp="#G.Drama">
+                        <catDesc>Akt in einem Drama</catDesc>
+                    </category>
+                    <category xml:id="S.Scene" corresp="#G.Drama">
+                        <catDesc>Szene in einem Drama</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <!-- Frage an GV: soll das folgende nicht besser in standoff gepackt werden? Welches Element würde dann die xml:id bekommen?  -->
+    <text>
+        <body>
+            <ab xml:id="entities_works">
+                <listBibl>
+                    <bibl ana="#G.Poem"><title>Mit der Uhr in der Hand</title><author
+                            ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl ana="#G.Poem"><title>Der Bauer, der Hund und der Soldat</title><author
+                            ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl ana="#G.Poem"><title>Meinem Franz Janowitz</title><author
+                            ref="person:P.Kraus-Karl"
+                            /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz</note></bibl>
+                    <bibl ana="#G.Poem"><title>Legende</title><author ref="person:P.Kraus-Karl"
+                        /></bibl>
+                    <bibl ana="#G.Poem"><title>Kompetenz vor der Sprache</title><author
+                            ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl ana="#G.Poem"><title>Schnellzug</title><author ref="person:P.Kraus-Karl"
+                        /></bibl>
+                    <bibl ana="#G.Poem"><title>Vallorbe</title><author ref="person:P.Kraus-Karl"
+                        /></bibl>
+                    <bibl ana="#G.Poem"><title>Ich habe einen Blick gesehn</title><author
+                            ref="person:P.Kraus-Karl"
+                            /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl>
+                    <bibl ana="#G.Poem"><title>Brief Rosa Luxemburgs (mit
+                        Vorbemerkung)</title></bibl>
+                    <bibl ana="#G.Poem"><title>Absage</title><author ref="person:P.Kraus-Karl"
+                            /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/absage</note></bibl>
+                    <bibl ana="#G.Poem"><title>Nach zwanzig Jahren</title></bibl>
+                    <bibl ana="#G.Drama_w_acts"><title>Die letzten Tage der
+                            Menschheit</title><author ref="person:P.Kraus-Karl"/><idno
+                                type="Wikidata">https://www.wikidata.org/wiki/Q1218953</idno>
+                        <!-- Teile von den letzten Tagen der Menschheit -->
+                        <bibl ana="#S.Scene"><title>Die Schlußszene des v. Aktes (mit
+                                Vorbemerkung)</title>
+                        </bibl></bibl>
+                </listBibl>
+            </ab>
+        </body>
+    </text>
+</TEI>
