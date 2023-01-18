@@ -86,7 +86,7 @@
                             ref="person:P.Kraus-Karl"/></bibl>
                     <bibl xml:id="W.Kraus-Ich_habe_einen_Blick_gesehn" ana="#G.Poem"><title>Ich habe
                             einen Blick gesehn</title><author ref="person:P.Kraus-Karl"
-                            /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl>
+                            /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note></bibl>
                     <bibl xml:id="W.Kraus-Brief_Rosa_Luxemburgs" ana="#G.Poem"><title>Brief Rosa
                             Luxemburgs (mit Vorbemerkung)</title></bibl>
                     <bibl xml:id="W.Kraus-Absage" ana="#G.Poem"><title>Absage</title><author
@@ -112,10 +112,18 @@
                     <bibl xml:id="W.Hauptmann-Die-Weber" ana="#G.Drama_w_acts"><title>Die
                             Weber</title><author ref="person:P.Hauptmann-Gerhart"/>
                         <!-- Teile von den Webern -->
-                        <bibl xml:id="W.Hauptmann-Die_Weber_I" ana="#S.Act"><title>I. Akt</title></bibl>
-                        <bibl xml:id="W.Hauptmann-Die_Weber_II" ana="#S.Act"><title>II. Akt</title></bibl>
-                        <bibl xml:id="W.Hauptmann-Die_Weber_IV" ana="#S.Act"><title>IV. Akt</title></bibl>
+                        <bibl xml:id="W.Hauptmann-Die_Weber_I" ana="#S.Act"><title>I.
+                            Akt</title></bibl>
+                        <bibl xml:id="W.Hauptmann-Die_Weber_II" ana="#S.Act"><title>II.
+                            Akt</title></bibl>
+                        <bibl xml:id="W.Hauptmann-Die_Weber_IV" ana="#S.Act"><title>IV.
+                            Akt</title></bibl>
                     </bibl>
+                    <bibl xml:id="W.Kraus-Gebet_an_die_Sonne_von_Gibeon" ana="#G.Poetry"
+                            ><title>Gebet an die Sonne von Gibeon</title><author
+                            ref="person:P.Kraus-Karl"/><note><ref type="fulltext"
+                                target="https://de.wikisource.org/wiki/Gebet_an_die_Sonne_von_Gibeon_(Kraus)"
+                                >Volltext auf Wikisource</ref></note></bibl>
                 </listBibl>
             </ab>
         </body>
