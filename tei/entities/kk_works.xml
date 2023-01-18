@@ -124,6 +124,91 @@
                             ref="person:P.Kraus-Karl"/><note><ref type="fulltext"
                                 target="https://de.wikisource.org/wiki/Gebet_an_die_Sonne_von_Gibeon_(Kraus)"
                                 >Volltext auf Wikisource</ref></note></bibl>
+                    <bibl
+                        xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer"
+                        ana="#G.Drama_w_acts"><title>Das Mädchen aus der Feenwelt oder Der Bauer als
+                            Millionär</title><author ref="person:P.Raimund-Ferdinand"/><idno
+                            type="Wikidata">https://www.wikidata.org/wiki/Q1169850</idno>
+                        <!-- Teile von Das Mädchen aus der Feenwelt oder Der Bauer als Millionär -->
+                        <bibl
+                            xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II"
+                            ana="#S.Act"><title>II. Akt</title>
+                            <bibl
+                                xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_4"
+                                ana="#S.Scene"><title>Szene 4</title></bibl>
+                            <bibl
+                                xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_5"
+                                ana="#S.Scene"><title>Szene 5</title></bibl>
+                            <bibl
+                                xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_6"
+                                ana="#S.Scene"><title>Szene 6</title></bibl>
+                            <bibl
+                                xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_7"
+                                ana="#S.Scene"><title>Szene 4</title></bibl>
+                        </bibl>
+                        <bibl
+                            xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III"
+                            ana="#S.Act"><title>III. Akt</title>
+                            <bibl
+                                xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III_8"
+                                ana="#S.Scene"><title>Szene 8, Monolog des Wurzel
+                                    (Aschenlied)</title>
+                            </bibl>
+                        </bibl>
+                    </bibl>
+                    <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind"
+                        ana="#G.Drama_w_acts"><title>Der Alpenkönig und der
+                            Menschenfeind</title><author ref="person:P.Raimund-Ferdinand"/><idno
+                                type="Wikidata">https://www.wikidata.org/wiki/Q1192140</idno>
+                        <bibl
+                            xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I"
+                            ana="#S.Act"><title>I. Akt</title>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_11"
+                                ana="#S.Scene"><title>I. Akt, Szene 11</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_12"
+                                ana="#S.Scene"><title>I. Akt, Szene 12</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_13"
+                                ana="#S.Scene"><title>I. Akt, Szene 13</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_14"
+                                ana="#S.Scene"><title>I. Akt, Szene 14</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_15"
+                                ana="#S.Scene"><title>I. Akt, Szene 15</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_16"
+                                ana="#S.Scene"><title>I. Akt, Szene 16</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_17"
+                                ana="#S.Scene"><title>I. Akt, Szene 17</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_18"
+                                ana="#S.Scene"><title>I. Akt, Szene 18</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_19"
+                                ana="#S.Scene"><title>I. Akt, Szene 19</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_20"
+                                ana="#S.Scene"><title>I. Akt, Szene 20</title>
+                            </bibl>
+                            <bibl
+                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_21"
+                                ana="#S.Scene"><title>I. Akt, Szene 21</title>
+                            </bibl>
+                        </bibl>
+                    </bibl>
                 </listBibl>
             </ab>
         </body>
