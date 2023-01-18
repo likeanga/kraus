@@ -131,23 +131,21 @@
       </profileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="place"
-               matchPattern="(O\.\w+)"
+            <prefixDef ident="place" matchPattern="(O\.\w+)"
                replacementPattern="entities/kk_places.xml#$1">
-               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der Datei "kk_places" im Ordner "entities" aufgelöst werden.
-               </p>
+               <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der
+                  Datei "kk_places" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
-            <prefixDef ident="person"
-               matchPattern="(P\.\w+)"
+            <prefixDef ident="person" matchPattern="(P\.\w+)"
                replacementPattern="entities/kk_persons.xml#$1">
-               <p>Im Projektkontext steht das Präfix "person" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
-               </p>
+               <p>Im Projektkontext steht das Präfix "person" für Personen. Referenzen können
+                  mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
-            <prefixDef ident="institution"
-               matchPattern="(I\.\w+)"
+            <prefixDef ident="institution" matchPattern="(I\.\w+)"
                replacementPattern="entities/kk_institutions.xml#$1">
-               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner "entities" aufgelöst werden.
-               </p>
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
+                  Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
+                  "entities" aufgelöst werden. </p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -233,22 +231,26 @@
    </text>
    <text>
       <body>
-         <p>Preis des Programms (Verlag der Universal-Edition A.-G.) 80 Heller</p>
-         <p>Mittlerer Konzerthaussaal, Sonntag 11. Januar 1920 ½3 Uhr</p>
-         <p>Trennlinie</p>
-         <p>Vorlesung Karl Kraus</p>
-         <p>Lammasch und die Christen (Manuskript)</p>
-         <p>Aus: Die Weber.</p>
+         <div type="head">
+            <p>Preis des Programms (Verlag der Universal-Edition A.-G.) 80 Heller</p>
+            <p>Mittlerer Konzerthaussaal, Sonntag 11. Januar 1920 ½3 Uhr</p>
+         </div>
+         <div type="title">
+            <p>VORLESUNG KARL KRAUS</p>
+         </div>
+         <div type="content">
+            <p><title>Lammasch und die Christen</title> (Manuskript)</p>
+         <p>Aus: <title>Die Weber</title>.</p>
          <p>Schauspiel aus den vierziger Jahren von <hi>Gerhart Hauptmann</hi></p>
-         <p><lb/>I. Akt: Fabrikantengruppe: Dreißiger Barchentfabrikant. Pfeifer, Expedient.
+         <p><lb/><title>I. Akt</title>: Fabrikantengruppe: Dreißiger Barchentfabrikant. Pfeifer, Expedient.
             Neumann, Kassier. Der Lehrling. Webergruppe: <lb/>Bäcker. Der alte Baumert. Reimann.
             Heiber. Erster Weber. Erste Weberfrau. Ein alter Weber. Ein Junge. Eine Anzahl
             <lb/>Weber und Weberfrauen</p>
-         <p><lb/>II. Akt: Der alte Baumert. Mutter Baumert, seine Frau. August, ihr Sohn. Emma,
+         <p><lb/><title>II. Akt</title>: Der alte Baumert. Mutter Baumert, seine Frau. August, ihr Sohn. Emma,
             Bertha, ihre Töchter. Fritz, uneheliches Kind der Emma. <lb/>Der alte Ansorge, Jäusler
             und Weber. Frau Heinrich, Weberfrau. Moritz Jäger, entlassener Soldat, ehermaliger
             Webergeselle.</p>
-         <p><lb/>IV. Akt: Bäcker. Moritz Jäger. Der alte Ansorge. Dreißiger. Pfiefer. Wittig,
+         <p><lb/><title>IV. Akt</title>: Bäcker. Moritz Jäger. Der alte Ansorge. Dreißiger. Pfiefer. Wittig,
             Schmied. Kutsche, Gendarm. <lb/>Frau Dreißiger. Pastor Kittelhaus. Weinhold, Kandidat
             der Theologie. Heide, Polizeiverwalter. Kutscher Johann. Junge <lb/>und alte Weber und
             Weberfrauen.</p>
@@ -317,14 +319,15 @@
             kühnsten <lb/>Bahnbrecher auf dem Gebiete dramatischen Vortrages nicht <lb/>genannt
             worden.</p>
          <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
-         <p>Gebet an die Sonne von Gibeon</p>
-         <p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung
+            <!-- wo dann die divs setzen? wirklich zwischen dem II. und IV. akt oder doch  -->
+         <div><p><title>Gebet an die Sonne von Gibeon</title></p></div></div>
+         <div><p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung
             des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie <lb/>vorauszusehen, die Zeit
             nach der Pause nicht ausreicht. Im andern Fall würde er anstatt des IV. Aktes der
             »Weber« und des » Gebets an <lb/>die Sonne von Gibeon« gelesen werden.</p>
          <p rend="line-bottom">Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p>
          <p>Nächste Vorlesung: Ebenda, 15. Februar, ½3 Uhr: Aus eigenen Schriften</p>
-         <p>I.-20. J.&amp;S.</p>
+         <p>I.-20. J.&amp;S.</p></div>
       </body>
    </text>
 </TEI>
