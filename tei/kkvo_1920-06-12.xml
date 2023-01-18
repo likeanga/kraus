@@ -143,7 +143,13 @@
                replacementPattern="entities/kk_institutions.xml#$1">
                <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
                   Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
-                  "entities" aufgelöst werden. </p>
+                  "entities" aufgelöst werden.</p>
+            </prefixDef>
+            <prefixDef ident="work" matchPattern="(W\.\w+)"
+               replacementPattern="entities/kk_works.xml#$1">
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
+                  Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
+                  "entities" aufgelöst werden.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -183,31 +189,23 @@
             <div n="1">
                <list>
                   <head>I.</head>
-                  <item><title ref="work:">Mit der Uhr in der Hand</title></item>
-                  <item><bibl><title>Der Bauer, der Hund und der Soldat</title><author
-                           ref="person:P.Kraus-Karl"/></bibl></item>
-                  <item><bibl><title>Meinem Franz Janowitz</title><author ref="person:P.Kraus-Karl"
-                           /></bibl></item>
-                  <item><bibl><title>Legende</title><author ref="person:P.Kraus-Karl"
-                     /></bibl></item>
-                  <item><bibl><title>Kompetenz vor der Sprache</title><author
-                           ref="person:P.Kraus-Karl"/></bibl></item>
-                  <item><bibl><title>Schnellzug</title><author ref="person:P.Kraus-Karl"
-                     /></bibl></item>
-                  <item><bibl><title>Vallorbe</title></bibl></item>
-                  <item><bibl><title>Ich habe einen Blick gesehn</title></bibl></item>
-                  <item><bibl><title>Brief Rosa Luxemburgs (mit Vorbemerkung)</title></bibl></item>
-                  <item><bibl><title>Absage</title><author ref="person:P.Kraus-Karl"
-                           /></bibl></item>
-                  <item><bibl><title>Nach zwanzig Jahren</title></bibl></item>
-                  <!-- author soll dann raus weil information gedoppelt ist; infos sind ja im kk_works enthalten; aber spannend, dass es so geht -->
+                  <item><title ref="work:W.Kraus-Mit_der_Uhr_in_der_Hand">Mit der Uhr in der Hand</title></item>
+                  <item><title ref="work:W.">Der Bauer, der Hund und der Soldat</title></item>
+                  <item><title ref="">Meinem Franz Janowitz</title></item>
+                  <item><title ref="">Legende</title></item>
+                  <item><title ref="">Kompetenz vor der Sprache</title></item>
+                  <item><title ref="">Schnellzug</title></item>
+                  <item><title ref="">Vallorbe</title></item>
+                  <item><title ref="">Ich habe einen Blick gesehn</title></item>
+                  <item><title ref="">Brief Rosa Luxemburgs (mit Vorbemerkung)</title></item>
+                  <item><title ref=""> Absage</title></item>
+                  <item><title ref="">Nach zwanzig Jahren</title></item>
                </list>
             </div>
             <div n="2">
                <list>
                   <head>II.</head>
-                  <item>Die Schlußszene des <bibl><title>v. Aktes</title><author
-                           ref="person:P.Kraus-Karl"/></bibl> (mit Vorbemerkung)</item>
+                  <item><title>Die Schlußszene des v. Aktes (mit Vorbemerkung)</title></item>
                </list>
             </div>
          </div>
