@@ -66,37 +66,56 @@
         <body>
             <ab xml:id="entities_works">
                 <listBibl>
-                    <bibl xml:id="W.Kraus-Mit_der_Uhr_in_der_Hand" ana="#G.Poem"><title>Mit der Uhr in der Hand</title><author
+                    <bibl xml:id="W.Kraus-Mit_der_Uhr_in_der_Hand" ana="#G.Poem"><title>Mit der Uhr
+                            in der Hand</title><author ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl xml:id="W.Kraus-Der_Bauer_der_Hund_und_der_Soldat" ana="#G.Poem"
+                            ><title>Der Bauer, der Hund und der Soldat</title><author
                             ref="person:P.Kraus-Karl"/></bibl>
-                    <bibl xml:id="W.Kraus-Der_Bauer_der_Hund_und_der_Soldat" ana="#G.Poem"><title>Der Bauer, der Hund und der Soldat</title><author
-                            ref="person:P.Kraus-Karl"/></bibl>
-                    <bibl ana="#G.Poem"><title>Meinem Franz Janowitz</title><author
-                            ref="person:P.Kraus-Karl"/><note><ref type="fulltext"
+                    <bibl xml:id="W.Kraus-Meinem_Franz_Janowitz" ana="#G.Poem"><title>Meinem Franz
+                            Janowitz</title><author ref="person:P.Kraus-Karl"/><note><ref
+                                type="fulltext"
                                 target="https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz"
                                 >Volltext auf Textlog</ref></note></bibl>
-                    <bibl ana="#G.Poem"><title>Legende</title><author ref="person:P.Kraus-Karl"
-                        /></bibl>
-                    <bibl ana="#G.Poem"><title>Kompetenz vor der Sprache</title><author
+                    <bibl xml:id="W.Kraus-Legende" ana="#G.Poem"><title>Legende</title><author
                             ref="person:P.Kraus-Karl"/></bibl>
-                    <bibl ana="#G.Poem"><title>Schnellzug</title><author ref="person:P.Kraus-Karl"
-                        /></bibl>
-                    <bibl ana="#G.Poem"><title>Vallorbe</title><author ref="person:P.Kraus-Karl"
-                        /></bibl>
-                    <bibl ana="#G.Poem"><title>Ich habe einen Blick gesehn</title><author
-                            ref="person:P.Kraus-Karl"
+                    <bibl xml:id="W.Kraus-Kompetenz_vor_der_Sprache" ana="#G.Poem"><title>Kompetenz
+                            vor der Sprache</title><author ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl xml:id="W.Kraus-Schnellzug" ana="#G.Poem"><title>Schnellzug</title><author
+                            ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl xml:id="W.Kraus-Vallorbe" ana="#G.Poem"><title>Vallorbe</title><author
+                            ref="person:P.Kraus-Karl"/></bibl>
+                    <bibl xml:id="W.Kraus-Ich_habe_einen_Blick_gesehn" ana="#G.Poem"><title>Ich habe
+                            einen Blick gesehn</title><author ref="person:P.Kraus-Karl"
                             /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/ich-habe-einen-blick-gesehn</note><note>gedicht</note></bibl>
-                    <bibl ana="#G.Poem"><title>Brief Rosa Luxemburgs (mit
-                        Vorbemerkung)</title></bibl>
-                    <bibl ana="#G.Poem"><title>Absage</title><author ref="person:P.Kraus-Karl"
+                    <bibl xml:id="W.Kraus-Brief_Rosa_Luxemburgs" ana="#G.Poem"><title>Brief Rosa
+                            Luxemburgs (mit Vorbemerkung)</title></bibl>
+                    <bibl xml:id="W.Kraus-Absage" ana="#G.Poem"><title>Absage</title><author
+                            ref="person:P.Kraus-Karl"
                             /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/absage</note></bibl>
-                    <bibl ana="#G.Poem"><title>Nach zwanzig Jahren</title></bibl>
-                    <bibl ana="#G.Drama_w_acts"><title>Die letzten Tage der
-                            Menschheit</title><author ref="person:P.Kraus-Karl"/><idno
-                            type="Wikidata">https://www.wikidata.org/wiki/Q1218953</idno>
+                    <bibl xml:id="W.Kraus-Nach_zwanzig_Jahren" ana="#G.Poem"><title>Nach zwanzig
+                            Jahren</title></bibl>
+                    <bibl xml:id="W.Kraus-Die_letzten_Tage_der_Menschheit" ana="#G.Drama_w_acts"
+                            ><title>Die letzten Tage der Menschheit</title><author
+                            ref="person:P.Kraus-Karl"/><idno type="Wikidata"
+                            >https://www.wikidata.org/wiki/Q1218953</idno>
                         <!-- Teile von den letzten Tagen der Menschheit -->
-                        <bibl ana="#S.Scene"><title>Die Schlußszene des v. Aktes (mit
+                        <bibl xml:id="W.Kraus-Die_letzten_Tage_der_Meschheit_V_Schlussszene"
+                            ana="#S.Scene"><title>Die Schlußszene des v. Aktes (mit
                                 Vorbemerkung)</title>
-                        </bibl></bibl>
+                        </bibl>
+                    </bibl>
+                    <bibl xml:id="W.Kraus-Lammasch_und_die_Christen" ana="#G.Prose">
+                        <title>Lammasch und die Christen</title><author ref="person:P.Kraus-Karl"
+                                /><note><ref target="https://fackel.oeaw.ac.at/f/521,153"/>Volltext
+                            in der Fackel</note>
+                    </bibl>
+                    <bibl xml:id="W.Hauptmann-Die-Weber" ana="#G.Drama_w_acts"><title>Die
+                            Weber</title><author ref="person:P.Hauptmann-Gerhart"/>
+                        <!-- Teile von den Webern -->
+                        <bibl xml:id="W.Hauptmann-Die_Weber_I" ana="#S.Act"><title>I. Akt</title></bibl>
+                        <bibl xml:id="W.Hauptmann-Die_Weber_II" ana="#S.Act"><title>II. Akt</title></bibl>
+                        <bibl xml:id="W.Hauptmann-Die_Weber_IV" ana="#S.Act"><title>IV. Akt</title></bibl>
+                    </bibl>
                 </listBibl>
             </ab>
         </body>
