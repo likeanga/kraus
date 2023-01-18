@@ -66,13 +66,14 @@
         <body>
             <ab xml:id="entities_works">
                 <listBibl>
-                    <bibl ana="#G.Poem"><title>Mit der Uhr in der Hand</title><author
+                    <bibl xml:id="W.Kraus-Mit_der_Uhr_in_der_Hand" ana="#G.Poem"><title>Mit der Uhr in der Hand</title><author
                             ref="person:P.Kraus-Karl"/></bibl>
-                    <bibl ana="#G.Poem"><title>Der Bauer, der Hund und der Soldat</title><author
+                    <bibl xml:id="W.Kraus-Der_Bauer_der_Hund_und_der_Soldat" ana="#G.Poem"><title>Der Bauer, der Hund und der Soldat</title><author
                             ref="person:P.Kraus-Karl"/></bibl>
                     <bibl ana="#G.Poem"><title>Meinem Franz Janowitz</title><author
-                            ref="person:P.Kraus-Karl"
-                            /><note>https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz</note></bibl>
+                            ref="person:P.Kraus-Karl"/><note><ref type="fulltext"
+                                target="https://www.textlog.de/kraus/gedichte/worte-in-versen/meinem-franz-janowitz"
+                                >Volltext auf Textlog</ref></note></bibl>
                     <bibl ana="#G.Poem"><title>Legende</title><author ref="person:P.Kraus-Karl"
                         /></bibl>
                     <bibl ana="#G.Poem"><title>Kompetenz vor der Sprache</title><author
@@ -91,7 +92,7 @@
                     <bibl ana="#G.Poem"><title>Nach zwanzig Jahren</title></bibl>
                     <bibl ana="#G.Drama_w_acts"><title>Die letzten Tage der
                             Menschheit</title><author ref="person:P.Kraus-Karl"/><idno
-                                type="Wikidata">https://www.wikidata.org/wiki/Q1218953</idno>
+                            type="Wikidata">https://www.wikidata.org/wiki/Q1218953</idno>
                         <!-- Teile von den letzten Tagen der Menschheit -->
                         <bibl ana="#S.Scene"><title>Die Schlußszene des v. Aktes (mit
                                 Vorbemerkung)</title>
