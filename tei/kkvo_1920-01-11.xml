@@ -147,6 +147,12 @@
                   Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
                   "entities" aufgelöst werden. </p>
             </prefixDef>
+            <prefixDef ident="work" matchPattern="(W\.\w+)"
+               replacementPattern="entities/kk_works.xml#$1">
+               <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
+                  Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
+                  "entities" aufgelöst werden.</p>
+            </prefixDef>
          </listPrefixDef>
       </encodingDesc>
    </teiHeader>
@@ -239,18 +245,18 @@
             <p>VORLESUNG KARL KRAUS</p>
          </div>
          <div type="content">
-            <p><title>Lammasch und die Christen</title> (Manuskript)</p>
-         <p>Aus: <title>Die Weber</title>.</p>
+            <p><title ref="work:W.Kraus-Lammasch_und_die_Christen">Lammasch und die Christen</title> (Manuskript)</p>
+            <p>Aus: <title ref="work:W.Hauptmann-Die-Weber">Die Weber</title>.</p>
          <p>Schauspiel aus den vierziger Jahren von <hi>Gerhart Hauptmann</hi></p>
-         <p><lb/><title>I. Akt</title>: Fabrikantengruppe: Dreißiger Barchentfabrikant. Pfeifer, Expedient.
+            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_I">I. Akt</title>: Fabrikantengruppe: Dreißiger Barchentfabrikant. Pfeifer, Expedient.
             Neumann, Kassier. Der Lehrling. Webergruppe: <lb/>Bäcker. Der alte Baumert. Reimann.
             Heiber. Erster Weber. Erste Weberfrau. Ein alter Weber. Ein Junge. Eine Anzahl
             <lb/>Weber und Weberfrauen</p>
-         <p><lb/><title>II. Akt</title>: Der alte Baumert. Mutter Baumert, seine Frau. August, ihr Sohn. Emma,
+            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_II">II. Akt</title>: Der alte Baumert. Mutter Baumert, seine Frau. August, ihr Sohn. Emma,
             Bertha, ihre Töchter. Fritz, uneheliches Kind der Emma. <lb/>Der alte Ansorge, Jäusler
             und Weber. Frau Heinrich, Weberfrau. Moritz Jäger, entlassener Soldat, ehermaliger
             Webergeselle.</p>
-         <p><lb/><title>IV. Akt</title>: Bäcker. Moritz Jäger. Der alte Ansorge. Dreißiger. Pfiefer. Wittig,
+            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_IV">IV. Akt</title>: Bäcker. Moritz Jäger. Der alte Ansorge. Dreißiger. Pfiefer. Wittig,
             Schmied. Kutsche, Gendarm. <lb/>Frau Dreißiger. Pastor Kittelhaus. Weinhold, Kandidat
             der Theologie. Heide, Polizeiverwalter. Kutscher Johann. Junge <lb/>und alte Weber und
             Weberfrauen.</p>
@@ -319,9 +325,11 @@
             kühnsten <lb/>Bahnbrecher auf dem Gebiete dramatischen Vortrages nicht <lb/>genannt
             worden.</p>
          <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
-            <!-- wo dann die divs setzen? wirklich zwischen dem II. und IV. akt oder doch  -->
-         <div><p><title>Gebet an die Sonne von Gibeon</title></p></div></div>
-         <div><p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung
+            <!-- wo dann die divs setzen? wirklich zwischen dem II. und IV. akt oben doch hier? Frage, ob 
+            man das eher dem Vorlesungszettel getreu macht, oder ob man den Vorlesungscharakter / das event
+            stärker gewichtet-->
+            <div><p><title ref="work:W.Kraus-Gebet_an_die_Sonne_von_Gibeon">Gebet an die Sonne von Gibeon</title></p></div></div>
+         <div type="footer"><p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung
             des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie <lb/>vorauszusehen, die Zeit
             nach der Pause nicht ausreicht. Im andern Fall würde er anstatt des IV. Aktes der
             »Weber« und des » Gebets an <lb/>die Sonne von Gibeon« gelesen werden.</p>
