@@ -47,6 +47,9 @@
                         <category xml:id="G.Drama_oneact">
                             <catDesc>Einaktiges Drama</catDesc>
                         </category>
+                        <category xml:id="G.Posse">
+                            <catDesc>Komisches, groteskes Bühnenspiel; meist mit Gesang</catDesc>
+                        </category>
                     </category>
                 </taxonomy>
                 <taxonomy>
@@ -159,56 +162,49 @@
                     <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind"
                         ana="#G.Drama_w_acts"><title>Der Alpenkönig und der
                             Menschenfeind</title><author ref="person:P.Raimund-Ferdinand"/><idno
-                                type="Wikidata">https://www.wikidata.org/wiki/Q1192140</idno>
-                        <bibl
-                            xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I"
+                            type="Wikidata">https://www.wikidata.org/wiki/Q1192140</idno>
+                        <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I"
                             ana="#S.Act"><title>I. Akt</title>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_11"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_11"
                                 ana="#S.Scene"><title>I. Akt, Szene 11</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_12"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_12"
                                 ana="#S.Scene"><title>I. Akt, Szene 12</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_13"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_13"
                                 ana="#S.Scene"><title>I. Akt, Szene 13</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_14"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_14"
                                 ana="#S.Scene"><title>I. Akt, Szene 14</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_15"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_15"
                                 ana="#S.Scene"><title>I. Akt, Szene 15</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_16"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_16"
                                 ana="#S.Scene"><title>I. Akt, Szene 16</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_17"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_17"
                                 ana="#S.Scene"><title>I. Akt, Szene 17</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_18"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_18"
                                 ana="#S.Scene"><title>I. Akt, Szene 18</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_19"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_19"
                                 ana="#S.Scene"><title>I. Akt, Szene 19</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_20"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_20"
                                 ana="#S.Scene"><title>I. Akt, Szene 20</title>
                             </bibl>
-                            <bibl
-                                xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_21"
+                            <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_21"
                                 ana="#S.Scene"><title>I. Akt, Szene 21</title>
                             </bibl>
                         </bibl>
                     </bibl>
+                    <bibl xml:id="W.Nestroy-Das_Notwendige_und_das_Ueberfluessige" ana="#G.Posse"
+                            ><title>Das Notwendige und das Überflüssige (nach »Die beiden
+                            Nachtwandler«)</title><author ref="person:P.Nestroy-Johann"/><idno
+                            type="Wikidata">https://www.wikidata.org/wiki/Q15805859</idno></bibl>
+
                 </listBibl>
             </ab>
         </body>
