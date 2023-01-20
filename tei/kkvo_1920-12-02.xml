@@ -194,12 +194,12 @@
    </text>
    <text>
       <body>
-         <div>
+         <div type="head">
             <p>Preis des Programms (Verlag Richard Lányl) 3 Kronen. [Der Erlös für den wohltätigen
                Zweck]</p>
             <p>FESTSAAL DES NIEDERÖST. GEWERBE-VEREINES, DONNERSTAG, 2. DEZ. 1920 1/2 7 Uhr</p>
          </div>
-         <div>
+         <div type="title">
             <p>VORLESUNG KARL KRAUS</p>
          </div>
          <div type="content">
@@ -207,24 +207,85 @@
                <p>I.</p>
                <p>FERDINAND RAIMUND:</p>
                <p><title>Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title></p>
-               <p>II 4 bis 7 [...]</p>
+               <p>II 4 bis 7</p>
+               <p>Fortunatus Wurzel, ehemals Waldbauer, jetzt Millionär
+               Lorenz, Kammerdiener
+               Habakuk, Bedienter</p>
+               <p>Musensohn,
+               Schmeichelfeld,
+               Afterling,
+               Wurzels Zechbrüder
+               Die Jugend
+               Das hohe Alter
+              </p>
+               <p>Gäste, Bediente, Sechs Pagen und sechs Mädchen, Ein kleiner uralter Kutscher</p>
                <p><title>Aus III 8: Monolog des Wurzel (Aschenlied)</title></p>
                <p>Musik von Josef Drechsler</p>
                <p><title>Der Alpenkönig und der Menschenfeind</title></p>
-               <p>I 11 bis 21 [..]</p>
+               <p>I 11 bis 21</p>
+               <p>Rappelkopf, ein reicher Gutsbesitzer
+               Sophie, seine Frau
+               Lieschen, Kammermädchen
+               Habakuk, Bedienter
+               Christian Glühwurm, ein Kohlenbrenner
+               Marthe, sein Weib</p>
+               <p>Salchen,
+                  Hänschen,
+                  Christoph,
+                  Andres
+                  ihre Kinder
+                  Christians Großmutter
+                  Franzel, ein Holzhauer, Salchens Bräutigam
+               </p>
                <p>Musik von Wenzel Müller</p>
-               <p>Der Verschwender III 10: Monolog des Valentin (Hobellied)</p>
-               <p>Musik von Conradin Kreutzer</p>
+               <p><title ref="work:W.Raimund-Der_Verschwender_III_6_Monolog_des_Valentin_Hobellied">»Der Verschwender« III 10: Monolog des Valentin (Hobellied).<note type="editorial">Das erwähnte Hobellied ist im III. Akt in der 6. Szene zu finden, nicht wie von Kraus angegeben in der 10. Szene des III. Aktes. Die Verlinkung wurde mit der III 6 vorgenommen.</note></title> Musik von Conradin Kreutzer</p>
                <p>10 Minuten Pause</p>
             </div>
             <div>
                <p>II.</p>
-               <p>Das Notwendige und das Überflüssige (nach »Die beiden Nachtwandler«)</p>
-               <p>Posse mit Gesang in zwei Akten von Johann Nestroy</p>
+               <p><title
+                     ref="work:W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige"
+                     >Das Notwendige und das Überflüssige 
+                  <lb/>(nach »Die beiden Nachtwandler«)</title></p>
+               <p>Posse mit Gesang in zwei Akten von JOHANN NESTROY</p>
                <p>Bearbeitet von Karl Kraus</p>
                <p>(Verlag von Richard Lányi, Wien 1920. Das Erträgnis aus dem verlag fällt
                   wohltätigen Zwecken zu.)</p>
-               <p>[...]</p>
+               <p>Lord Wathfield
+               Malvina, seine Tochter
+               Lord Howart, ihr Bräutigam
+               Sebastian Faden, ein armer Seiler
+               Fabian STrick, sein Geselle
+               Frau Schnittling, eine Kräutlerin
+               Babette, ihre Tochter, Fadens Geliebte
+               Pumpf, ein Bandelkramer
+               Hannerl, seine Schwester, eine Wäscherin, Stricks Geliebte
+               Herr von Brauchengeld, ein zu Grund gegangener Rentier
+               Mathilde,
+               Emilie,
+               seine Töchter
+               Therese, deren Stubenmädchen
+               Amtmann Geier</p>
+               <p>Krall,
+               Schnell,
+               Puff,
+               Kniff,
+               Fint,
+               Gauner
+               Ein Wirt
+               Franz,
+               Jakob,
+               Michel,
+               Joseph,
+               Kellner
+               Jackson, Jäger
+               John, Bedienter
+               des Lord Howart
+               Rasch, Schloßinspektor
+               Anton,
+               Georg,
+               Bediente</p>
+               <p>Bediente, Einwohner beiderlei Geschlechts, Gäste, Wächter</p>
                <p>Musik nach Angabe des Bearbeiters, gesetzt von Otto Janowitz und Anderen</p>
                <p>Zwischen den beiden Akten eine ganz kurze Pause.</p>
                <p>Begleitung: Dr. Viktor Junk</p>
