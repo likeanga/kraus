@@ -36,6 +36,9 @@
                             </address>
                         </location>
                     </org>
+                    <org xml:id="I.Heilanstalt-Alland">
+                        <orgName>Heilanstalt Alland</orgName>
+                    </org>
                 </listOrg>
             </ab>
         </body>
