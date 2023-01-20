@@ -64,7 +64,6 @@
             </classDecl>
         </encodingDesc>
     </teiHeader>
-    <!-- Frage an GV: soll das folgende nicht besser in standoff gepackt werden? Welches Element würde dann die xml:id bekommen?  -->
     <text>
         <body>
             <ab xml:id="entities_works">
@@ -138,23 +137,23 @@
                             ana="#S.Act"><title>II. Akt</title>
                             <bibl
                                 xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_4"
-                                ana="#S.Scene"><title>Szene 4</title></bibl>
+                                ana="#S.Scene"><title>II. Akt, Szene 4</title></bibl>
                             <bibl
                                 xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_5"
-                                ana="#S.Scene"><title>Szene 5</title></bibl>
+                                ana="#S.Scene"><title>II. Akt, Szene 5</title></bibl>
                             <bibl
                                 xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_6"
-                                ana="#S.Scene"><title>Szene 6</title></bibl>
+                                ana="#S.Scene"><title>II. Akt, Szene 6</title></bibl>
                             <bibl
                                 xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_7"
-                                ana="#S.Scene"><title>Szene 4</title></bibl>
+                                ana="#S.Scene"><title>II. Akt, Szene 4</title></bibl>
                         </bibl>
                         <bibl
                             xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III"
                             ana="#S.Act"><title>III. Akt</title>
                             <bibl
                                 xml:id="W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III_8"
-                                ana="#S.Scene"><title>Szene 8, Monolog des Wurzel
+                                ana="#S.Scene"><title>II. Akt, Szene 8, Monolog des Wurzel
                                     (Aschenlied)</title>
                             </bibl>
                         </bibl>
@@ -163,6 +162,7 @@
                         ana="#G.Drama_w_acts"><title>Der Alpenkönig und der
                             Menschenfeind</title><author ref="person:P.Raimund-Ferdinand"/><idno
                             type="Wikidata">https://www.wikidata.org/wiki/Q1192140</idno>
+                        <!-- Teile von Der Alpenkönig und der Menschenfeind -->
                         <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I"
                             ana="#S.Act"><title>I. Akt</title>
                             <bibl xml:id="W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_11"
@@ -200,10 +200,31 @@
                             </bibl>
                         </bibl>
                     </bibl>
-                    <bibl xml:id="W.Nestroy-Das_Notwendige_und_das_Ueberfluessige" ana="#G.Posse"
-                            ><title>Das Notwendige und das Überflüssige (nach »Die beiden
+                    <bibl xml:id="W.Raimund-Der_Verschwender" ana="#G.Drama_w_acts">
+                        <title>Der Verschwender</title><author ref="person:P.Raimund-Ferdinand"
+                            /><idno type="Wikidata">https://www.wikidata.org/wiki/Q1197834</idno>
+                    </bibl>
+                    <!-- Teile von Der Verschwender -->
+                    <bibl
+                        xml:id="W.Raimund-Der_Verschwender_III"
+                        ana="#S.Act"><title>III. Akt</title>
+                        <bibl xml:id="W.Raimund-Der_Verschwender_III_6_Monolog_des_Valentin_Hobellied" ana="#S.Scene"><title>III. Akt, 6. Szene, Monolog des Valentin (Hobellied)</title></bibl>
+                    </bibl>
+                    <bibl
+                        xml:id="W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige"
+                        ana="#G.Posse"><title>Das Notwendige und das Überflüssige (nach »Die beiden
                             Nachtwandler«)</title><author ref="person:P.Nestroy-Johann"/><idno
-                            type="Wikidata">https://www.wikidata.org/wiki/Q15805859</idno></bibl>
+                            type="Wikidata">https://www.wikidata.org/wiki/Q15805859</idno>
+                    </bibl>
+                    <!-- Teile von Die beiden Nachtwandler oder Das Notwendige und das Überflüssige -->
+                    <bibl
+                        xml:id="W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige_I"
+                        ana="#S.Act"><title>I. Akt</title>
+                    </bibl>
+                    <bibl
+                        xml:id="W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige_II"
+                        ana="#S.Act"><title>II. Akt</title>
+                    </bibl>
 
                 </listBibl>
             </ab>
