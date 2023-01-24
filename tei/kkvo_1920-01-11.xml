@@ -132,23 +132,23 @@
       <encodingDesc>
          <listPrefixDef>
             <prefixDef ident="place" matchPattern="(O\.\w+)"
-               replacementPattern="entities/kk_places.xml#$1">
+               replacementPattern="entities/places.xml#$1">
                <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der
                   Datei "kk_places" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
             <prefixDef ident="person" matchPattern="(P\.\w+)"
-               replacementPattern="entities/kk_persons.xml#$1">
+               replacementPattern="entities/persons.xml#$1">
                <p>Im Projektkontext steht das Präfix "person" für Personen. Referenzen können
                   mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
             </prefixDef>
             <prefixDef ident="institution" matchPattern="(I\.\w+)"
-               replacementPattern="entities/kk_institutions.xml#$1">
+               replacementPattern="entities/institutions.xml#$1">
                <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
                   Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
                   "entities" aufgelöst werden. </p>
             </prefixDef>
             <prefixDef ident="work" matchPattern="(W\.\w+)"
-               replacementPattern="entities/kk_works.xml#$1">
+               replacementPattern="entities/works.xml#$1">
                <p>Im Projektkontext steht das Präfix "works" für Werke. Referenzen können mittels der Datei "kk_works" im Ordner
                   "entities" aufgelöst werden.</p>
             </prefixDef>
@@ -326,7 +326,14 @@
          <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
             <!-- wo dann die divs setzen? wirklich zwischen dem II. und IV. akt oben doch hier? Frage, ob 
             man das eher dem Vorlesungszettel getreu macht, oder ob man den Vorlesungscharakter / das event
-            stärker gewichtet-->
+            stärker gewichtet
+            Die Grenzziehung der divs ist motiviert durch die typographische Gestaltung des Programmzettels
+            weißraum deutet an, dass ein div zu Ende ist;
+            ODER wird gruppiert nach semantischen Kriterien, und versucht man so, die einzelnen Teile der Performance 
+            zu identifizieren?
+            man orientiert sich an textuell-semantischen Vorgaben wie Aufzählungen, etc. wenn sowas nicht vorliegt,
+            dann versucht man Einzeltexte in ein div zu packen
+            -->
             <div><p><title ref="work:W.Kraus-Gebet_an_die_Sonne_von_Gibeon">Gebet an die Sonne von Gibeon</title></p></div></div>
          <div type="footer"><p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung
             des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie <lb/>vorauszusehen, die Zeit

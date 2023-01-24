@@ -142,24 +142,24 @@
          <listPrefixDef>
             <prefixDef ident="place"
                matchPattern="(O\.\w+)"
-               replacementPattern="entities/kk_places.xml#$1">
+               replacementPattern="entities/places.xml#$1">
                <p>Im Projektkontext steht das Präfix "place" für Orte. Referenzen können mittels der Datei "kk_places" im Ordner "entities" aufgelöst werden.
                </p>
             </prefixDef>
             <prefixDef ident="person"
                matchPattern="(P\.\w+)"
-               replacementPattern="entities/kk_persons.xml#$1">
+               replacementPattern="entities/persons.xml#$1">
                <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden.
                </p>
             </prefixDef>
             <prefixDef ident="institution" matchPattern="(I\.\w+)"
-               replacementPattern="entities/kk_institutions.xml#$1">
+               replacementPattern="entities/institutions.xml#$1">
                <p>Im Projektkontext steht das Präfix "institution" für Organisationen und
                   Institutionen. Referenzen können mittels der Datei "kk_institutions" im Ordner
                   "entities" aufgelöst werden. </p>
             </prefixDef>
             <prefixDef ident="work" matchPattern="(W\.\w+)"
-               replacementPattern="entities/kk_works.xml#$1">
+               replacementPattern="entities/works.xml#$1">
                <p>Im Projektkontext steht das Präfix "works" für Werke. Referenzen können mittels der Datei "kk_works" im Ordner
                   "entities" aufgelöst werden.</p>
             </prefixDef>

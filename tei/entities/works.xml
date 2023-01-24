@@ -23,7 +23,7 @@
         <encodingDesc>
             <listPrefixDef>
                 <prefixDef ident="person" matchPattern="(P\.\w+)"
-                    replacementPattern="kk_persons.xml#$1">
+                    replacementPattern="persons.xml#$1">
                     <p>Im Projektkontext steht das Präfix "persons" für Personen. Referenzen können
                         mittels der Datei "kk_persons" im Ordner "entities" aufgelöst werden. </p>
                 </prefixDef>

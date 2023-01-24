@@ -25,7 +25,9 @@
         <body>
             <ab xml:id="entities_institutions">
                 <listOrg xml:id="institutions">
+                    
                     <org xml:id="I.Jahoda-Siegel">
+                        <orgName>Druckerei Jahoda &amp; Siegel</orgName>
                         <placeName>Gebäude der Druckerei Jahoda &amp; Siegel</placeName>
                         <location>
                             <geo>48.21184371716884, 16.387335069268904</geo>
@@ -35,6 +37,7 @@
                                 <settlement>Wien</settlement>
                             </address>
                         </location>
+                        <state></state>
                     </org>
                     <org xml:id="I.Heilanstalt-Alland">
                         <orgName>Heilanstalt Alland</orgName>
