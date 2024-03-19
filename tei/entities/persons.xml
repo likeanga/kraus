@@ -184,7 +184,7 @@
                             <idno type="GND">http://d-nb.info/gnd/118546937</idno>
                             <idno type="Wikidata">https://www.wikidata.org/wiki/Q43523</idno>
                             <idno type="Wienwiki"/>
-                            <idno type="PMB"/>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/11617/detail</idno>
                         </name>
                     </person>
                     <person xml:id="P.Wacha-Frieda">
@@ -192,9 +192,9 @@
                             <forename>Frieda</forename>
                             <surname>Wacha</surname>
                             <idno type="GND"/>
-                            <idno type="Wikidata"/>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q106066303</idno>
                             <idno type="Wienwiki"/>
-                            <idno type="PMB"/>
+                            <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/43584/detail</idno>
                         </name>
                     </person>
                     <person xml:id="P.Schlegel-August-Wilhelm">
