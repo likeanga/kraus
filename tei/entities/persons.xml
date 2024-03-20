@@ -209,8 +209,55 @@
                             <idno type="PMB"/>
                         </name>
                     </person>
+                    <person xml:id="P.Drechsler-Josef">
+                        <name>
+                            <forename>Josef</forename>
+                            <surname>Drechsler</surname>
+                            <idno type="GND">http://d-nb.info/gnd/127916148</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q733099</idno>
+                            <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Joseph_Drechsler#tab=null</idno>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                    <person xml:id="P.Mueller-Wenzel">
+                        <name>
+                            <forename>Wenzel</forename>
+                            <surname>Müller</surname>
+                            <idno type="GND"/>
+                            <idno type="Wikidata"/>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                    <person xml:id="P.Kreutzer-Conradin">
+                        <name>
+                            <forename>Conradin</forename>
+                            <surname>Kreutzer</surname>
+                            <idno type="GND"/>
+                            <idno type="Wikidata"/>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+                    
                 </listPerson>
             </ab>
         </body>
     </text>
 </TEI>
+<!-- 
+
+<person xml:id="P.Nachname-Vorname">
+                        <name>
+                            <forename></forename>
+                            <forename></forename>
+                            <nameLink></nameLink>
+                            <surname></surname>
+                            <idno type="GND"/>
+                            <idno type="Wikidata"/>
+                            <idno type="Wienwiki"/>
+                            <idno type="PMB"/>
+                        </name>
+                    </person>
+
+-->

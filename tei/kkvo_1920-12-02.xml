@@ -195,8 +195,8 @@
    <text>
       <body>
          <div type="head">
-            <p>Preis des Programms (Verlag Richard Lányl) 3 Kronen. [Der Erlös für den wohltätigen
-               Zweck]</p>
+            <p>Preis des Programms (Verlag Richard Lányi) 3 Kronen. [Der Erlös für den wohltätigen
+               Zweck.]</p>
             <p>FESTSAAL DES NIEDERÖST. GEWERBE-VEREINES, DONNERSTAG, 2. DEZ. 1920 1/2 7 Uhr</p>
          </div>
          <div type="title">
@@ -204,87 +204,118 @@
          </div>
          <div type="content">
             <div>
-               <p>I.</p>
-               <p>FERDINAND RAIMUND:</p>
-               <p><title>Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title></p>
-               <p>II 4 bis 7</p>
-               <p>Fortunatus Wurzel, ehemals Waldbauer, jetzt Millionär
-               Lorenz, Kammerdiener
-               Habakuk, Bedienter</p>
-               <p>Musensohn,
-               Schmeichelfeld,
-               Afterling,
-               Wurzels Zechbrüder
-               Die Jugend
-               Das hohe Alter
-              </p>
-               <p>Gäste, Bediente, Sechs Pagen und sechs Mädchen, Ein kleiner uralter Kutscher</p>
-               <p><title>Aus III 8: Monolog des Wurzel (Aschenlied)</title></p>
-               <p>Musik von Josef Drechsler</p>
-               <p><title>Der Alpenkönig und der Menschenfeind</title></p>
-               <p>I 11 bis 21</p>
-               <p>Rappelkopf, ein reicher Gutsbesitzer
-               Sophie, seine Frau
-               Lieschen, Kammermädchen
-               Habakuk, Bedienter
-               Christian Glühwurm, ein Kohlenbrenner
-               Marthe, sein Weib</p>
-               <p>Salchen,
-                  Hänschen,
-                  Christoph,
-                  Andres
-                  ihre Kinder
-                  Christians Großmutter
-                  Franzel, ein Holzhauer, Salchens Bräutigam
-               </p>
-               <p>Musik von Wenzel Müller</p>
-               <p><title ref="work:W.Raimund-Der_Verschwender_III_6_Monolog_des_Valentin_Hobellied">»Der Verschwender« III 10: Monolog des Valentin (Hobellied).<note type="editorial">Das erwähnte Hobellied ist im III. Akt in der 6. Szene zu finden, nicht wie von Kraus angegeben in der 10. Szene des III. Aktes. Die Verlinkung wurde mit der III 6 vorgenommen.</note></title> Musik von Conradin Kreutzer</p>
+               <head>I.</head>
+               <head><persName ref="person:P.Raimund-Ferdinand">FERDINAND RAIMUND:</persName></head>
+               <div>
+                  <!-- 1. Raimund Text -->
+                  <head type="work"><title ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title></head>
+                  <div>
+                  <head type="work-part">II 4 bis 7</head>
+                     <castList>
+                        <cb/>
+                        <castItem><lb/><roleName>Fortunatus Wurzel</roleName>,<roleDesc>ehemals Waldbauer, jetzt <lb/>Millionär</roleDesc></castItem>
+                        <castItem><lb/><roleName>Lorenz</roleName>, <roleDesc>Kammerdiener</roleDesc></castItem>
+                        <castItem><lb/><roleName>Habakuk</roleName>, <roleDesc>Bedienter</roleDesc></castItem>
+                        <cb/>
+                        <castGroup>
+                           <castItem><lb/><roleName>Musensohn</roleName>,</castItem>
+                           <castItem><lb/><roleName>Schmeichelfeld</roleName>,</castItem>
+                           <castItem><lb/><roleName>Afterling</roleName>,</castItem>
+                           <roleDesc>Wurzels Zechbrüder</roleDesc>
+                        </castGroup>
+                        <castItem><lb/>Die Jugend</castItem>
+                        <castItem><lb/>Das hohe Alter</castItem>
+                        <cb/>
+                        <lb/><castItem><roleName>Gäste</roleName>,</castItem><castItem></castItem><castItem><roleName>Bediente</roleName>, </castItem><castItem><roleName>Sechs Pagen</roleName></castItem><castItem>und <roleName>sechs Mädchen</roleName>,</castItem> <castItem>E<roleName>in kleiner uralter
+                        Kutscher</roleName></castItem>
+                        <castItem></castItem>
+                        
+                     </castList>
+                  </div>
+                        
+                        
+                  <!-- 2. Raimund Text --> 
+                        
+                  <div>
+                  <head type="work-part">
+                     <title ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III_8">Aus III 8: Monolog des Wurzel (Aschenlied)</title>
+                  </head>
+                     <p>Musik von <persName ref="person:P.Drechsler-Josef">Josef Drechsler</persName></p>
+                  </div>
+                  
+               </div>
+
+               <div>
+                  <head type="work"><title ref="work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind">Der Alpenkönig und der Menschenfeind</title></head>
+
+                  <head type="work-part">I 11 bis 21</head>
+                  <cb/>
+
+                  <p><lb/>Rappelkopf, ein reicher Gutsbesitzer <lb/>Sophie, seine Frau <lb/>Lieschen, Kammermädchen
+                     Habakuk, Bedienter <lb/>Christian Glühwurm, ein Kohlenbrenner <lb/>Marthe, sein Weib</p>
+                  <p>
+                     <cb/>
+                     <lb/>Salchen, <lb/>Hänschen, <lb/>Christoph, <lb/>Andres ihre Kinder <lb/>Christians Großmutter <lb/>Franzel,
+                     <lb/>ein Holzhauer, Salchens Bräutigam </p>
+                  <p>Musik von <persName ref="person:P.Mueller-Wenzel">Wenzel Müller</persName></p>
+               </div>
+            </div>
+
+            <div>
+               <!-- 3. Raimund Text -->
+               <head>
+                  <title ref="work:W.Raimund-Der_Verschwender_III_6_Monolog_des_Valentin_Hobellied"
+                     >»Der Verschwender« III 10: Monolog des Valentin (Hobellied).<note
+                        type="editorial">Das erwähnte Hobellied ist im III. Akt in der 6. Szene zu
+                        finden, nicht wie von Kraus angegeben in der 10. Szene des III. Aktes. Die
+                        Verlinkung wurde mit der III 6 vorgenommen.</note></title>
+               </head>
+               <p>Musik von <persName ref="person:P.Kreutzer-Conradin">Conradin Kreutzer</persName></p>
                <p>10 Minuten Pause</p>
             </div>
+            <!-- /1. Teil -->
+
+
+
+
+
+
+
+
             <div>
-               <p>II.</p>
-               <p><title
+               <!-- 2. Teil -->
+               <head>II.</head>
+               <head><title
                      ref="work:W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige"
-                     >Das Notwendige und das Überflüssige 
-                  <lb/>(nach »Die beiden Nachtwandler«)</title></p>
-               <p>Posse mit Gesang in zwei Akten von JOHANN NESTROY</p>
-               <p>Bearbeitet von Karl Kraus</p>
+                     >Das Notwendige und das Überflüssige <lb/>(nach »Die beiden
+                     Nachtwandler«)</title></head>
+
+               <p>Posse mit Gesang in zwei Akten von <persName ref="person:P.Nestroy-Johann">JOHANN NESTROY</persName></p>
+               <p>Bearbeitet von <persName ref="person:P.Kraus-Karl">Karl Kraus</persName></p>
                <p>(Verlag von Richard Lányi, Wien 1920. Das Erträgnis aus dem verlag fällt
                   wohltätigen Zwecken zu.)</p>
-               <p>Lord Wathfield
-               Malvina, seine Tochter
-               Lord Howart, ihr Bräutigam
-               Sebastian Faden, ein armer Seiler
-               Fabian STrick, sein Geselle
-               Frau Schnittling, eine Kräutlerin
-               Babette, ihre Tochter, Fadens Geliebte
-               Pumpf, ein Bandelkramer
-               Hannerl, seine Schwester, eine Wäscherin, Stricks Geliebte
-               Herr von Brauchengeld, ein zu Grund gegangener Rentier
-               Mathilde,
-               Emilie,
-               seine Töchter
-               Therese, deren Stubenmädchen
-               Amtmann Geier</p>
-               <p>Krall,
-               Schnell,
-               Puff,
-               Kniff,
-               Fint,
-               Gauner
-               Ein Wirt
-               Franz,
-               Jakob,
-               Michel,
-               Joseph,
-               Kellner
-               Jackson, Jäger
-               John, Bedienter
-               des Lord Howart
-               Rasch, Schloßinspektor
-               Anton,
-               Georg,
-               Bediente</p>
+               
+               <castList>
+                  <castItem><lb/><roleName>Lord Wathfield</roleName></castItem>
+                  <castItem><lb/><roleName>Malvina</roleName>, <roleDesc>seine Tochter</roleDesc></castItem>
+                  <castItem><lb/>Lord Howart, ihr Bräutigam</castItem>
+                  <castItem></castItem>
+                  <castItem></castItem>
+                  <castItem></castItem>
+                  <castItem></castItem>
+                  <castItem></castItem>
+               </castList>
+
+
+               <p>   <lb/>Sebastian Faden,
+                  ein armer Seiler <lb/>Fabian Strick, sein Geselle <lb/>Frau Schnittling, eine Kräutlerin
+                  <lb/>Babette, ihre Tochter, Fadens Geliebte <lb/>Pumpf, ein Bandelkramer <lb/>Hannerl, seine
+                  Schwester, eine Wäscherin, Stricks Geliebte <lb/>Herr von Brauchengeld, ein zu Grund
+                  gegangener Rentier <lb/>Mathilde, <lb/>Emilie, seine Töchter <lb/>Therese, deren Stubenmädchen
+                  <lb/>Amtmann Geier</p>
+               <p><lb/>Krall, <lb/>Schnell, <lb/>Puff, <lb/>Kniff, <lb/>Fint, Gauner <lb/>Ein Wirt <lb/>Franz, <lb/>Jakob, <lb/>Michel, <lb/>Joseph,
+                  Kellner <lb/>Jackson, Jäger <lb/>John, Bedienter des Lord Howart <lb/>Rasch, Schloßinspektor
+                  <lb/>Anton, <lb/>Georg, Bediente</p>
                <p>Bediente, Einwohner beiderlei Geschlechts, Gäste, Wächter</p>
                <p>Musik nach Angabe des Bearbeiters, gesetzt von Otto Janowitz und Anderen</p>
                <p>Zwischen den beiden Akten eine ganz kurze Pause.</p>
@@ -292,6 +323,8 @@
                <p>Änderung und Kürzung vorbehalten.</p>
             </div>
          </div>
+
+
          <div>
             <p>Der volle Ertrag dieser wie der vorhergegangenen Vorlesung für die Heilanstalt
                Alland. Spenden erbeten an den Notstandsausschuß der Heilanstalt Alland II (bei
