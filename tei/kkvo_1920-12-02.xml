@@ -208,55 +208,98 @@
                <head><persName ref="person:P.Raimund-Ferdinand">FERDINAND RAIMUND:</persName></head>
                <div>
                   <!-- 1. Raimund Text -->
-                  <head type="work"><title ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer">Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title></head>
+                  <head type="work"><title
+                        ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer"
+                        >Das Mädchen aus der Feenwelt oder Der Bauer als Millionär</title></head>
                   <div>
-                  <head type="work-part">II 4 bis 7</head>
+                     <head type="work-part"><title
+                           ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_4 work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_5 work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_6 work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_II_7"
+                           >II 4 bis 7</title></head>
                      <castList>
                         <cb/>
-                        <castItem><lb/><roleName>Fortunatus Wurzel</roleName>,<roleDesc>ehemals Waldbauer, jetzt <lb/>Millionär</roleDesc></castItem>
-                        <castItem><lb/><roleName>Lorenz</roleName>, <roleDesc>Kammerdiener</roleDesc></castItem>
-                        <castItem><lb/><roleName>Habakuk</roleName>, <roleDesc>Bedienter</roleDesc></castItem>
+                        <lb/>
+                        <castItem><roleName>Fortunatus Wurzel</roleName>,<roleDesc>ehemals
+                              Waldbauer, jetzt <lb/>Millionär</roleDesc></castItem>
+                        <lb/>
+                        <castItem><roleName>Lorenz</roleName>,
+                           <roleDesc>Kammerdiener</roleDesc></castItem>
+                        <lb/>
+                        <castItem><roleName>Habakuk</roleName>,
+                           <roleDesc>Bedienter</roleDesc></castItem>
                         <cb/>
                         <castGroup>
-                           <castItem><lb/><roleName>Musensohn</roleName>,</castItem>
-                           <castItem><lb/><roleName>Schmeichelfeld</roleName>,</castItem>
-                           <castItem><lb/><roleName>Afterling</roleName>,</castItem>
+                           <lb/>
+                           <castItem><roleName>Musensohn</roleName>,</castItem>
+                           <lb/>
+                           <castItem><roleName>Schmeichelfeld</roleName>,</castItem>
+                           <lb/>
+                           <castItem><roleName>Afterling</roleName>,</castItem>
                            <roleDesc>Wurzels Zechbrüder</roleDesc>
                         </castGroup>
-                        <castItem><lb/>Die Jugend</castItem>
-                        <castItem><lb/>Das hohe Alter</castItem>
+                        <lb/>
+                        <castItem>Die Jugend</castItem>
+                        <lb/>
+                        <castItem>Das hohe Alter</castItem>
                         <cb/>
-                        <lb/><castItem><roleName>Gäste</roleName>,</castItem><castItem></castItem><castItem><roleName>Bediente</roleName>, </castItem><castItem><roleName>Sechs Pagen</roleName></castItem><castItem>und <roleName>sechs Mädchen</roleName>,</castItem> <castItem>E<roleName>in kleiner uralter
-                        Kutscher</roleName></castItem>
-                        <castItem></castItem>
-                        
+                        <lb/>
+                        <castItem><roleName>Gäste</roleName>,</castItem>
+                        <castItem><roleName>Bediente</roleName>, </castItem>
+                        <castItem><roleName>Sechs Pagen</roleName></castItem>
+                        <castItem>und <roleName>sechs Mädchen</roleName>,</castItem>
+                        <castItem><roleName>Ein kleiner uralter Kutscher</roleName></castItem>
                      </castList>
                   </div>
-                        
-                        
-                  <!-- 2. Raimund Text --> 
-                        
+
+                  <!-- 2. Raimund Text -->
+
                   <div>
-                  <head type="work-part">
-                     <title ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III_8">Aus III 8: Monolog des Wurzel (Aschenlied)</title>
-                  </head>
-                     <p>Musik von <persName ref="person:P.Drechsler-Josef">Josef Drechsler</persName></p>
+                     <head type="work-part">
+                        <title
+                           ref="work:W.Raimund-Das_Maedchen_aus_der_Feenwelt_oder_Der_Bauer_als_Millionaer_III_8"
+                           >Aus III 8: Monolog des Wurzel (Aschenlied)</title>
+                     </head>
+                     <p>Musik von <persName ref="person:P.Drechsler-Josef">Josef
+                           Drechsler</persName></p>
                   </div>
-                  
                </div>
 
                <div>
-                  <head type="work"><title ref="work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind">Der Alpenkönig und der Menschenfeind</title></head>
+                  <head type="work"><title
+                        ref="work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind">Der Alpenkönig
+                        und der Menschenfeind</title></head>
 
-                  <head type="work-part">I 11 bis 21</head>
-                  <cb/>
-
-                  <p><lb/>Rappelkopf, ein reicher Gutsbesitzer <lb/>Sophie, seine Frau <lb/>Lieschen, Kammermädchen
-                     Habakuk, Bedienter <lb/>Christian Glühwurm, ein Kohlenbrenner <lb/>Marthe, sein Weib</p>
-                  <p>
+                  <head type="work-part"><title
+                        ref="work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_11 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_12 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_13 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_14 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_15 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_16 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_17 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_18 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_19 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_20 work:W.Raimund-Der_Alpenkoenig_und_der_Menschenfeind_I_21"
+                        >I 11 bis 21</title></head>
+                  <castList>
                      <cb/>
-                     <lb/>Salchen, <lb/>Hänschen, <lb/>Christoph, <lb/>Andres ihre Kinder <lb/>Christians Großmutter <lb/>Franzel,
-                     <lb/>ein Holzhauer, Salchens Bräutigam </p>
+                     <lb/>
+                     <castItem><roleName>Rappelkopf</roleName>, <roleDesc>ein reicher
+                           Gutsbesitzer</roleDesc>
+                     </castItem>
+                     <lb/><castItem><roleName>Sophie</roleName>, <roleDesc>seine
+                        Frau</roleDesc></castItem>
+                     <lb/><castItem><roleName>Lieschen</roleName>,
+                           <roleDesc>Kammermädchen</roleDesc></castItem>
+                     <lb/><castItem><roleName>Habakuk</roleName>, <roleDesc>Bedienter</roleDesc>
+                     </castItem>
+                     <lb/><castItem><roleName>Christian Glühwurm</roleName>, <roleDesc>ein
+                           Kohlenbrenner</roleDesc></castItem>
+                     <lb/><castItem><roleName>Marthe</roleName>, <roleDesc>sein
+                        Weib</roleDesc></castItem>
+                     <cb/>
+                     <castGroup>
+                        <lb/><castItem><roleName>Salchen</roleName>,</castItem>
+                        <lb/><castItem><roleName>Hänschen</roleName>,</castItem>
+                        <lb/><castItem><roleName>Christoph</roleName>,</castItem>
+                        <lb/><castItem><roleName>Andres</roleName></castItem>
+                        <roleDesc>ihre Kinder</roleDesc>
+                     </castGroup>
+                     <lb/><castItem><roleName>Christians Großmutter</roleName></castItem>
+                     <lb/><castItem><roleName>Franzel</roleName>, <roleDesc>ein Holzhauer, Salchens
+                           Bräutigam</roleDesc></castItem>
+                  </castList>
+                  <cb/>
                   <p>Musik von <persName ref="person:P.Mueller-Wenzel">Wenzel Müller</persName></p>
                </div>
             </div>
@@ -270,16 +313,15 @@
                         finden, nicht wie von Kraus angegeben in der 10. Szene des III. Aktes. Die
                         Verlinkung wurde mit der III 6 vorgenommen.</note></title>
                </head>
-               <p>Musik von <persName ref="person:P.Kreutzer-Conradin">Conradin Kreutzer</persName></p>
-               <p>10 Minuten Pause</p>
+               <p>Musik von <persName ref="person:P.Kreutzer-Conradin">Conradin
+                  Kreutzer</persName></p>
+
             </div>
             <!-- /1. Teil -->
 
-
-
-
-
-
+            <div>
+               <p>10 Minuten Pause</p>
+            </div>
 
 
             <div>
@@ -289,40 +331,91 @@
                      ref="work:W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige"
                      >Das Notwendige und das Überflüssige <lb/>(nach »Die beiden
                      Nachtwandler«)</title></head>
-
-               <p>Posse mit Gesang in zwei Akten von <persName ref="person:P.Nestroy-Johann">JOHANN NESTROY</persName></p>
+               <!-- unbedingt noch setzen, was genau gelesen wurde ref="work: W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige_I W.Nestroy-Die_beiden_Nachtwandler_oder_Das_Notwendige_und_das_Ueberfluessige_II" -->
+               <p>Posse mit Gesang in zwei Akten von <persName ref="person:P.Nestroy-Johann">JOHANN
+                     NESTROY</persName></p>
                <p>Bearbeitet von <persName ref="person:P.Kraus-Karl">Karl Kraus</persName></p>
                <p>(Verlag von Richard Lányi, Wien 1920. Das Erträgnis aus dem verlag fällt
                   wohltätigen Zwecken zu.)</p>
-               
+
                <castList>
+                  <cb/>
                   <castItem><lb/><roleName>Lord Wathfield</roleName></castItem>
-                  <castItem><lb/><roleName>Malvina</roleName>, <roleDesc>seine Tochter</roleDesc></castItem>
-                  <castItem><lb/>Lord Howart, ihr Bräutigam</castItem>
-                  <castItem></castItem>
-                  <castItem></castItem>
-                  <castItem></castItem>
-                  <castItem></castItem>
-                  <castItem></castItem>
+                  <castItem><lb/><roleName>Malvina</roleName>, <roleDesc>seine
+                     Tochter</roleDesc></castItem>
+                  <castItem><lb/><roleName>Lord Howart</roleName>, <roleDesc>ihr
+                        Bräutigam</roleDesc></castItem>
+                  <castItem><lb/><roleName>Sebastian Faden</roleName>, <roleDesc>ein armer
+                        Seiler</roleDesc></castItem>
+                  <castItem><lb/><roleName>Fabian Strick</roleName>, <roleDesc>sein
+                        Geselle</roleDesc></castItem>
+                  <castItem><lb/><roleName>Frau Schnittling</roleName>, <roleDesc>eine
+                        Kräutlerin</roleDesc></castItem>
+                  <castItem><lb/><roleName>Babette</roleName>, <roleDesc>ihre Tochter, Fadens
+                        Geliebte</roleDesc></castItem>
+                  <castItem><lb/><roleName>Pumpf</roleName>, <roleDesc>ein
+                     Bandelkramer</roleDesc></castItem>
+                  <castItem><lb/><roleName>Hannerl</roleName>, <roleDesc>seine Schwester, eine
+                        Wäscherin, Stricks Geliebte</roleDesc></castItem>
+                  <castItem><lb/>Herr von Brauchengeld, ein zu Grund gegangener Rentier </castItem>
+                  <castGroup>
+                     <castItem><lb/>Mathilde,</castItem>
+                     <castItem><lb/>Emilie,</castItem>
+                     <roleDesc>seine Töchter</roleDesc>
+                  </castGroup>
+                  <castItem><lb/>Therese, deren Stubenmädchen</castItem>
+                  <castItem><lb/>Amtmann Geier</castItem>
+                  <cb/>
+                  <castGroup>
+                     <lb/>
+                     <castItem>Krall,</castItem>
+                     <lb/>
+                     <castItem>Schnell,</castItem>
+                     <lb/>
+                     <castItem>Puff,</castItem>
+                     <lb/>
+                     <castItem>Kniff,</castItem>
+                     <lb/>
+                     <castItem>Fint,</castItem>
+                     <roleDesc>Gauner</roleDesc>
+                  </castGroup>
+                  <castItem><lb/>Ein Wirt</castItem>
+                  <castGroup>
+                     <lb/><castItem>Franz,</castItem>
+                     <lb/><castItem>Jakob,</castItem>
+                     <lb/><castItem>Michel,</castItem>
+                     <lb/><castItem>Joseph,</castItem>
+                     <roleDesc>Kellner</roleDesc>
+                  </castGroup>
+                  <castGroup>
+                     <lb/><castItem>Jackson, Jäger</castItem>
+                     <lb/><castItem>John, Bedienter</castItem>
+                     <roleDesc>des Lord Howart</roleDesc>
+                  </castGroup>
+                  <castItem><lb/>Rasch, Schloßinspektor </castItem>
+                  <castGroup>
+                     <lb/><castItem>Anton,</castItem>
+                     <lb/><castItem>Georg,</castItem>
+                     <roleDesc>Bediente</roleDesc>
+                  </castGroup>
+                  <cb/>
+                  <castItem>Bediente,</castItem>
+                  <castItem>Einwohner beiderlei Geschlechts,</castItem>
+                  <castItem>Gäste,</castItem>
+                  <castItem>Wächter</castItem>
                </castList>
 
-
-               <p>   <lb/>Sebastian Faden,
-                  ein armer Seiler <lb/>Fabian Strick, sein Geselle <lb/>Frau Schnittling, eine Kräutlerin
-                  <lb/>Babette, ihre Tochter, Fadens Geliebte <lb/>Pumpf, ein Bandelkramer <lb/>Hannerl, seine
-                  Schwester, eine Wäscherin, Stricks Geliebte <lb/>Herr von Brauchengeld, ein zu Grund
-                  gegangener Rentier <lb/>Mathilde, <lb/>Emilie, seine Töchter <lb/>Therese, deren Stubenmädchen
-                  <lb/>Amtmann Geier</p>
-               <p><lb/>Krall, <lb/>Schnell, <lb/>Puff, <lb/>Kniff, <lb/>Fint, Gauner <lb/>Ein Wirt <lb/>Franz, <lb/>Jakob, <lb/>Michel, <lb/>Joseph,
-                  Kellner <lb/>Jackson, Jäger <lb/>John, Bedienter des Lord Howart <lb/>Rasch, Schloßinspektor
-                  <lb/>Anton, <lb/>Georg, Bediente</p>
-               <p>Bediente, Einwohner beiderlei Geschlechts, Gäste, Wächter</p>
-               <p>Musik nach Angabe des Bearbeiters, gesetzt von Otto Janowitz und Anderen</p>
+               <p>Musik nach Angabe des Bearbeiters, gesetzt von <persName ref="person:P.Janowitz-Otto"></persName>
+                  und Anderen</p>
                <p>Zwischen den beiden Akten eine ganz kurze Pause.</p>
-               <p>Begleitung: Dr. Viktor Junk</p>
+
+            </div>
+            <div>
+               <p>Begleitung: <persName>Dr. Viktor Junk</persName></p>
                <p>Änderung und Kürzung vorbehalten.</p>
             </div>
          </div>
+         <!-- Ende content-div -->
 
 
          <div>
