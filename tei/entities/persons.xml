@@ -31,7 +31,7 @@
                             <surname>Kraus</surname>
                             <forename>Karl</forename>
                             <idno type="GND">http://d-nb.info/gnd/118566288</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q44328</idno>
+                            <idno type="Wikidata">http://www.wikidata.org/entity/Q44328</idno>
                             <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/11988/detail</idno>
                         </name>
                     </person>
@@ -42,7 +42,7 @@
                             <forename>Adolf</forename>
                         </persName>
                         <idno type="GND">http://d-nb.info/gnd/11857423X</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q44323</idno>
+                        <idno type="Wikidata">http://www.wikidata.org/entity/Q44323</idno>
                         <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Adolf_Loos</idno>
                         <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/3612/detail</idno>
                     </person>
@@ -52,7 +52,7 @@
                             <surname>Friedell</surname>
                             <forename>Egon</forename>
                             <idno type="GND">http://d-nb.info/gnd/118535560</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q112255</idno>
+                            <idno type="Wikidata">http://www.wikidata.org/entity/Q112255</idno>
                             <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Egon_Friedell</idno>
                             <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/2771/detail</idno>
                         </name>
@@ -62,7 +62,7 @@
                             <surname>Andreas</surname>
                             <forename>Gryphius</forename>
                             <idno type="GND">http://d-nb.info/gnd/118543032</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q77214</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q77214</idno>
                         </name>
                     </person>
                     <person xml:id="P.Gabor-Andor">
@@ -70,7 +70,7 @@
                             <surname>G&#180;bor</surname>
                             <forename>Andor</forename>
                             <idno type="GND">http://d-nb.info/gnd/119033887</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q288936</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q288936</idno>
                             <idno type="Wienwiki"/>
                             <idno type="PMB"/>
                         </name>
@@ -81,7 +81,7 @@
                             <forename>Jens Peter</forename>
                         </persName>
                         <idno type="GND">http://d-nb.info/gnd/118711172</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q370246</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/entity/Q370246</idno>
                         <idno type="Wienwiki"/>
                         <idno type="PMB"/>
                     </person>
@@ -91,7 +91,7 @@
                             <forename>Henrik</forename>
                         </name>
                         <idno type="GND">http://d-nb.info/gnd/118555286</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q36661</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/entity/Q36661</idno>
                         <idno type="Wienwiki"/>
                         <idno type="PMB"/>
                     </person>
@@ -101,7 +101,7 @@
                             <nameLink>von</nameLink>
                             <surname>Liliencron</surname>
                             <idno type="GND">http://d-nb.info/gnd/118572954</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q21119</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q21119</idno>
                             <idno type="Wienwiki"/>
                             <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/12071/detail</idno>
                         </name>
@@ -111,7 +111,7 @@
                             <forename>Frank</forename>
                             <surname>Wedekind</surname>
                             <idno type="GND">http://d-nb.info/gnd/118629867</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q57619</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q57619</idno>
                             <idno type="Wienwiki"/>
                             <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/13068/detail</idno>
                         </name>
@@ -122,7 +122,7 @@
                             <surname>Raimund</surname>
                         </name>
                         <idno type="GND">http://d-nb.info/gnd/118597914</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q45025</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/entity/Q45025</idno>
                         <idno type="Wienwiki">https://www.geschichtewiki.wien.gv.at/Ferdinand_Raimund</idno>
                         <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/12468/detail</idno>
                     </person>
@@ -134,7 +134,7 @@
                             <forename>Ambrosius</forename>
                             <surname>Nestroy</surname>
                             <idno type="GND">http://d-nb.info/gnd/118587080</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q44862</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q44862</idno>
                             <idno type="Wienwiki"
                                 >https://www.geschichtewiki.wien.gv.at/Johann_Nestroy</idno>
                             <idno type="PMB">https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/12338/detail</idno>
@@ -156,7 +156,7 @@
                             <nameLink>von</nameLink>
                             <surname>Goethe</surname>
                             <idno type="GND">	http://d-nb.info/gnd/118540238</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q5879</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q5879</idno>
                         </name>
                     </person>
                     <person xml:id="P.Offenbach-Jaccques">
@@ -164,7 +164,7 @@
                             <forename>Jacques</forename>
                             <surname>Offenbach</surname>
                             <idno type="GND">http://d-nb.info/gnd/118589598</idno>
-                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q41555</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/entity/Q41555</idno>
                         </name>
                     </person>
                     <person xml:id="P.Niebergall-Ernst">
@@ -233,8 +233,8 @@
                         <name>
                             <forename>Conradin</forename>
                             <surname>Kreutzer</surname>
-                            <idno type="GND"/>
-                            <idno type="Wikidata"/>
+                            <idno type="GND">http://d-nb.info/gnd/11871600X</idno>
+                            <idno type="Wikidata">https://www.wikidata.org/wiki/Q458732</idno>
                             <idno type="Wienwiki"/>
                             <idno type="PMB"/>
                         </name>

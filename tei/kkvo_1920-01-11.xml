@@ -37,7 +37,7 @@
             <title>Vorlesungen Karl Kraus</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl source="#krausonline" xml:id="krausonline_7658">
+            <bibl type="krausonline" xml:id="krausonline_7658">
                <title level="a">154. Vorlesung am 11.01.1920</title>
                <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <title level="m">Karl Kraus Online</title>
@@ -49,7 +49,7 @@
                   type="fulllink"
                   >https://www.kraus.wienbibliothek.at/content/154-vorlesung-am-11011920</ref>
             </bibl>
-            <bibl source="#wienbib" xml:id="wienbib_1132421">
+            <bibl type="wienbib" xml:id="wienbib_1132421">
                <title>Vorlesung Karl Kraus. Wien, 1920.01.11</title>
                <author ref="person:P.Kraus-Karl">Karl Kraus</author>
                <publisher>Wienbibliothek im Rathaus</publisher>
@@ -65,7 +65,7 @@
                <ref target="https://www.digital.wienbibliothek.at/download/pdf/1132421" type="pdf"
                   >https://www.digital.wienbibliothek.at/download/pdf/1132421</ref>
             </bibl>
-            <bibl source="#fackel" xml:id="fackel_7ce369cd">
+            <bibl type="fackel" xml:id="fackel_7ce369cd">
                <note source="#krausonline_7658">Die Fackel 521-530, 01.1920, 98</note>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue">521-530</biblScope>
@@ -149,8 +149,8 @@
             </prefixDef>
             <prefixDef ident="work" matchPattern="(W\.\w+)"
                replacementPattern="entities/works.xml#$1">
-               <p>Im Projektkontext steht das Präfix "works" für Werke. Referenzen können mittels der Datei "kk_works" im Ordner
-                  "entities" aufgelöst werden.</p>
+               <p>Im Projektkontext steht das Präfix "works" für Werke. Referenzen können mittels
+                  der Datei "kk_works" im Ordner "entities" aufgelöst werden.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -244,86 +244,88 @@
             <p>VORLESUNG KARL KRAUS</p>
          </div>
          <div type="content">
-            <p><title ref="work:W.Kraus-Lammasch_und_die_Christen">Lammasch und die Christen</title> (Manuskript)</p>
+            <p><title ref="work:W.Kraus-Lammasch_und_die_Christen">Lammasch und die Christen</title>
+               (Manuskript)</p>
             <p>Aus: <title ref="work:W.Hauptmann-Die-Weber">Die Weber</title>.</p>
-         <p>Schauspiel aus den vierziger Jahren von <hi>Gerhart Hauptmann</hi></p>
-            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_I">I. Akt</title>: Fabrikantengruppe: Dreißiger Barchentfabrikant. Pfeifer, Expedient.
-            Neumann, Kassier. Der Lehrling. Webergruppe: <lb/>Bäcker. Der alte Baumert. Reimann.
-            Heiber. Erster Weber. Erste Weberfrau. Ein alter Weber. Ein Junge. Eine Anzahl
-            <lb/>Weber und Weberfrauen</p>
-            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_II">II. Akt</title>: Der alte Baumert. Mutter Baumert, seine Frau. August, ihr Sohn. Emma,
-            Bertha, ihre Töchter. Fritz, uneheliches Kind der Emma. <lb/>Der alte Ansorge, Jäusler
-            und Weber. Frau Heinrich, Weberfrau. Moritz Jäger, entlassener Soldat, ehermaliger
-            Webergeselle.</p>
-            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_IV">IV. Akt</title>: Bäcker. Moritz Jäger. Der alte Ansorge. Dreißiger. Pfiefer. Wittig,
-            Schmied. Kutsche, Gendarm. <lb/>Frau Dreißiger. Pastor Kittelhaus. Weinhold, Kandidat
-            der Theologie. Heide, Polizeiverwalter. Kutscher Johann. Junge <lb/>und alte Weber und
-            Weberfrauen.</p>
-         <p><lb/>Die erste vollständige Vorlesung der »Weber« hat am <lb/>23. August 1893
-            nachmittags in Ischl stattgefunden; ihr folgte <lb/>eine am 3. Oktober in München (im
-            großen Saal des <lb/>Museums); hierauf eine vom Allgemeinen Österreichischen
-            <lb/>Frauenverein, Dezember 1893, veranstaltete in Wien (im Saale <lb/>des
-            Gemeindehauses IX), des II. Aktes; eine ebensolche am 11. De- <lb/>zember 1894, an einem
-            Abend der Wiener Musik- und Theater- <lb/>Gesellschaft, an dem auch M. G. <lb/>Conrad
-            und Josef Lewinsky <lb/>mitgewirkt haben.</p>
-         <p>Von Pressestimmen zu diesen Vorlesungen sind nur zwei aufbewahrt.</p>
-         <p>Münchener Allgemeine Zeitung, 4. Oktober 1893, <lb/>Abendblatt:</p>
-         <p><lb/>μ München, 4. Oct. Der Akademisch-drama <lb/>tische Verein veranstaltet
-            literarische Vortragsabende, an <lb/>welchen moderne Dramen, die hier noch nicht
-            aufgeführt <lb/>wurden, zur Vorlesung gelangen. Gestern trug Hr. Karl Kraus,
-            <lb/>Schriftsteller aus Wien, Gerhart Hauptmanns „Weber“ <lb/>vor — dieses bedeutendste
-            Drama des jungen hochbegabten <lb/>Autors, das von den beiden Gewalten, die nach
-            Schiller die <lb/>Welt zusammenhalten, dem Hunger und der Liebe, die erstere <lb/>zum
-            einzigen Motiv gewählt hat, und zum Helden gab er ihm <lb/>einen ganzen Stand: die armen
-            schlesischen Weber der vierziger <lb/>Jahre. Noch gegenwärtig wird in Berlin um die
-            Aufführung <lb/>des Stückes gekämpft, denn wenn es auch alle Welt längst <lb/>durch die
-            Lectüre kennt, es ist nichts weniger als ein Lesedrama <lb/>und schreit förmlich nach
-            der Verkörperung auf der Bühne. <lb/>Daß es aber auch vorgetragen von großer Wirkung
-            ist, bewies <lb/>der gestrige Abend. Hr. Kraus ist eine blutjunge bartlose
-            <lb/>Erscheinung, der man, wenn sie in einem Piccolo-Jaquet das <lb/>Podium betritt,
-            kaum viel zuzutrauen geneigt ist. Anfangs war <lb/>er den Meisten auch schwer
-            verständlich, nicht weil er das <lb/>Original im schlesischen Dialekt las, sondern der
-            ziemlich <lb/>undeutlich hervorgesprudelten hochdeutschen Stellen wegen. Er <lb/>wuchs
-            aber mit seiner Aufgabe von Act zu Act, und man fühlte, <lb/>er ließ sich durch sie
-            begeistert mit fortreißen und beherrschte <lb/>sie doch wieder zugleich mit
-            ungewöhnlicher Gewandtheit. <lb/>Hr. Kraus besitzt eine ganz bedeutende
-            schauspielerische <lb/>Begabung. Gesicht und Bewegungen werden im Laufe der <lb/>Rede
-            immer ausdrucksvoller, und diese selbst weiß die zahl- <lb/>reichen Personen des Stückes
-            außerordentlich prägnant zu </p>
-         <p>
-            <lb/>charakterisiren. Der Vortrag, der im Museum stattfand, war leider nur von einem
-            sehr kleinen Publicum besucht, dieses zollte <lb/>jedoch, von der Kraft der Dichtung
-            hingerissen, dem jungen <lb/>Recitator nach jeder Pause freundliche Anerkennung, wenn
-            auch <lb/>der von 8 bis 11 Uhr dauernde Vortrag des einen Hunger- <lb/>themas zuletzt
-            die erschöpften Zuhörer in einen Zustand versetzte, <lb/>der dem der schlesischen Weber
-            nicht so unähnlich gewesen sein mag.</p>
-         <p>Neue Freie Presse, 15. Dezember 1893: Das jüngst <lb/>erschienene Heft einer deutschen
-            Revue enthält einen Münchener <lb/> Kunstbrief des Dr. M. G. Conrad, der die
-            »Weber«-Rezitation <lb/>des jungen Wiener Literaten Karl Kraus überaus anerkennend
-            <lb/>hervorhebt, es heißt dort unter anderm: »Eine rühmliche That <lb/>haben wir
-            wiederum dem unermüdlich strebsamen »Akademisch- <lb/>dramatischen Verein« zu verdanken:
-            die Vorlesung des  <lb/>Hauptmannschen Meisterwerkes »Die Weber«. Der Vorleser
-            <lb/>[unser wertgeschätzter Mitarbeiter] Karl Kraus aus Wien, <lb/>bewältigte die
-            schwierige Aufgabe mit ungemeinem Talente. <lb/>Einzelnes brachte er mit der Kunst
-            seines Vortrages und <lb/>erstaunlicher Beherrschung seiner charakterisierungskräftigen
-            <lb/>Stimmittel unübertrefflich zur Geltung, so namentlich den <lb/>ganzen zweiten und
-            vierten Akt. [Es war ein kleines, <lb/> ausgewähltes Publikum im Museums-Saale, das dem
-            Vortrage <lb/>lauschte. Karl Kraus erntete den wohlverdienten Beifall. Sein <lb/>Name
-            wird forthin neben den besten Rezitatoren als der eines <lb/>der kühnsten Bahnbrecher
-            auf dem Gebiete dramatischen Vortrages <lb/>mit Auszeichnung genannt werden.]«
-            Vergangenen Mittwoch las <lb/>Herr Kraus im Wiener Allgemeinen österreichischen
-            Frauenverein, <lb/>einer Einladung desselben folgend, den zweiten Akt der oben
-            <lb/>erwähnten Dichtung Hauptmanns nebst einer erläuternden Ein- <lb/>leitung und
-            erntete auch hier wohlverdienten Beifall.</p>
-         <p>Das Zitat war der Conrad’schen Monatsschrift »Die <lb/>Gesellschaft« (Leipzig,
-            Novemberheft 1893, »Aus dem Münchener <lb/>Kunstleben«) entnommen. Nicht vollständig.
-            Die eingeklammerten <lb/>Sätze hatte die Neue Freie Presse weggelassen. Namentlich
-            <lb/>die im Schlußsatz enthaltene Prophezeiung wollte die Neue <lb/>Freie Presse nicht
-            auf sich nehmen. Sie hielt sie für unerfüllbar <lb/>und sie hat recht behalten. Der Name
-            des Vortragenden ist <lb/>forthin neben den besten Rezitatoren als der eines der
-            kühnsten <lb/>Bahnbrecher auf dem Gebiete dramatischen Vortrages nicht <lb/>genannt
-            worden.</p>
-         <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
+            <p>Schauspiel aus den vierziger Jahren von <hi>Gerhart Hauptmann</hi></p>
+            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_I">I. Akt</title>: Fabrikantengruppe:
+               Dreißiger Barchentfabrikant. Pfeifer, Expedient. Neumann, Kassier. Der Lehrling.
+               Webergruppe: <lb/>Bäcker. Der alte Baumert. Reimann. Heiber. Erster Weber. Erste
+               Weberfrau. Ein alter Weber. Ein Junge. Eine Anzahl <lb/>Weber und Weberfrauen</p>
+            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_II">II. Akt</title>: Der alte Baumert.
+               Mutter Baumert, seine Frau. August, ihr Sohn. Emma, Bertha, ihre Töchter. Fritz,
+               uneheliches Kind der Emma. <lb/>Der alte Ansorge, Jäusler und Weber. Frau Heinrich,
+               Weberfrau. Moritz Jäger, entlassener Soldat, ehermaliger Webergeselle.</p>
+            <p><lb/><title ref="work:W.Hauptmann-Die_Weber_IV">IV. Akt</title>: Bäcker. Moritz
+               Jäger. Der alte Ansorge. Dreißiger. Pfiefer. Wittig, Schmied. Kutsche, Gendarm.
+               <lb/>Frau Dreißiger. Pastor Kittelhaus. Weinhold, Kandidat der Theologie. Heide,
+               Polizeiverwalter. Kutscher Johann. Junge <lb/>und alte Weber und Weberfrauen.</p>
+            <p><lb/>Die erste vollständige Vorlesung der »Weber« hat am <lb/>23. August 1893
+               nachmittags in Ischl stattgefunden; ihr folgte <lb/>eine am 3. Oktober in München (im
+               großen Saal des <lb/>Museums); hierauf eine vom Allgemeinen Österreichischen
+               <lb/>Frauenverein, Dezember 1893, veranstaltete in Wien (im Saale <lb/>des
+               Gemeindehauses IX), des II. Aktes; eine ebensolche am 11. De- <lb/>zember 1894, an
+               einem Abend der Wiener Musik- und Theater- <lb/>Gesellschaft, an dem auch M. G.
+               <lb/>Conrad und Josef Lewinsky <lb/>mitgewirkt haben.</p>
+            <p>Von Pressestimmen zu diesen Vorlesungen sind nur zwei aufbewahrt.</p>
+            <p>Münchener Allgemeine Zeitung, 4. Oktober 1893, <lb/>Abendblatt:</p>
+            <p><lb/>μ München, 4. Oct. Der Akademisch-drama <lb/>tische Verein veranstaltet
+               literarische Vortragsabende, an <lb/>welchen moderne Dramen, die hier noch nicht
+               aufgeführt <lb/>wurden, zur Vorlesung gelangen. Gestern trug Hr. Karl Kraus,
+               <lb/>Schriftsteller aus Wien, Gerhart Hauptmanns „Weber“ <lb/>vor — dieses
+               bedeutendste Drama des jungen hochbegabten <lb/>Autors, das von den beiden Gewalten,
+               die nach Schiller die <lb/>Welt zusammenhalten, dem Hunger und der Liebe, die erstere
+               <lb/>zum einzigen Motiv gewählt hat, und zum Helden gab er ihm <lb/>einen ganzen
+               Stand: die armen schlesischen Weber der vierziger <lb/>Jahre. Noch gegenwärtig wird
+               in Berlin um die Aufführung <lb/>des Stückes gekämpft, denn wenn es auch alle Welt
+               längst <lb/>durch die Lectüre kennt, es ist nichts weniger als ein Lesedrama <lb/>und
+               schreit förmlich nach der Verkörperung auf der Bühne. <lb/>Daß es aber auch
+               vorgetragen von großer Wirkung ist, bewies <lb/>der gestrige Abend. Hr. Kraus ist
+               eine blutjunge bartlose <lb/>Erscheinung, der man, wenn sie in einem Piccolo-Jaquet
+               das <lb/>Podium betritt, kaum viel zuzutrauen geneigt ist. Anfangs war <lb/>er den
+               Meisten auch schwer verständlich, nicht weil er das <lb/>Original im schlesischen
+               Dialekt las, sondern der ziemlich <lb/>undeutlich hervorgesprudelten hochdeutschen
+               Stellen wegen. Er <lb/>wuchs aber mit seiner Aufgabe von Act zu Act, und man fühlte,
+               <lb/>er ließ sich durch sie begeistert mit fortreißen und beherrschte <lb/>sie doch
+               wieder zugleich mit ungewöhnlicher Gewandtheit. <lb/>Hr. Kraus besitzt eine ganz
+               bedeutende schauspielerische <lb/>Begabung. Gesicht und Bewegungen werden im Laufe
+               der <lb/>Rede immer ausdrucksvoller, und diese selbst weiß die zahl- <lb/>reichen
+               Personen des Stückes außerordentlich prägnant zu </p>
+            <p>
+               <lb/>charakterisiren. Der Vortrag, der im Museum stattfand, war leider nur von einem
+               sehr kleinen Publicum besucht, dieses zollte <lb/>jedoch, von der Kraft der Dichtung
+               hingerissen, dem jungen <lb/>Recitator nach jeder Pause freundliche Anerkennung, wenn
+               auch <lb/>der von 8 bis 11 Uhr dauernde Vortrag des einen Hunger- <lb/>themas zuletzt
+               die erschöpften Zuhörer in einen Zustand versetzte, <lb/>der dem der schlesischen
+               Weber nicht so unähnlich gewesen sein mag.</p>
+            <p>Neue Freie Presse, 15. Dezember 1893: Das jüngst <lb/>erschienene Heft einer
+               deutschen Revue enthält einen Münchener <lb/> Kunstbrief des Dr. M. G. Conrad, der
+               die »Weber«-Rezitation <lb/>des jungen Wiener Literaten Karl Kraus überaus
+               anerkennend <lb/>hervorhebt, es heißt dort unter anderm: »Eine rühmliche That
+               <lb/>haben wir wiederum dem unermüdlich strebsamen »Akademisch- <lb/>dramatischen
+               Verein« zu verdanken: die Vorlesung des  <lb/>Hauptmannschen Meisterwerkes »Die
+               Weber«. Der Vorleser <lb/>[unser wertgeschätzter Mitarbeiter] Karl Kraus aus Wien,
+               <lb/>bewältigte die schwierige Aufgabe mit ungemeinem Talente. <lb/>Einzelnes brachte
+               er mit der Kunst seines Vortrages und <lb/>erstaunlicher Beherrschung seiner
+               charakterisierungskräftigen <lb/>Stimmittel unübertrefflich zur Geltung, so
+               namentlich den <lb/>ganzen zweiten und vierten Akt. [Es war ein kleines, <lb/>
+               ausgewähltes Publikum im Museums-Saale, das dem Vortrage <lb/>lauschte. Karl Kraus
+               erntete den wohlverdienten Beifall. Sein <lb/>Name wird forthin neben den besten
+               Rezitatoren als der eines <lb/>der kühnsten Bahnbrecher auf dem Gebiete dramatischen
+               Vortrages <lb/>mit Auszeichnung genannt werden.]« Vergangenen Mittwoch las <lb/>Herr
+               Kraus im Wiener Allgemeinen österreichischen Frauenverein, <lb/>einer Einladung
+               desselben folgend, den zweiten Akt der oben <lb/>erwähnten Dichtung Hauptmanns nebst
+               einer erläuternden Ein- <lb/>leitung und erntete auch hier wohlverdienten
+               Beifall.</p>
+            <p>Das Zitat war der Conrad’schen Monatsschrift »Die <lb/>Gesellschaft« (Leipzig,
+               Novemberheft 1893, »Aus dem Münchener <lb/>Kunstleben«) entnommen. Nicht vollständig.
+               Die eingeklammerten <lb/>Sätze hatte die Neue Freie Presse weggelassen. Namentlich
+               <lb/>die im Schlußsatz enthaltene Prophezeiung wollte die Neue <lb/>Freie Presse
+               nicht auf sich nehmen. Sie hielt sie für unerfüllbar <lb/>und sie hat recht behalten.
+               Der Name des Vortragenden ist <lb/>forthin neben den besten Rezitatoren als der eines
+               der kühnsten <lb/>Bahnbrecher auf dem Gebiete dramatischen Vortrages nicht
+               <lb/>genannt worden.</p>
+            <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
             <!-- wo dann die divs setzen? wirklich zwischen dem II. und IV. akt oben doch hier? Frage, ob 
             man das eher dem Vorlesungszettel getreu macht, oder ob man den Vorlesungscharakter / das event
             stärker gewichtet
@@ -334,14 +336,20 @@
             man orientiert sich an textuell-semantischen Vorgaben wie Aufzählungen, etc. wenn sowas nicht vorliegt,
             dann versucht man Einzeltexte in ein div zu packen
             -->
-            <div><p><title ref="work:W.Kraus-Gebet_an_die_Sonne_von_Gibeon">Gebet an die Sonne von Gibeon</title></p></div></div>
-         <div type="footer"><p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte Vorlesung
-            des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie <lb/>vorauszusehen, die Zeit
-            nach der Pause nicht ausreicht. Im andern Fall würde er anstatt des IV. Aktes der
-            »Weber« und des » Gebets an <lb/>die Sonne von Gibeon« gelesen werden.</p>
-         <p rend="line-bottom">Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p>
-         <p>Nächste Vorlesung: Ebenda, 15. Februar, ½3 Uhr: Aus eigenen Schriften</p>
-         <p>I.-20. J.&amp;S.</p>
+            <div>
+               <p><title ref="work:W.Kraus-Gebet_an_die_Sonne_von_Gibeon">Gebet an die Sonne von
+                     Gibeon</title></p>
+            </div>
+         </div>
+         <div type="footer">
+            <p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte
+               Vorlesung des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie
+               <lb/>vorauszusehen, die Zeit nach der Pause nicht ausreicht. Im andern Fall würde er
+               anstatt des IV. Aktes der »Weber« und des » Gebets an <lb/>die Sonne von Gibeon«
+               gelesen werden.</p>
+            <p rend="line-bottom">Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p>
+            <p>Nächste Vorlesung: Ebenda, 15. Februar, ½3 Uhr: Aus eigenen Schriften</p>
+            <p>I.-20. J.&amp;S.</p>
          </div>
       </body>
    </text>

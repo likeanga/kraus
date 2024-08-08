@@ -37,7 +37,7 @@
             <title>Vorlesungen Karl Kraus</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl source="#krausonline">
+            <bibl type="krausonline">
                <title level="a">Title</title>
                <author>Author</author>
                <title level="m">Karl Kraus Online</title>
@@ -46,7 +46,7 @@
                <ref type="shortlink" target=""/>
                <ref type="fulllink" target=""/>
             </bibl>
-            <bibl source="#wienbib">
+            <bibl type="wienbib">
                <title>Title</title>
                <author>Autor</author>
                <publisher>Wienbibliothek im Rathaus</publisher>
@@ -56,7 +56,7 @@
                <ref type="opaclink" target=""/>
                <ref type="pdf" target=""/>
             </bibl>
-            <bibl source="#fackel">
+            <bibl type="fackel">
                <note source="#krausonline"/>
                <title level="s">Die Fackel</title>
                <biblScope unit="issue"/>
