@@ -244,10 +244,10 @@
             <p>VORLESUNG KARL KRAUS</p>
          </div>
          <div type="content">
-            <p><title ref="work:W.Kraus-Lammasch_und_die_Christen">Lammasch und die Christen</title>
+            <p><lb/><title ref="work:W.Kraus-Lammasch_und_die_Christen">Lammasch und die Christen</title>
                (Manuskript)</p>
-            <p>Aus: <title ref="work:W.Hauptmann-Die-Weber">Die Weber</title>.</p>
-            <p>Schauspiel aus den vierziger Jahren von <hi>Gerhart Hauptmann</hi></p>
+            <p><lb/>Aus: <title ref="work:W.Hauptmann-Die-Weber">Die Weber</title>.</p>
+            <p><lb/>Schauspiel aus den vierziger Jahren von <hi>Gerhart Hauptmann</hi></p>
             <p><lb/><title ref="work:W.Hauptmann-Die_Weber_I">I. Akt</title>: Fabrikantengruppe:
                Dreißiger Barchentfabrikant. Pfeifer, Expedient. Neumann, Kassier. Der Lehrling.
                Webergruppe: <lb/>Bäcker. Der alte Baumert. Reimann. Heiber. Erster Weber. Erste
@@ -267,8 +267,8 @@
                Gemeindehauses IX), des II. Aktes; eine ebensolche am 11. De- <lb/>zember 1894, an
                einem Abend der Wiener Musik- und Theater- <lb/>Gesellschaft, an dem auch M. G.
                <lb/>Conrad und Josef Lewinsky <lb/>mitgewirkt haben.</p>
-            <p>Von Pressestimmen zu diesen Vorlesungen sind nur zwei aufbewahrt.</p>
-            <p>Münchener Allgemeine Zeitung, 4. Oktober 1893, <lb/>Abendblatt:</p>
+            <p><lb/>Von Pressestimmen zu diesen Vorlesungen sind nur zwei aufbewahrt.</p>
+            <p><lb/>Münchener Allgemeine Zeitung, 4. Oktober 1893, <lb/>Abendblatt:</p>
             <p><lb/>μ München, 4. Oct. Der Akademisch-drama <lb/>tische Verein veranstaltet
                literarische Vortragsabende, an <lb/>welchen moderne Dramen, die hier noch nicht
                aufgeführt <lb/>wurden, zur Vorlesung gelangen. Gestern trug Hr. Karl Kraus,
@@ -298,7 +298,7 @@
                auch <lb/>der von 8 bis 11 Uhr dauernde Vortrag des einen Hunger- <lb/>themas zuletzt
                die erschöpften Zuhörer in einen Zustand versetzte, <lb/>der dem der schlesischen
                Weber nicht so unähnlich gewesen sein mag.</p>
-            <p>Neue Freie Presse, 15. Dezember 1893: Das jüngst <lb/>erschienene Heft einer
+            <p><lb/>Neue Freie Presse, 15. Dezember 1893: Das jüngst <lb/>erschienene Heft einer
                deutschen Revue enthält einen Münchener <lb/> Kunstbrief des Dr. M. G. Conrad, der
                die »Weber«-Rezitation <lb/>des jungen Wiener Literaten Karl Kraus überaus
                anerkennend <lb/>hervorhebt, es heißt dort unter anderm: »Eine rühmliche That
@@ -317,7 +317,7 @@
                desselben folgend, den zweiten Akt der oben <lb/>erwähnten Dichtung Hauptmanns nebst
                einer erläuternden Ein- <lb/>leitung und erntete auch hier wohlverdienten
                Beifall.</p>
-            <p>Das Zitat war der Conrad’schen Monatsschrift »Die <lb/>Gesellschaft« (Leipzig,
+            <p><lb/>Das Zitat war der Conrad’schen Monatsschrift »Die <lb/>Gesellschaft« (Leipzig,
                Novemberheft 1893, »Aus dem Münchener <lb/>Kunstleben«) entnommen. Nicht vollständig.
                Die eingeklammerten <lb/>Sätze hatte die Neue Freie Presse weggelassen. Namentlich
                <lb/>die im Schlußsatz enthaltene Prophezeiung wollte die Neue <lb/>Freie Presse
@@ -325,7 +325,7 @@
                Der Name des Vortragenden ist <lb/>forthin neben den besten Rezitatoren als der eines
                der kühnsten <lb/>Bahnbrecher auf dem Gebiete dramatischen Vortrages nicht
                <lb/>genannt worden.</p>
-            <p>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
+            <p><lb/>Zwischen dem II. und dem IV. Akt zehn Minuten Pause.</p>
             <!-- wo dann die divs setzen? wirklich zwischen dem II. und IV. akt oben doch hier? Frage, ob 
             man das eher dem Vorlesungszettel getreu macht, oder ob man den Vorlesungscharakter / das event
             stärker gewichtet
@@ -337,19 +337,19 @@
             dann versucht man Einzeltexte in ein div zu packen
             -->
             <div>
-               <p><title ref="work:W.Kraus-Gebet_an_die_Sonne_von_Gibeon">Gebet an die Sonne von
+               <p><lb/><title ref="work:W.Kraus-Gebet_an_die_Sonne_von_Gibeon">Gebet an die Sonne von
                      Gibeon</title></p>
             </div>
          </div>
          <div type="footer">
-            <p rend="line-top-bottom">Änderungen vorbehalten. Die auf dem Plakat angekündigte
+            <p rend="line-top-bottom"><lb/>Änderungen vorbehalten. Die auf dem Plakat angekündigte
                Vorlesung des Epilogs »Die letzte Nacht« muß unterbleiben, wenn, wie
                <lb/>vorauszusehen, die Zeit nach der Pause nicht ausreicht. Im andern Fall würde er
                anstatt des IV. Aktes der »Weber« und des » Gebets an <lb/>die Sonne von Gibeon«
                gelesen werden.</p>
-            <p rend="line-bottom">Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p>
-            <p>Nächste Vorlesung: Ebenda, 15. Februar, ½3 Uhr: Aus eigenen Schriften</p>
-            <p>I.-20. J.&amp;S.</p>
+            <p rend="line-bottom"><lb/>Die Hälfte des Ertrags fällt der Kinderfürsorge zu.</p>
+            <p><lb/>Nächste Vorlesung: Ebenda, 15. Februar, ½3 Uhr: Aus eigenen Schriften</p>
+            <p><lb/>I.-20. J.&amp;S.</p>
          </div>
       </body>
    </text>

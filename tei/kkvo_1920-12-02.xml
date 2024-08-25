@@ -413,8 +413,8 @@
 
             </div>
             <div>
-               <p>Begleitung: <persName ref="person:P.Junk-Viktor">Dr. Viktor Junk</persName></p>
-               <p>Änderung und Kürzung vorbehalten.</p>
+               <p><lb/>Begleitung: <persName ref="person:P.Junk-Viktor">Dr. Viktor Junk</persName></p>
+               <p><lb/>Änderung und Kürzung vorbehalten.</p>
             </div>
          </div>
          <!-- Ende content-div -->
